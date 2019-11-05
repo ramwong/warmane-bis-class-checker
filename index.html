@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/app.css">
+    <title>Warmane Classes BiS Checker</title>
+</head>
+
+<body>
+    <div class="col-10 offset-1 mx-auto mt-3">
+        <h1 class="text-center">Warmane Classes BiS Checker</h1>
+        <div class="col mx-auto">
+            <div class="mt-2 row mx-auto">
+                <input id="inputItemName" type="text" class="col" placeholder="Search By Item's Name or..."></input>
+                <input id="startSearch" type="button" class="btn btn-small btn-primary" value="Search"
+                    onclick="changeSearch()" />
+            </div>
+            <div class="mt-2 row mx-auto">
+                <select id="classSelect" class="custom-select col">
+                    <option value="">Select a a class to get its specs</option>
+                </select>
+                <select id="specSelect" class="custom-select col" disabled="true">
+                    <option value="">Select a a spec to get its BiS</option>
+                </select>
+            </div>
+        </div>
+        <div id="itemTable" class="col mt-3 mx-auto" />
+    </div>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+        crossorigin="anonymous"></script>
+    <script type="text/javascript" src="js/data.js"></script>
+    <script type="text/javascript" src="js/app.js"></script>
+</body>
+
+</html>
