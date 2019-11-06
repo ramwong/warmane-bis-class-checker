@@ -1,8 +1,10 @@
 const itemTable = document.getElementById("itemTable");
 const inputItemName = document.getElementById('inputItemName');
 const inputItemNameValue = inputItemName.value.toLowerCase();
+const searchButton = document.getElementById('startSearch');
 const selectClassList = document.getElementById('classSelect');
 const selectSpecList = document.getElementById('specSelect');
+
 const itemsList = data;
 const tableClass = 'table table-dark table-striped text-center table-bordered table-sm'
 
@@ -36,6 +38,9 @@ addBisAsKey = (bisForClasses, classAndSpecName, bisName) => {
     if (!(bisName in bisForClasses)) {
         return bisForClasses[bisName] = classAndSpecName
     } else {
+        if (bisForClasses[bisName].match(classAndSpecName)) {
+            return;
+        };
         return bisForClasses[bisName] += classAndSpecName
     }
 };
@@ -67,6 +72,9 @@ rewriteHTMLTable = (data, inputValue) => {
 
                 if (typeof bisName === 'string') {
                     bis = specBisList[bisSlotName]
+                    if (bis === '-') {
+                        return;
+                    };
                     return addBisAsKey(bisForClasses, classAndSpecName, bis)
                 } else {
                     return bisName.map(key => {
@@ -102,10 +110,6 @@ initializeClassSelectList = (data) => {
 
 
 getBisListForSpec = (data, firstSelectValue, secondSelectValue) => {
-    console.log(data)
-    console.log(firstSelectValue)
-    console.log(secondSelectValue)
-
     itemTable.innerHTML = "";
     const bisForSpec = {};
 
@@ -122,8 +126,6 @@ getBisListForSpec = (data, firstSelectValue, secondSelectValue) => {
         if (firstSelectValue === className) {
             const classSpecValue = data[className];
 
-
-            console.log(className, secondSelectValue)
             Object.keys(classSpecValue).map(specName => {
                 if (secondSelectValue === specName) {
                     const specBisList = classSpecValue[specName];
@@ -143,8 +145,6 @@ getBisListForSpec = (data, firstSelectValue, secondSelectValue) => {
             })
         }
     });
-
-    console.log(bisForSpec)
 
     Object.keys(bisForSpec).map(key => {
         return newTable += (`
@@ -185,14 +185,24 @@ changeSelect = (e) => {
         inputItemName.disabled = true
         inputItemName.classList.add('disabled')
         selectSpecList.disabled = false
+        selectSpecList.classList.remove('disabled')
+        searchButton.disabled = true;
+        searchButton.classList.add('disabled')
+
+
         rewriteHTMLTable(itemsList, 'NoItemSelected')
         return setSpecListFromSelectedClass(data, e);
     } else {
         inputItemName.disabled = false
         inputItemName.classList.remove('disabled')
         selectSpecList.disabled = true
+        selectSpecList.classList.add('disabled')
+        searchButton.disabled = false;
+        searchButton.classList.remove('disabled')
+
+
         addOptionToSelectList('Select a a spec to get its BiS', selectSpecList)
-        return rewriteHTMLTable(itemsList)
+        return rewriteHTMLTable(itemsList, inputItemName.value.toLowerCase())
     };
 };
 
@@ -202,8 +212,8 @@ changeSpecSelect = (e) => {
 };
 
 
-changeSearch = (e) => {
-    return rewriteHTMLTable(itemsList, e.target.value.toLowerCase())
+changeSearch = () => {
+    return rewriteHTMLTable(itemsList, inputItemName.value.toLowerCase())
 };
 
 initializeClassSelectList(data);

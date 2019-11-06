@@ -12,8 +12,20 @@
 </head>
 
 <body>
-    <div class="col-10 offset-1 mx-auto mt-3">
-        <h1 class="text-center">Warmane Classes BiS Checker</h1>
+    <nav class="navbar sticky-top  navbar-dark bg-dark">
+        <a href="#" class="navbar-brand mr-auto">
+            Warmane Classes BiS Checker
+        </a>
+        <ul class="navbar-nav">
+            <li class="nav-item">
+                <a class="nav-link" href="https://github.com/Rdyx/warmane-bis-class-checker">
+                    <img src="./assets/github.svg" alt="github" />
+                    <span>Rdyx</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+    <div class="col-md-10 offset-md-1 mx-auto mt-3">
         <div class="col mx-auto">
             <div class="mt-2 row mx-auto">
                 <input id="inputItemName" type="text" class="col" placeholder="Search By Item's Name or..."></input>
@@ -24,7 +36,7 @@
                 <select id="classSelect" class="custom-select col">
                     <option value="">Select a a class to get its specs</option>
                 </select>
-                <select id="specSelect" class="custom-select col" disabled="true">
+                <select id="specSelect" class="custom-select col disabled" disabled="true">
                     <option value="">Select a a spec to get its BiS</option>
                 </select>
             </div>

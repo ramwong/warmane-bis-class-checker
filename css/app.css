@@ -3,15 +3,28 @@ body {
     color: #F0EBE0;
 }
 
-input {
-    border: 1px solid 0F0F0F;
-    border-radius: 5px;
-    background-color: F0EBE0;
-    color: 0F0F0F;
+img {
+    max-height: 25px;
 }
 
-tbody {
-    border-radius: 5px !important;
+nav.navbar > * {
+    color: #F0EBE0 !important;
+}
+
+input {
+    border: 1px solid #0F0F0F;
+    border-radius: 5px;
+    background-color: #F0EBE0;
+    color: #0F0F0F;
+}
+
+input.disabled::placeholder {
+    color: #F0EBE0 !important;
+}
+
+.custom-select {
+    background-color: #F0EBE0;
+    color: #0F0F0F;
 }
 
 .big {
@@ -27,5 +40,8 @@ tr {
 }
 
 .disabled {
-    color: lightgrey;
+    border: 1px solid #F0EBE0;
+    background-color: #0F0F0F !important;
+    color: #F0EBE0 !important;
+    transition: all 0.2s ease;
 }
