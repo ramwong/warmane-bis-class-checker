@@ -8,6 +8,9 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
         integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="css/app.css">
+    <script>const whTooltips = { colorLinks: false, iconizeLinks: false, renameLinks: true };</script>
+    <script src="https://wow.zamimg.com/js/tooltips.js"></script>
+
     <title>Warmane Classes BiS Checker</title>
 </head>
 
@@ -27,6 +30,12 @@
     </nav>
     <div class="col-md-10 offset-md-1 mx-auto mt-3">
         <div class="col mx-auto">
+            <div class="mt-2 row mx-auto">
+                <select id="languages" name="languages">
+                    <option value="en">English</option>
+                    <option value="cn">中文</option>
+                </select>
+            </div>
             <div class="mt-2 row mx-auto">
                 <input id="inputItemName" type="text" class="col" placeholder="Search By Item's Name or..."></input>
                 <input id="startSearch" type="button" class="btn btn-small btn-primary" value="Search"

@@ -45,6 +45,27 @@ addBisAsKey = (bisForClasses, classAndSpecName, bisName) => {
     }
 };
 
+const searchValue = "wotlk/"
+let replaceValue = "wotlk/"
+
+const languageList = document.getElementById("languages");
+languageList.addEventListener("change", ()=>{
+    language = languageList.value;
+    if(language === "en"){
+        replaceValue = "wotlk/"
+        linkSearchValue = "https://www.wowhead.com/wotlk/item="
+    }else if(language === "cn"){
+        replaceValue = "wotlk/cn/"
+        linkSearchValue = "https://www.wowhead.com/wotlk/cn/item="
+    }
+    //.replace(searchValue,replaceValue)
+    if(currentE){
+        changeSelect(currentE)
+    }else{
+        rewriteHTMLTable(itemsList, inputItemNameValue);
+    }
+})
+
 
 rewriteHTMLTable = (data, inputValue) => {
     itemTable.innerHTML = "";
@@ -57,7 +78,7 @@ rewriteHTMLTable = (data, inputValue) => {
                 <th>Classes</th>
             </tr>
             <tr>`
-    );
+    ); 
 
 
     Object.keys(data).map(className => {
@@ -71,7 +92,7 @@ rewriteHTMLTable = (data, inputValue) => {
                 const classAndSpecName = `<span style="color: #${classColor(className)}">${className + ' ' + specName}</span><br/>`
 
                 if (typeof bisName === 'string') {
-                    bis = specBisList[bisSlotName]
+                    bis = specBisList[bisSlotName].replace(searchValue,replaceValue)
                     if (bis === '-') {
                         return;
                     };
@@ -134,7 +155,7 @@ getBisListForSpec = (data, firstSelectValue, secondSelectValue) => {
                         const bisName = specBisList[bisSlotName]
 
                         if (typeof bisName === 'string') {
-                            bisForSpec[bisSlotName] = bisName;
+                            bisForSpec[bisSlotName] = bisName.replace(searchValue,replaceValue);
                         } else {
                             bisForSpec[bisSlotName] = bisName.join(' / ');
                         }
@@ -176,11 +197,12 @@ setSpecListFromSelectedClass = (data, e) => {
     });
 };
 
+let currentE;
 
 changeSelect = (e) => {
+    currentE = e
     // Reset spec selection
     selectSpecList.options.length = 0
-
     if (e.target.value !== '') {
         inputItemName.disabled = true
         inputItemName.classList.add('disabled')
