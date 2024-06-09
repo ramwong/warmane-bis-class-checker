@@ -1336,8 +1336,8 @@ const data = {
             "Back": `<a href="https://www.wowhead.com/wotlk/item=54583/" target="_blank">Cloak of Burning Dusk</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
                 <td>Back`,
-            "Chest": `<a href="https://www.wowhead.com/wotlk/item=51259/" target="_blank">Shadow Set (T10 Chest (Sanctified Crimson Acolyte Raiments))</a></td>
-                <td>Dalaran</td>
+            "Chest": `<a href="https://www.wowhead.com/wotlk/item=51259/" target="_blank">Sanctified Crimson Acolyte Raiments (Shadow Set T10 Chest)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Cloth`,
             "Wrist": `<a href="https://www.wowhead.com/wotlk/item=54582/" target="_blank">Bracers of Fiery Night</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
@@ -1406,8 +1406,8 @@ const data = {
             "Waist": `<a href="https://www.wowhead.com/wotlk/item=50702/" target="_blank">Lingering Illness</a></td>
                 <td>Festergut<br/>(Icecrown Citadel 25H)</td>
                 <td>Cloth`,
-            "Legs": `<a href="https://www.wowhead.com/wotlk/item=51258/" target="_blank">Shadow Set (T10 Legs (Sanctified Crimson Acolyte Pants))</a></td>
-                <td>Dalaran</td>
+            "Legs": `<a href="https://www.wowhead.com/wotlk/item=51258/" target="_blank">Sanctified Crimson Acolyte Pants (Shadow Set T10 Legs)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Cloth`,
             "Feet": `<a href="https://www.wowhead.com/wotlk/item=50699/" target="_blank">Plague Scientist's Boots</a></td>
                 <td>Festergut<br/>(Icecrown Citadel 25H)</td>
