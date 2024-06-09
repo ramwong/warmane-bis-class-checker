@@ -605,8 +605,8 @@ const data = {
             'Trinket 2': '<a href="https://www.wowhead.com/wotlk/item=54588/" target="_blank">Charred Twilight Scale</a>',
             'Weapon': '<a href="https://www.wowhead.com/wotlk/item=50734/" target="_blank">Royal Scepter of Terenas II</a>',
             'Offhand/Shield': '<a href="https://www.wowhead.com/wotlk/item=50616/" target="_blank">Bulwark of Smouldering Steel</a>',
-            'Relic/Ranged': ['<a href="https://www.wowhead.com/wotlk/item=49623/" target="_blank">Bizuri\'s Totem of Shattered Ice</a>', 
-                '<a href="https://www.wowhead.com/wotlk/item=49623/" target="_blank">Totem of Hex</a>'],
+            'Relic/Ranged': ['<a href="https://www.wowhead.com/wotlk/item=50458/" target="_blank">Bizuri\'s Totem of Shattered Ice</a>', 
+                '<a href="https://www.wowhead.com/wotlk/item=40267/" target="_blank">Totem of Hex</a>'],
         },
         'ELEMENTAL HASTE': {
             'Head': '<a href="https://www.wowhead.com/wotlk/item=51237/" target="_blank">T10 Head (Sanctified Frost Witch\'s Helm)</a>',
@@ -625,7 +625,7 @@ const data = {
             'Trinket 2': '<a href="https://www.wowhead.com/wotlk/item=54588/" target="_blank">Charred Twilight Scale</a>',
             'Weapon': '<a href="https://www.wowhead.com/wotlk/item=50734/" target="_blank">Royal Scepter of Terenas II</a>',
             'Offhand/Shield': '<a href="https://www.wowhead.com/wotlk/item=50616/" target="_blank">Bulwark of Smouldering Steel</a>',
-            'Relic/Ranged': '<a href="https://www.wowhead.com/wotlk/item=49623/" target="_blank">Bizuri\'s Totem of Shattered Ice</a>',
+            'Relic/Ranged': '<a href="https://www.wowhead.com/wotlk/item=50458/" target="_blank">Bizuri\'s Totem of Shattered Ice</a>',
         },
         'RESTORATION': {
             'Head': '<a href="https://www.wowhead.com/wotlk/item=51247/" target="_blank">T10 Head (Sanctified Frost Witch\'s Headpiece)</a>',
@@ -645,7 +645,7 @@ const data = {
             'Weapon': '<a href="https://www.wowhead.com/wotlk/item=50734/" target="_blank">Royal Scepter of Terenas II</a>',
             'Offhand/Shield': '<a href="https://www.wowhead.com/wotlk/item=50616/" target="_blank">Bulwark of Smouldering Steel</a>',
             'Relic/Ranged': ['<a href="https://www.wowhead.com/wotlk/item=49623/" target="_blank">Totem of Calming Tides</a>', 
-                '<a href="https://www.wowhead.com/wotlk/item=49623/" target="_blank">Bizuri\'s Totem of Shattered Ice</a>'],
+                '<a href="https://www.wowhead.com/wotlk/item=50458/" target="_blank">Bizuri\'s Totem of Shattered Ice</a>'],
         },
         'ENHANCEMENT SINGLE TARGET': {
             'Head': '<a href="https://www.wowhead.com/wotlk/item=51242/" target="_blank">T10 Head (Sanctified Frost Witch\'s Faceguard)</a>',
