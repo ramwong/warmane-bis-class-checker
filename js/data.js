@@ -607,7 +607,7 @@ const data = {
                 <td>One-Handed Maces`,
             "Offhand/Shield": `<a href="https://www.wowhead.com/wotlk/item=50719/" target="_blank">Shadow Silk Spindle</a></td>
                 <td>Prince Valanar<br/>(Icecrown Citadel 25H)</td>
-                <td>Off-hand Frillss`,
+                <td>Off-hand Frills`,
             "Relic/Ranged": `<a href="https://www.wowhead.com/wotlk/item=50457/" target="_blank">Idol of the Lunar Eclipse</a></td>
                 <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x30</td>
                 <td>Idol`,
@@ -783,7 +783,7 @@ const data = {
                 <td>One-Handed Swords`,
             "Offhand/Shield": `<a href="https://www.wowhead.com/wotlk/item=50719/" target="_blank">Shadow Silk Spindle</a></td>
                 <td>Prince Valanar<br/>(Icecrown Citadel 25H)</td>
-                <td>Off-hand Frillss`,
+                <td>Off-hand Frills`,
             "Relic/Ranged": `<a href="https://www.wowhead.com/wotlk/item=50684/" target="_blank">Corpse Impaling Spike</a></td>
                 <td>Rotface<br/>(Icecrown Citadel 25H)</td>
                 <td>Wands`,
@@ -836,7 +836,7 @@ const data = {
                 <td>One-Handed Swords`,
             "Offhand/Shield": `<a href="https://www.wowhead.com/wotlk/item=50719/" target="_blank">Shadow Silk Spindle</a></td>
                 <td>Prince Valanar<br/>(Icecrown Citadel 25H)</td>
-                <td>Off-hand Frillss`,
+                <td>Off-hand Frills`,
             "Relic/Ranged": `<a href="https://www.wowhead.com/wotlk/item=50684/" target="_blank">Corpse Impaling Spike</a></td>
                 <td>Rotface<br/>(Icecrown Citadel 25H)</td>
                 <td>Wands`,
@@ -1265,7 +1265,7 @@ const data = {
                 <td>One-Handed Maces`,
             "Offhand/Shield": `<a href="https://www.wowhead.com/wotlk/item=50719/" target="_blank">Shadow Silk Spindle</a></td>
                 <td>Prince Valanar<br/>(Icecrown Citadel 25H)</td>
-                <td>Off-hand Frillss`,
+                <td>Off-hand Frills`,
             "Relic/Ranged": `<a href="https://www.wowhead.com/wotlk/item=50684/" target="_blank">Corpse Impaling Spike</a></td>
                 <td>Rotface<br/>(Icecrown Citadel 25H)</td>
                 <td>Wands`,
@@ -1318,7 +1318,7 @@ const data = {
                 <td>One-Handed Maces`,
             "Offhand/Shield": `<a href="https://www.wowhead.com/wotlk/item=50719/" target="_blank">Shadow Silk Spindle</a></td>
                 <td>Prince Valanar<br/>(Icecrown Citadel 25H)</td>
-                <td>Off-hand Frillss`,
+                <td>Off-hand Frills`,
             "Relic/Ranged": `<a href="https://www.wowhead.com/wotlk/item=50684/" target="_blank">Corpse Impaling Spike</a></td>
                 <td>Rotface<br/>(Icecrown Citadel 25H)</td>
                 <td>Wands`,
@@ -1376,7 +1376,7 @@ const data = {
                 <td>One-Handed Maces`,
             "Offhand/Shield": `<a href="https://www.wowhead.com/wotlk/item=50719/" target="_blank">Shadow Silk Spindle</a></td>
                 <td>Prince Valanar<br/>(Icecrown Citadel 25H)</td>
-                <td>Off-hand Frillss`,
+                <td>Off-hand Frills`,
             "Relic/Ranged": `<a href="https://www.wowhead.com/wotlk/item=50684/" target="_blank">Corpse Impaling Spike</a></td>
                 <td>Rotface<br/>(Icecrown Citadel 25H)</td>
                 <td>Wands`,
@@ -1429,7 +1429,7 @@ const data = {
                 <td>One-Handed Maces`,
             "Offhand/Shield": `<a href="https://www.wowhead.com/wotlk/item=50719/" target="_blank">Shadow Silk Spindle</a></td>
                 <td>Prince Valanar<br/>(Icecrown Citadel 25H)</td>
-                <td>Off-hand Frillss`,
+                <td>Off-hand Frills`,
             "Relic/Ranged": `<a href="https://www.wowhead.com/wotlk/item=50631/" target="_blank">Nightmare Ender</a></td>
                 <td>Cache of the Dreamwalker<br/>(Icecrown Citadel 25H)</td>
                 <td>Wand`,
@@ -1994,7 +1994,7 @@ const data = {
                 <td>One-Handed Swords`,
             "Offhand/Shield": `<a href="https://www.wowhead.com/wotlk/item=50719/" target="_blank">Shadow Silk Spindle</a></td>
                 <td>Prince Valanar<br/>(Icecrown Citadel 25H)</td>
-                <td>Off-hand Frillss`,
+                <td>Off-hand Frills`,
             "Relic/Ranged": `<a href="https://www.wowhead.com/wotlk/item=50684/" target="_blank">Corpse Impaling Spike</a></td>
                 <td>Rotface<br/>(Icecrown Citadel 25H)</td>
                 <td>Wands`,
@@ -2047,7 +2047,7 @@ const data = {
                 <td>One-Handed Swords`,
             "Offhand/Shield": `<a href="https://www.wowhead.com/wotlk/item=50719/" target="_blank">Shadow Silk Spindle</a></td>
                 <td>Prince Valanar<br/>(Icecrown Citadel 25H)</td>
-                <td>Off-hand Frillss`,
+                <td>Off-hand Frills`,
             "Relic/Ranged": `<a href="https://www.wowhead.com/wotlk/item=50684/" target="_blank">Corpse Impaling Spike</a></td>
                 <td>Rotface<br/>(Icecrown Citadel 25H)</td>
                 <td>Wands`,
@@ -2100,7 +2100,7 @@ const data = {
                 <td>One-Handed Swords`,
             "Offhand/Shield": `<a href="https://www.wowhead.com/wotlk/item=50719/" target="_blank">Shadow Silk Spindle</a></td>
                 <td>Prince Valanar<br/>(Icecrown Citadel 25H)</td>
-                <td>Off-hand Frillss`,
+                <td>Off-hand Frills`,
             "Relic/Ranged": `<a href="https://www.wowhead.com/wotlk/item=50684/" target="_blank">Corpse Impaling Spike</a></td>
                 <td>Rotface<br/>(Icecrown Citadel 25H)</td>
                 <td>Wands`,
