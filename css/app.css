@@ -31,7 +31,7 @@ input.disabled::placeholder {
     font-weight: 900;
 }
 
-.semi-big {
+td {
     font-weight: 700;
 }
 
@@ -47,5 +47,5 @@ tr {
 }
 
 td a {
-    color: #a335ee
+    color: #a335ee;
 }
