@@ -644,7 +644,7 @@ const data = {
             'Trinket 2': '<a href="https://www.wowhead.com/wotlk/item=47432/" target="_blank">Solace of the Fallen</a>',
             'Weapon': '<a href="https://www.wowhead.com/wotlk/item=50734/" target="_blank">Royal Scepter of Terenas II</a>',
             'Offhand/Shield': '<a href="https://www.wowhead.com/wotlk/item=50616/" target="_blank">Bulwark of Smouldering Steel</a>',
-            'Relic/Ranged': ['<a href="https://www.wowhead.com/wotlk/item=49623/" target="_blank">Totem of Calming Tides</a>', 
+            'Relic/Ranged': ['<a href="https://www.wowhead.com/wotlk/item=47665/" target="_blank">Totem of Calming Tides</a>', 
                 '<a href="https://www.wowhead.com/wotlk/item=50458/" target="_blank">Bizuri\'s Totem of Shattered Ice</a>'],
         },
         'ENHANCEMENT SINGLE TARGET': {
