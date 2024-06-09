@@ -99,7 +99,7 @@ rewriteHTMLTable = (data, inputValue) => {
                     return addBisAsKey(bisForClasses, classAndSpecName, bis)
                 } else {
                     return bisName.map(key => {
-                        return addBisAsKey(bisForClasses, classAndSpecName, key)
+                        return addBisAsKey(bisForClasses, classAndSpecName, key.replace(searchValue,replaceValue))
                     })
                 };
             });
