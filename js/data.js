@@ -572,13 +572,13 @@ const data = {
                 <td>Leather`,
             "Wrist": `<a href="https://www.wowhead.com/wotlk/item=54582/" target="_blank">Bracers of Fiery Night</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
-                <td>Colth`,
+                <td>Cloth`,
             "Hands": `<a href="https://www.wowhead.com/wotlk/item=51291/" target="_blank">Sanctified Lasherweave Gloves (T10 Hands)</a></td>
                 <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Leather`,
             "Waist": `<a href="https://www.wowhead.com/wotlk/item=50613/" target="_blank">Crushing Coldwraith Belt</a></td>
                 <td>Lord Marrowgar<br/>(Icecrown Citadel 25H)</td>
-                <td>Colth`,
+                <td>Cloth`,
             "Legs": `<a href="https://www.wowhead.com/wotlk/item=51293/" target="_blank">Sanctified Lasherweave Trousers (T10 Legs)</a></td>
                 <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Leather`,
@@ -630,7 +630,7 @@ const data = {
                 <td>Cloth`,
             "Wrist": `<a href="https://www.wowhead.com/wotlk/item=54582/" target="_blank">Bracers of Fiery Night</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
-                <td>Colth`,
+                <td>Cloth`,
             "Hands": `<a href="https://www.wowhead.com/wotlk/item=51301/" target="_blank">anctified Lasherweave Gauntlets (T10 Hands)</a></td>
                 <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Leather`,
@@ -753,13 +753,13 @@ const data = {
                 <td>Cloth`,
             "Wrist": `<a href="https://www.wowhead.com/wotlk/item=54582/" target="_blank">Bracers of Fiery Night</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
-                <td>Colth`,
+                <td>Cloth`,
             "Hands": `<a href="https://www.wowhead.com/wotlk/item=51280/" target="_blank">Sanctified Bloodmage Gloves (T10 Hands)</a></td>
                 <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Cloth`,
             "Waist": `<a href="https://www.wowhead.com/wotlk/item=50613/" target="_blank">Crushing Coldwraith Belt</a></td>
                 <td>Lord Marrowgar<br/>(Icecrown Citadel 25H)</td>
-                <td>Colth`,
+                <td>Cloth`,
             "Legs": `<a href="https://www.wowhead.com/wotlk/item=51282/" target="_blank">Sanctified Bloodmage Leggings (T10 Legs)</a></td>
                 <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Cloth`,
@@ -806,13 +806,13 @@ const data = {
                 <td>Cloth`,
             "Wrist": `<a href="https://www.wowhead.com/wotlk/item=54582/" target="_blank">Bracers of Fiery Night</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
-                <td>Colth`,
+                <td>Cloth`,
             "Hands": `<a href="https://www.wowhead.com/wotlk/item=51280/" target="_blank">Sanctified Bloodmage Gloves (T10 Hands)</a></td>
                 <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Cloth`,
             "Waist": `<a href="https://www.wowhead.com/wotlk/item=50613/" target="_blank">Crushing Coldwraith Belt</a></td>
                 <td>Lord Marrowgar<br/>(Icecrown Citadel 25H)</td>
-                <td>Colth`,
+                <td>Cloth`,
             "Legs": `<a href="https://www.wowhead.com/wotlk/item=50694/" target="_blank">Plaguebringer's Stained Pants</a></td>
                 <td>Festergut<br/>(Icecrown Citadel 25H)</td>
                 <td>Cloth`,
@@ -862,7 +862,7 @@ const data = {
             "Wrist": [
                 `<a href="https://www.wowhead.com/wotlk/item=54582/" target="_blank">Bracers of Fiery Night</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
-                <td>Colth`,
+                <td>Cloth`,
                 `<a href="https://www.wowhead.com/wotlk/item=54584/" target="_blank">Phaseshifter's Bracers</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
                 <td>Leather`,
@@ -1235,13 +1235,13 @@ const data = {
                 <td>Cloth`,
             "Wrist": `<a href="https://www.wowhead.com/wotlk/item=54582/" target="_blank">Bracers of Fiery Night</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
-                <td>Colth`,
+                <td>Cloth`,
             "Hands": `<a href="https://www.wowhead.com/wotlk/item=50663/" target="_blank">Gunship Captain's Mittens</a></td>
                 <td>Gunship<br/>(Icecrown Citadel 25H)</td>
                 <td>Cloth`,
             "Waist": `<a href="https://www.wowhead.com/wotlk/item=50613/" target="_blank">Crushing Coldwraith Belt</a></td>
                 <td>Lord Marrowgar<br/>(Icecrown Citadel 25H)</td>
-                <td>Colth`,
+                <td>Cloth`,
             "Legs": `<a href="https://www.wowhead.com/wotlk/item=51258/" target="_blank">Sanctified Crimson Acolyte Pants (T10 Legs)</a></td>
                 <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Cloth`,
@@ -1288,13 +1288,13 @@ const data = {
                 <td>Cloth`,
             "Wrist": `<a href="https://www.wowhead.com/wotlk/item=54582/" target="_blank">Bracers of Fiery Night</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
-                <td>Colth`,
+                <td>Cloth`,
             "Hands": `<a href="https://www.wowhead.com/wotlk/item=51256/" target="_blank">Sanctified Crimson Acolyte Handwraps (T10 Hands)</a></td>
                 <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Cloth`,
             "Waist": `<a href="https://www.wowhead.com/wotlk/item=50613/" target="_blank">Crushing Coldwraith Belt</a></td>
                 <td>Lord Marrowgar<br/>(Icecrown Citadel 25H)</td>
-                <td>Colth`,
+                <td>Cloth`,
             "Legs": `<a href="https://www.wowhead.com/wotlk/item=50694/" target="_blank">Plaguebringer's Stained Pants</a></td>
                 <td>Festergut<br/>(Icecrown Citadel 25H)</td>
                 <td>Cloth`,
@@ -1341,7 +1341,7 @@ const data = {
                 <td>Cloth`,
             "Wrist": `<a href="https://www.wowhead.com/wotlk/item=54582/" target="_blank">Bracers of Fiery Night</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
-                <td>Colth`,
+                <td>Cloth`,
             "Hands": `<a href="https://www.wowhead.com/wotlk/item=51260/" target="_blank">Sanctified Crimson Acolyte Gloves (T10 Hands)</a></td>
                 <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Cloth`,
@@ -1399,7 +1399,7 @@ const data = {
                 <td>Cloth`,
             "Wrist": `<a href="https://www.wowhead.com/wotlk/item=54582/" target="_blank">Bracers of Fiery Night</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
-                <td>Colth`,
+                <td>Cloth`,
             "Hands": `<a href="https://www.wowhead.com/wotlk/item=51260/" target="_blank">Sanctified Crimson Acolyte Gloves (T10 Hands)</a></td>
                 <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Cloth`,
@@ -1452,13 +1452,13 @@ const data = {
                 <td>Cloth`,
             "Wrist": `<a href="https://www.wowhead.com/wotlk/item=54582/" target="_blank">Bracers of Fiery Night</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
-                <td>Colth`,
+                <td>Cloth`,
             "Hands": `<a href="https://www.wowhead.com/wotlk/item=51260/" target="_blank">Sanctified Crimson Acolyte Gloves (T10 Hands)</a></td>
                 <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Cloth`,
             "Waist": `<a href="https://www.wowhead.com/wotlk/item=50613/" target="_blank">Crushing Coldwraith Belt</a></td>
                 <td>Lord Marrowgar<br/>(Icecrown Citadel 25H)</td>
-                <td>Colth`,
+                <td>Cloth`,
             "Legs": `<a href="https://www.wowhead.com/wotlk/item=51262/" target="_blank">Sanctified Crimson Acolyte Leggings (T10 Legs)</a></td>
                 <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Cloth`,
@@ -1677,7 +1677,7 @@ const data = {
                 <td>Mail`,
             "Wrist": `<a href="https://www.wowhead.com/wotlk/item=54582/" target="_blank">Bracers of Fiery Night</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
-                <td>Colth`,
+                <td>Cloth`,
             "Hands": `<a href="https://www.wowhead.com/wotlk/item=51238/" target="_blank">Sanctified Frost Witch's Gloves (T10 Hands)</a></td>
                 <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Mail`,
@@ -1735,7 +1735,7 @@ const data = {
                 <td>Mail`,
             "Wrist": `<a href="https://www.wowhead.com/wotlk/item=54582/" target="_blank">Bracers of Fiery Night</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
-                <td>Colth`,
+                <td>Cloth`,
             "Hands": `<a href="https://www.wowhead.com/wotlk/item=51238/" target="_blank">Sanctified Frost Witch's Gloves (T10 Hands)</a></td>
                 <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Mail`,
@@ -1789,7 +1789,7 @@ const data = {
             "Wrist": [
                 `<a href="https://www.wowhead.com/wotlk/item=54582/" target="_blank">Bracers of Fiery Night</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
-                <td>Colth`,
+                <td>Cloth`,
                 `<a href="https://www.wowhead.com/wotlk/item=54584/" target="_blank">Phaseshifter's Bracers</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
                 <td>Leather`,
@@ -1964,13 +1964,13 @@ const data = {
                 <td>Cloth`,
             "Wrist": `<a href="https://www.wowhead.com/wotlk/item=54582/" target="_blank">Bracers of Fiery Night</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
-                <td>Colth`,
+                <td>Cloth`,
             "Hands": `<a href="https://www.wowhead.com/wotlk/item=51230/" target="_blank">Sanctified Dark Coven Gloves (T10 Hands)</a></td>
                 <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Cloth`,
             "Waist": `<a href="https://www.wowhead.com/wotlk/item=50613/" target="_blank">Crushing Coldwraith Belt</a></td>
                 <td>Lord Marrowgar<br/>(Icecrown Citadel 25H)</td>
-                <td>Colth`,
+                <td>Cloth`,
             "Legs": `<a href="https://www.wowhead.com/wotlk/item=50694/" target="_blank">Plaguebringer's Stained Pants</a></td>
                 <td>Festergut<br/>(Icecrown Citadel 25H)</td>
                 <td>Cloth`,
@@ -2017,13 +2017,13 @@ const data = {
                 <td>Cloth`,
             "Wrist": `<a href="https://www.wowhead.com/wotlk/item=54582/" target="_blank">Bracers of Fiery Night</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
-                <td>Colth`,
+                <td>Cloth`,
             "Hands": `<a href="https://www.wowhead.com/wotlk/item=50663/" target="_blank">Gunship Captain's Mittens</a></td>
                 <td>Gunship<br/>(Icecrown Citadel 25H)</td>
                 <td>Cloth`,
             "Waist": `<a href="https://www.wowhead.com/wotlk/item=50613/" target="_blank">Crushing Coldwraith Belt</a></td>
                 <td>Lord Marrowgar<br/>(Icecrown Citadel 25H)</td>
-                <td>Colth`,
+                <td>Cloth`,
             "Legs": `<a href="https://www.wowhead.com/wotlk/item=51232/" target="_blank">Sanctified Dark Coven Leggings (T10 Legs)</a></td>
                 <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Cloth`,
@@ -2070,13 +2070,13 @@ const data = {
                 <td>Cloth`,
             "Wrist": `<a href="https://www.wowhead.com/wotlk/item=54582/" target="_blank">Bracers of Fiery Night</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
-                <td>Colth`,
+                <td>Cloth`,
             "Hands": `<a href="https://www.wowhead.com/wotlk/item=51230/" target="_blank">Sanctified Dark Coven Gloves (T10 Hands)</a></td>
                 <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Cloth`,
             "Waist": `<a href="https://www.wowhead.com/wotlk/item=50613/" target="_blank">Crushing Coldwraith Belt</a></td>
                 <td>Lord Marrowgar<br/>(Icecrown Citadel 25H)</td>
-                <td>Colth`,
+                <td>Cloth`,
             "Legs": `<a href="https://www.wowhead.com/wotlk/item=50694/" target="_blank">Plaguebringer's Stained Pants</a></td>
                 <td>Festergut<br/>(Icecrown Citadel 25H)</td>
                 <td>Cloth`,
