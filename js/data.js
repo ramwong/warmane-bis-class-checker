@@ -1712,7 +1712,9 @@ const data = {
                 `<a href="https://www.wowhead.com/wotlk/item=50458/" target="_blank">Bizuri's Totem of Shattered Ice</a></td>
                 <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x30</td>
                 <td>Totem`,
-                `<a href="https://www.wowhead.com/wotlk/item=40267/" target="_blank">Totem of Hex</a>`,
+                `<a href="https://www.wowhead.com/wotlk/item=40267/" target="_blank">Totem of Hex</a></a></td>
+                <td>patchwerk (Naxxramas 25)<br/>or<br/>Dalaran <a href="https://www.wowhead.com/wotlk/currency=102/" target="_blank">Emblem of Valor</a> x25</td>
+                <td>Totem`,
             ],
         },
         "ELEMENTAL HASTE": {
