@@ -58,7 +58,7 @@ languageList.addEventListener("change", ()=>{
         replaceValue = "wotlk/cn/"
         linkSearchValue = "https://www.wowhead.com/wotlk/cn/item="
     }
-    //.replace(searchValue,replaceValue)
+    //.replaceAll(searchValue,replaceValue)
     if(currentE){
         changeSelect(currentE)
     }else{
@@ -92,15 +92,14 @@ rewriteHTMLTable = (data, inputValue) => {
                 const classAndSpecName = `<span style="color: #${classColor(className)}">${className + ' ' + specName}</span><br/>`
 
                 if (typeof bisName === 'string') {
-                    bis = specBisList[bisSlotName].replace(searchValue,replaceValue)
+                    bis = specBisList[bisSlotName].replaceAll(searchValue,replaceValue)
                     if (bis === '-') {
                         return;
                     };
                     return addBisAsKey(bisForClasses, classAndSpecName, bis)
                 } else {
                     return bisName.map(key => {
-                        console.log(key.replace(searchValue,replaceValue));
-                        return addBisAsKey(bisForClasses, classAndSpecName, key.replace(searchValue,replaceValue))
+                        return addBisAsKey(bisForClasses, classAndSpecName, key.replaceAll(searchValue,replaceValue))
                     })
                 };
             });
@@ -156,9 +155,9 @@ getBisListForSpec = (data, firstSelectValue, secondSelectValue) => {
                         const bisName = specBisList[bisSlotName]
 
                         if (typeof bisName === 'string') {
-                            bisForSpec[bisSlotName] = bisName.replace(searchValue,replaceValue);
+                            bisForSpec[bisSlotName] = bisName.replaceAll(searchValue,replaceValue);
                         } else {
-                            bisForSpec[bisSlotName] = bisName.join(' / ');
+                            bisForSpec[bisSlotName] = bisName.join(' / ').replaceAll(searchValue,replaceValue);
                         }
                     });
 
