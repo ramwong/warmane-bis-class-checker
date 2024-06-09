@@ -893,7 +893,7 @@ const data = {
                 <td>Algalon the Observer (Ulduar 10)<br/>or<br/>Point x14</td>
                 <td>Trinket`,
                 `<a href="https://www.wowhead.com/wotlk/item=48724/" target="_blank">Talisman of Resurgence</a></td>
-                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=301/" target="_blank">Emblem of Triumph</a> 50</td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=301/" target="_blank">Emblem of Triumph</a> x50</td>
                 <td>Trinket`,
             ],
             "Weapon": [
