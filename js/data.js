@@ -74,7 +74,7 @@ const data = {
                 <td>Plate`,
             "Wrist": `<a href="https://www.wowhead.com/wotlk/item=50670/" target="_blank">Toskk's Maximized Wristguards</a></td>
                 <td>Deathbringer Saurfang<br/>(Icecrown Citadel 25H)</td>
-                <td>Leader`,
+                <td>Leather`,
             "Hands": `<a href="https://www.wowhead.com/wotlk/item=50675/" target="_blank">Aldriana's Gloves of Secrecy</a></td>
                 <td>Rotface<br/>(Icecrown Citadel 25H)</td>
                 <td>Leather`,
