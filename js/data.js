@@ -786,7 +786,7 @@ const data = {
                 <td>Off-hand Frills`,
             "Relic/Ranged": `<a href="https://www.wowhead.com/wotlk/item=50684/" target="_blank">Corpse Impaling Spike</a></td>
                 <td>Rotface<br/>(Icecrown Citadel 25H)</td>
-                <td>Wands`,
+                <td>Wand`,
         },
         "ARCANE": {
             "Head": `<a href="https://www.wowhead.com/wotlk/item=51281/" target="_blank">Sanctified Bloodmage Hood (T10 Head)</a></td>
@@ -839,7 +839,7 @@ const data = {
                 <td>Off-hand Frills`,
             "Relic/Ranged": `<a href="https://www.wowhead.com/wotlk/item=50684/" target="_blank">Corpse Impaling Spike</a></td>
                 <td>Rotface<br/>(Icecrown Citadel 25H)</td>
-                <td>Wands`,
+                <td>Wand`,
         },
     },
     "Paladin": {
@@ -1268,7 +1268,7 @@ const data = {
                 <td>Off-hand Frills`,
             "Relic/Ranged": `<a href="https://www.wowhead.com/wotlk/item=50684/" target="_blank">Corpse Impaling Spike</a></td>
                 <td>Rotface<br/>(Icecrown Citadel 25H)</td>
-                <td>Wands`,
+                <td>Wand`,
         },
         "SHADOW (2nd BiS)": {
             "Head": `<a href="https://www.wowhead.com/wotlk/item=51255/" target="_blank">Sanctified Crimson Acolyte Cowl (T10 Head)</a></td>
@@ -1321,7 +1321,7 @@ const data = {
                 <td>Off-hand Frills`,
             "Relic/Ranged": `<a href="https://www.wowhead.com/wotlk/item=50684/" target="_blank">Corpse Impaling Spike</a></td>
                 <td>Rotface<br/>(Icecrown Citadel 25H)</td>
-                <td>Wands`,
+                <td>Wand`,
         },
         "DISCIPLINE": {
             "Head": `<a href="https://www.wowhead.com/wotlk/item=51261/" target="_blank">Sanctified Crimson Acolyte Hood (T10 Head)</a></td>
@@ -1379,7 +1379,7 @@ const data = {
                 <td>Off-hand Frills`,
             "Relic/Ranged": `<a href="https://www.wowhead.com/wotlk/item=50684/" target="_blank">Corpse Impaling Spike</a></td>
                 <td>Rotface<br/>(Icecrown Citadel 25H)</td>
-                <td>Wands`,
+                <td>Wand`,
         },
         "DISCIPLINE - 2": {
             "Head": `<a href="https://www.wowhead.com/wotlk/item=51261/" target="_blank">Sanctified Crimson Acolyte Hood (T10 Head)</a></td>
@@ -1490,7 +1490,7 @@ const data = {
                 <td>Off-hand Frills`,
             "Relic/Ranged": `<a href="https://www.wowhead.com/wotlk/item=50684/" target="_blank">Corpse Impaling Spike</a></td>
                 <td>Rotface<br/>(Icecrown Citadel 25H)</td>
-                <td>Wands`,
+                <td>Wand`,
         },
     },
     "Rogue": {
@@ -1997,7 +1997,7 @@ const data = {
                 <td>Off-hand Frills`,
             "Relic/Ranged": `<a href="https://www.wowhead.com/wotlk/item=50684/" target="_blank">Corpse Impaling Spike</a></td>
                 <td>Rotface<br/>(Icecrown Citadel 25H)</td>
-                <td>Wands`,
+                <td>Wand`,
         },
         DESTRUCTION: {
             "Head": `<a href="https://www.wowhead.com/wotlk/item=51231/" target="_blank">Sanctified Dark Coven Hood (T10 Head)</a></td>
@@ -2050,7 +2050,7 @@ const data = {
                 <td>Off-hand Frills`,
             "Relic/Ranged": `<a href="https://www.wowhead.com/wotlk/item=50684/" target="_blank">Corpse Impaling Spike</a></td>
                 <td>Rotface<br/>(Icecrown Citadel 25H)</td>
-                <td>Wands`,
+                <td>Wand`,
         },
         AFFLICTION: {
             "Head": `<a href="https://www.wowhead.com/wotlk/item=51231/" target="_blank">Sanctified Dark Coven Hood (T10 Head)</a></td>
@@ -2103,7 +2103,7 @@ const data = {
                 <td>Off-hand Frills`,
             "Relic/Ranged": `<a href="https://www.wowhead.com/wotlk/item=50684/" target="_blank">Corpse Impaling Spike</a></td>
                 <td>Rotface<br/>(Icecrown Citadel 25H)</td>
-                <td>Wands`,
+                <td>Wand`,
         },
     },
     "Warrior": {
