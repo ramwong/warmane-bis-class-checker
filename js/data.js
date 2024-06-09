@@ -38,7 +38,7 @@ const data = {
                 <td>Festergut<br/>(Icecrown Citadel 25H)</td>
                 <td>Ring`,
             "Trinket 1": `<a href="https://www.wowhead.com/wotlk/item=50363/" target="_blank">Deathbringer's Will</a></td>
-                <td>Deathbringer's Cache<br/>(Icecrown Citadel 25H)</td>
+                <td>Deathbringer Saurfang<br/>(Icecrown Citadel 25H)</td>
                 <td>Trinket`,
             "Trinket 2": `<a href="https://www.wowhead.com/wotlk/item=54590/" target="_blank">Sharpened Twilight Scale</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
@@ -73,7 +73,7 @@ const data = {
                 <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Plate`,
             "Wrist": `<a href="https://www.wowhead.com/wotlk/item=50670/" target="_blank">Toskk's Maximized Wristguards</a></td>
-                <td>Deathbringer's Cache<br/>(Icecrown Citadel 25H)</td>
+                <td>Deathbringer Saurfang<br/>(Icecrown Citadel 25H)</td>
                 <td>Leader`,
             "Hands": `<a href="https://www.wowhead.com/wotlk/item=50675/" target="_blank">Aldriana's Gloves of Secrecy</a></td>
                 <td>Rotface<br/>(Icecrown Citadel 25H)</td>
@@ -94,7 +94,7 @@ const data = {
                 <td>Festergut<br/>(Icecrown Citadel 25H)</td>
                 <td>Ring`,
             "Trinket 1": `<a href="https://www.wowhead.com/wotlk/item=50363/" target="_blank">Deathbringer's Will</a></td>
-                <td>Deathbringer's Cache<br/>(Icecrown Citadel 25H)</td>
+                <td>Deathbringer Saurfang<br/>(Icecrown Citadel 25H)</td>
                 <td>Trinket`,
             "Trinket 2": `<a href="https://www.wowhead.com/wotlk/item=54590/" target="_blank">Sharpened Twilight Scale</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
@@ -147,7 +147,7 @@ const data = {
                 <td>Festergut<br/>(Icecrown Citadel 25H)</td>
                 <td>Ring`,
             "Trinket 1": `<a href="https://www.wowhead.com/wotlk/item=50363/" target="_blank">Deathbringer's Will</a></td>
-                <td>Deathbringer's Cache<br/>(Icecrown Citadel 25H)</td>
+                <td>Deathbringer Saurfang<br/>(Icecrown Citadel 25H)</td>
                 <td>Trinket`,
             "Trinket 2": `<a href="https://www.wowhead.com/wotlk/item=54590/" target="_blank">Sharpened Twilight Scale</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
@@ -200,7 +200,7 @@ const data = {
                 <td>Festergut<br/>(Icecrown Citadel 25H)</td>
                 <td>Ring`,
             "Trinket 1": `<a href="https://www.wowhead.com/wotlk/item=50363/" target="_blank">Deathbringer's Will</a></td>
-                <td>Deathbringer's Cache<br/>(Icecrown Citadel 25H)</td>
+                <td>Deathbringer Saurfang<br/>(Icecrown Citadel 25H)</td>
                 <td>Trinket`,
             "Trinket 2": `<a href="https://www.wowhead.com/wotlk/item=54590/" target="_blank">Sharpened Twilight Scale</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
@@ -256,7 +256,7 @@ const data = {
                 <td>Gunship<br/>(Icecrown Citadel 25H)</td>
                 <td>Ring`,
             "Trinket 1": `<a href="https://www.wowhead.com/wotlk/item=50363/" target="_blank">Deathbringer's Will</a></td>
-                <td>Deathbringer's Cache<br/>(Icecrown Citadel 25H)</td>
+                <td>Deathbringer Saurfang<br/>(Icecrown Citadel 25H)</td>
                 <td>Trinket`,
             "Trinket 2": `<a href="https://www.wowhead.com/wotlk/item=54590/" target="_blank">Sharpened Twilight Scale</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
@@ -291,7 +291,7 @@ const data = {
                 <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Plate`,
             "Wrist": `<a href="https://www.wowhead.com/wotlk/item=51901/" target="_blank">Gargoyle Spit Bracers</a></td>
-                <td>Deathbringer's Cache<br/>(Icecrown Citadel 10H)</td>
+                <td>Deathbringer Saurfang<br/>(Icecrown Citadel 10H)</td>
                 <td>Plate`,
             "Hands": `<a href="https://www.wowhead.com/wotlk/item=51307/" target="_blank">Sanctified Scourgelord Handguards (T10 Hands)</a></td>
                 <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
@@ -347,7 +347,7 @@ const data = {
                 <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Plate`,
             "Wrist": `<a href="https://www.wowhead.com/wotlk/item=51901/" target="_blank">Gargoyle Spit Bracers</a></td>
-                <td>Deathbringer's Cache<br/>(Icecrown Citadel 10H)</td>
+                <td>Deathbringer Saurfang<br/>(Icecrown Citadel 10H)</td>
                 <td>Plate`,
             "Hands": `<a href="https://www.wowhead.com/wotlk/item=51307/" target="_blank">Sanctified Scourgelord Handguards (T10 Hands)</a></td>
                 <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
@@ -400,7 +400,7 @@ const data = {
                 <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Leather`,
             "Wrist": `<a href="https://www.wowhead.com/wotlk/item=50670/" target="_blank">Toskk's Maximized Wristguards</a></td>
-                <td>Deathbringer's Cache<br/>(Icecrown Citadel 25H)</td>
+                <td>Deathbringer Saurfang<br/>(Icecrown Citadel 25H)</td>
                 <td>Leather`,
             "Hands": `<a href="https://www.wowhead.com/wotlk/item=50675/" target="_blank">Aldriana's Gloves of Secrecy</a></td>
                 <td>Rotface<br/>(Icecrown Citadel 25H)</td>
@@ -421,7 +421,7 @@ const data = {
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
                 <td>Ring`,
             "Trinket 1": `<a href="https://www.wowhead.com/wotlk/item=50363/" target="_blank">Deathbringer's Will</a></td>
-                <td>Deathbringer's Cache<br/>(Icecrown Citadel 25H)</td>
+                <td>Deathbringer Saurfang<br/>(Icecrown Citadel 25H)</td>
                 <td>Trinket`,
             "Trinket 2": `<a href="https://www.wowhead.com/wotlk/item=54590/" target="_blank">Sharpened Twilight Scale</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
@@ -472,7 +472,7 @@ const data = {
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
                 <td>Ring`,
             "Trinket 1": `<a href="https://www.wowhead.com/wotlk/item=50363/" target="_blank">Deathbringer's Will</a></td>
-                <td>Deathbringer's Cache<br/>(Icecrown Citadel 25H)</td>
+                <td>Deathbringer Saurfang<br/>(Icecrown Citadel 25H)</td>
                 <td>Trinket`,
             "Trinket 2": `<a href="https://www.wowhead.com/wotlk/item=54590/" target="_blank">Sharpened Twilight Scale</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
@@ -623,7 +623,7 @@ const data = {
                 <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Leather`,
             "Back": `<a href="https://www.wowhead.com/wotlk/item=50668/" target="_blank">Greatcloak of the Turned Champion</a></td>
-                <td>Deathbringer's Cache<br/>(Icecrown Citadel 25H)</td>
+                <td>Deathbringer Saurfang<br/>(Icecrown Citadel 25H)</td>
                 <td>Back`,
             "Chest": `<a href="https://www.wowhead.com/wotlk/item=50717/" target="_blank">Sanguine Silk Robes</a></td>
                 <td>Prince Valanar<br/>(Icecrown Citadel 25H)</td>
@@ -720,7 +720,7 @@ const data = {
                 <td>Cache of the Dreamwalker<br/>(Icecrown Citadel 25H)</td>
                 <td>Mail`,
             "Trinket 1": `<a href="https://www.wowhead.com/wotlk/item=50363/" target="_blank">Deathbringer's Will</a></td>
-                <td>Deathbringer's Cache<br/>(Icecrown Citadel 25H)</td>
+                <td>Deathbringer Saurfang<br/>(Icecrown Citadel 25H)</td>
                 <td>Trinket`,
             "Trinket 2": `<a href="https://www.wowhead.com/wotlk/item=54590/" target="_blank">Sharpened Twilight Scale</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
@@ -1050,7 +1050,7 @@ const data = {
                 <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Plate`,
             "Wrist": `<a href="https://www.wowhead.com/wotlk/item=51901/" target="_blank">Gargoyle Spit Bracers</a></td>
-                <td>Deathbringer's Cache<br/>(Icecrown Citadel 10H)</td>
+                <td>Deathbringer Saurfang<br/>(Icecrown Citadel 10H)</td>
                 <td>Plate`,
             "Hands": `<a href="https://www.wowhead.com/wotlk/item=51267/" target="_blank">Sanctified Lightsworn Handguards (T10 Hands)</a></td>
                 <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
@@ -1083,7 +1083,7 @@ const data = {
             ],
             "Weapon": [
                 `<a href="https://www.wowhead.com/wotlk/item=50672/" target="_blank">Bloodvenom Blade</a></td>
-                <td>Deathbringer's Cache<br/>(Icecrown Citadel 25H)</td>
+                <td>Deathbringer Saurfang<br/>(Icecrown Citadel 25H)</td>
                 <td>One-Handed Swords`,
                 `<a href="https://www.wowhead.com/wotlk/item=50738/" target="_blank">Mithrios, Bronzebeard's Legacy</a></td>
                 <td>The Lich King<br/>(Icecrown Citadel 25H)</td>
@@ -1121,7 +1121,7 @@ const data = {
                 <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Plate`,
             "Wrist": `<a href="https://www.wowhead.com/wotlk/item=51901/" target="_blank">Gargoyle Spit Bracers</a></td>
-                <td>Deathbringer's Cache<br/>(Icecrown Citadel 10H)</td>
+                <td>Deathbringer Saurfang<br/>(Icecrown Citadel 10H)</td>
                 <td>Plate`,
             "Hands": `<a href="https://www.wowhead.com/wotlk/item=51267/" target="_blank">Sanctified Lightsworn Handguards (T10 Hands)</a></td>
                 <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
@@ -1174,7 +1174,7 @@ const data = {
                 <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Plate`,
             "Wrist": `<a href="https://www.wowhead.com/wotlk/item=51901/" target="_blank">Gargoyle Spit Bracers</a></td>
-                <td>Deathbringer's Cache<br/>(Icecrown Citadel 10H)</td>
+                <td>Deathbringer Saurfang<br/>(Icecrown Citadel 10H)</td>
                 <td>Plate`,
             "Hands": `<a href="https://www.wowhead.com/wotlk/item=51267/" target="_blank">Sanctified Lightsworn Handguards (T10 Hands)</a></td>
                 <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
@@ -1445,7 +1445,7 @@ const data = {
                 <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Cloth`,
             "Back": `<a href="https://www.wowhead.com/wotlk/item=50668/" target="_blank">Greatcloak of the Turned Champion</a></td>
-                <td>Deathbringer's Cache<br/>(Icecrown Citadel 25H)</td>
+                <td>Deathbringer Saurfang<br/>(Icecrown Citadel 25H)</td>
                 <td>Back`,
             "Chest": `<a href="https://www.wowhead.com/wotlk/item=50717/" target="_blank">Sanguine Silk Robes</a></td>
                 <td>Prince Valanar<br/>(Icecrown Citadel 25H)</td>
@@ -1534,7 +1534,7 @@ const data = {
                 <td>Cache of the Dreamwalker<br/>(Icecrown Citadel 25H)</td>
                 <td>Mail`,
             "Trinket 1": `<a href="https://www.wowhead.com/wotlk/item=50363/" target="_blank">Deathbringer's Will</a></td>
-                <td>Deathbringer's Cache<br/>(Icecrown Citadel 25H)</td>
+                <td>Deathbringer Saurfang<br/>(Icecrown Citadel 25H)</td>
                 <td>Trinket`,
             "Trinket 2": `<a href="https://www.wowhead.com/wotlk/item=54590/" target="_blank">Sharpened Twilight Scale</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
@@ -1589,7 +1589,7 @@ const data = {
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
                 <td>Ring`,
             "Trinket 1": `<a href="https://www.wowhead.com/wotlk/item=50363/" target="_blank">Deathbringer's Will</a></td>
-                <td>Deathbringer's Cache<br/>(Icecrown Citadel 25H)</td>
+                <td>Deathbringer Saurfang<br/>(Icecrown Citadel 25H)</td>
                 <td>Trinket`,
             "Trinket 2": `<a href="https://www.wowhead.com/wotlk/item=54590/" target="_blank">Sharpened Twilight Scale</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
@@ -1876,7 +1876,7 @@ const data = {
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
                 <td>Ring`,
             "Trinket 1": `<a href="https://www.wowhead.com/wotlk/item=50363/" target="_blank">Deathbringer's Will</a></td>
-                <td>Deathbringer's Cache<br/>(Icecrown Citadel 25H)</td>
+                <td>Deathbringer Saurfang<br/>(Icecrown Citadel 25H)</td>
                 <td>Trinket`,
             "Trinket 2": `<a href="https://www.wowhead.com/wotlk/item=54590/" target="_blank">Sharpened Twilight Scale</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
@@ -2147,7 +2147,7 @@ const data = {
                 <td>Cache of the Dreamwalker<br/>(Icecrown Citadel 25H)</td>
                 <td>Mail`,
             "Trinket 1": `<a href="https://www.wowhead.com/wotlk/item=50363/" target="_blank">Deathbringer's Will</a></td>
-                <td>Deathbringer's Cache<br/>(Icecrown Citadel 25H)</td>
+                <td>Deathbringer Saurfang<br/>(Icecrown Citadel 25H)</td>
                 <td>Trinket`,
             "Trinket 2": `<a href="https://www.wowhead.com/wotlk/item=54590/" target="_blank">Sharpened Twilight Scale</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
@@ -2183,7 +2183,7 @@ const data = {
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
                 <td>Leather`,
                 `<a href="https://www.wowhead.com/wotlk/item=50670/" target="_blank">Toskk's Maximized Wristguards</a></td>
-                <td>Deathbringer's Cache<br/>(Icecrown Citadel 25H)</td>
+                <td>Deathbringer Saurfang<br/>(Icecrown Citadel 25H)</td>
                 <td>Leather`,
             ],
             "Hands": `<a href="https://www.wowhead.com/wotlk/item=51226/" target="_blank">Sanctified Ymirjar Lord's Gauntlets (T10 Hands)</a></td>
@@ -2205,7 +2205,7 @@ const data = {
                 <td>Cache of the Dreamwalker<br/>(Icecrown Citadel 25H)</td>
                 <td>Mail`,
             "Trinket 1": `<a href="https://www.wowhead.com/wotlk/item=50363/" target="_blank">Deathbringer's Will</a></td>
-                <td>Deathbringer's Cache<br/>(Icecrown Citadel 25H)</td>
+                <td>Deathbringer Saurfang<br/>(Icecrown Citadel 25H)</td>
                 <td>Trinket`,
             "Trinket 2": `<a href="https://www.wowhead.com/wotlk/item=54590/" target="_blank">Sharpened Twilight Scale</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
@@ -2237,7 +2237,7 @@ const data = {
                 <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Plate`,
             "Wrist": `<a href="https://www.wowhead.com/wotlk/item=51901/" target="_blank">Gargoyle Spit Bracers</a></td>
-                <td>Deathbringer's Cache<br/>(Icecrown Citadel 10H)</td>
+                <td>Deathbringer Saurfang<br/>(Icecrown Citadel 10H)</td>
                 <td>Plate`,
             "Hands": `<a href="https://www.wowhead.com/wotlk/item=51222/" target="_blank">Sanctified Ymirjar Lord's Handguards (T10 Hands)</a></td>
                 <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
@@ -2270,7 +2270,7 @@ const data = {
                 <td>Trinket`,
             "Weapon": [
                 `<a href="https://www.wowhead.com/wotlk/item=49623/" target="_blank">Bloodvenom Blade</a></td>
-                <td>Deathbringer's Cache<br/>(Icecrown Citadel 25H)</td>
+                <td>Deathbringer Saurfang<br/>(Icecrown Citadel 25H)</td>
                 <td>One-Handed Swords`,
                 `<a href="https://www.wowhead.com/wotlk/item=50738/" target="_blank">Mithrios, Bronzebeard's Legacy</a></td>
                 <td>The Lich King<br/>(Icecrown Citadel 25H)</td>
