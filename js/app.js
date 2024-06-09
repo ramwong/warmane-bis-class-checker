@@ -80,6 +80,7 @@ languageList.addEventListener("change", () => {
   } else {
     rewriteHTMLTable(itemsList, inputItemNameValue);
   }
+  adjustColumnHeight("nested-table");
   makeSortable();
 });
 
