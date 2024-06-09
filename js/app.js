@@ -157,7 +157,7 @@ getBisListForSpec = (data, firstSelectValue, secondSelectValue) => {
                         if (typeof bisName === 'string') {
                             bisForSpec[bisSlotName] = bisName.replaceAll(searchValue,replaceValue);
                         } else {
-                            bisForSpec[bisSlotName] = bisName.join(' / ').replaceAll(searchValue,replaceValue);
+                            bisForSpec[bisSlotName] = bisName.join('<br />').replaceAll(searchValue,replaceValue);
                         }
                     });
 
