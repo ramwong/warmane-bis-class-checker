@@ -1,32 +1,32 @@
 const data = {
     "Death Knight": {
         BLOOD: {
-            Head: `<a href="https://www.wowhead.com/wotlk/item=51312/" target="_blank">T10 Head (Sanctified Scourgelord Helmet)</a></td>
-                <td>Dalaran</td>
+            Head: `<a href="https://www.wowhead.com/wotlk/item=51312/" target="_blank">Sanctified Scourgelord Helmet (T10 Head)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Plate`,
             Neck: `<a href="https://www.wowhead.com/wotlk/item=54581/" target="_blank">Penumbra Pendant</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
                 <td>Neck`,
-            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51314/" target="_blank">T10 Shoulders (Sanctified Scourgelord Shoulderplates)</a></td>
-                <td>Dalaran</td>
+            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51314/" target="_blank">Sanctified Scourgelord Shoulderplates (T10 Shoulders)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Plate`,
             Back: `<a href="https://www.wowhead.com/wotlk/item=50677/" target="_blank">Winding Sheet</a></td>
                 <td>Rotface<br/>(Icecrown Citadel 25H)</td>
                 <td>Back`,
-            Chest: `<a href="https://www.wowhead.com/wotlk/item=51310/" target="_blank">T10 Chest (Sanctified Scourgelord Battleplate)</a></td>
-                <td>Dalaran</td>
+            Chest: `<a href="https://www.wowhead.com/wotlk/item=51310/" target="_blank">Sanctified Scourgelord Battleplate (T10 Chest)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Plate`,
             Wrist: `<a href="https://www.wowhead.com/wotlk/item=54580/" target="_blank">Umbrage Armbands</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
                 <td>Leather`,
-            Hands: `<a href="https://www.wowhead.com/wotlk/item=51311/" target="_blank">T10 Hands (Sanctified Scourgelord Gauntlets)</a></td>
-                <td>Dalaran</td>
+            Hands: `<a href="https://www.wowhead.com/wotlk/item=51311/" target="_blank">Sanctified Scourgelord Gauntlets (T10 Hands)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Plate`,
             Waist: `<a href="https://www.wowhead.com/wotlk/item=50620/" target="_blank">Coldwraith Links</a></td>
                 <td>Cache of the Dreamwalker<br/>(Icecrown Citadel 25H)</td>
                 <td>Plate`,
-            Legs: `<a href="https://www.wowhead.com/wotlk/item=51313/" target="_blank">T10 Legs (Sanctified Scourgelord Legplates)</a></td>
-                <td>Dalaran</td>
+            Legs: `<a href="https://www.wowhead.com/wotlk/item=51313/" target="_blank">Sanctified Scourgelord Legplates (T10 Legs)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Plate`,
             Feet: `<a href="https://www.wowhead.com/wotlk/item=54578/" target="_blank">Apocalypse's Advance</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
@@ -57,20 +57,20 @@ const data = {
                 <td>Sigil`,
         },
         "FROST ARP": {
-            Head: `<a href="https://www.wowhead.com/wotlk/item=51312/" target="_blank">T10 Head (Sanctified Scourgelord Helmet)</a></td>
-                <td>Dalaran</td>
+            Head: `<a href="https://www.wowhead.com/wotlk/item=51312/" target="_blank">Sanctified Scourgelord Helmet (T10 Head)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Plate`,
             Neck: `<a href="https://www.wowhead.com/wotlk/item=54581/" target="_blank">Penumbra Pendant</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
                 <td>Neck`,
-            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51314/" target="_blank">T10 Shoulders (Sanctified Scourgelord Shoulderplates)</a></td>
-                <td>Dalaran</td>
+            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51314/" target="_blank">Sanctified Scourgelord Shoulderplates (T10 Shoulders)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Plate`,
             Back: `<a href="https://www.wowhead.com/wotlk/item=47548/" target="_blank">Garrosh's Rage</a></td>
                 <td><a href="https://www.wowhead.com/wotlk/object=195665/" target="_blank">Argent Crusade Tribute Chest</a><br/>(Trial of the Crusader 25H)</td>
                 <td>Back`,
-            Chest: `<a href="https://www.wowhead.com/wotlk/item=51310/" target="_blank">T10 Chest (Sanctified Scourgelord Battleplate)</a></td>
-                <td>Dalaran</td>
+            Chest: `<a href="https://www.wowhead.com/wotlk/item=51310/" target="_blank">Sanctified Scourgelord Battleplate (T10 Chest)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Plate`,
             Wrist: `<a href="https://www.wowhead.com/wotlk/item=50670/" target="_blank">Toskk's Maximized Wristguards</a></td>
                 <td>Deathbringer's Cache<br/>(Icecrown Citadel 25H)</td>
@@ -81,8 +81,8 @@ const data = {
             Waist: `<a href="https://www.wowhead.com/wotlk/item=50620/" target="_blank">Coldwraith Links</a></td>
                 <td>Cache of the Dreamwalker<br/>(Icecrown Citadel 25H)</td>
                 <td>Plate`,
-            Legs: `<a href="https://www.wowhead.com/wotlk/item=51313/" target="_blank">T10 Legs (Sanctified Scourgelord Legplates)</a></td>
-                <td>Dalaran</td>
+            Legs: `<a href="https://www.wowhead.com/wotlk/item=51313/" target="_blank">Sanctified Scourgelord Legplates (T10 Legs)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Plate`,
             Feet: `<a href="https://www.wowhead.com/wotlk/item=54578/" target="_blank">Apocalypse's Advance</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
@@ -110,20 +110,20 @@ const data = {
                 <td>Sigil`,
         },
         "FROST STR": {
-            Head: `<a href="https://www.wowhead.com/wotlk/item=51312/" target="_blank">T10 Head (Sanctified Scourgelord Helmet)</a></td>
-                <td>Dalaran</td>
+            Head: `<a href="https://www.wowhead.com/wotlk/item=51312/" target="_blank">Sanctified Scourgelord Helmet (T10 Head)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Plate`,
             Neck: `<a href="https://www.wowhead.com/wotlk/item=54581/" target="_blank">Penumbra Pendant</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
                 <td>Neck`,
-            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51314/" target="_blank">T10 Shoulders (Sanctified Scourgelord Shoulderplates)</a></td>
-                <td>Dalaran</td>
+            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51314/" target="_blank">Sanctified Scourgelord Shoulderplates (T10 Shoulders)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Plate`,
             Back: `<a href="https://www.wowhead.com/wotlk/item=50677/" target="_blank">Winding Sheet</a></td>
                 <td>Rotface<br/>(Icecrown Citadel 25H)</td>
                 <td>Back`,
-            Chest: `<a href="https://www.wowhead.com/wotlk/item=51310/" target="_blank">T10 Chest (Sanctified Scourgelord Battleplate)</a></td>
-                <td>Dalaran</td>
+            Chest: `<a href="https://www.wowhead.com/wotlk/item=51310/" target="_blank">Sanctified Scourgelord Battleplate (T10 Chest)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Plate`,
             Wrist: `<a href="https://www.wowhead.com/wotlk/item=50659/" target="_blank">Polar Bear Claw Bracers</a></td>
                 <td>Gunship<br/>(Icecrown Citadel 25H)</td>
@@ -134,8 +134,8 @@ const data = {
             Waist: `<a href="https://www.wowhead.com/wotlk/item=50620/" target="_blank">Coldwraith Links</a></td>
                 <td>Cache of the Dreamwalker<br/>(Icecrown Citadel 25H)</td>
                 <td>Plate`,
-            Legs: `<a href="https://www.wowhead.com/wotlk/item=51313/" target="_blank">T10 Legs (Sanctified Scourgelord Legplates)</a></td>
-                <td>Dalaran</td>
+            Legs: `<a href="https://www.wowhead.com/wotlk/item=51313/" target="_blank">Sanctified Scourgelord Legplates (T10 Legs)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Plate`,
             Feet: `<a href="https://www.wowhead.com/wotlk/item=54578/" target="_blank">Apocalypse's Advance</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
@@ -163,26 +163,26 @@ const data = {
                 <td>Sigil`,
         },
         UNHOLY: {
-            Head: `<a href="https://www.wowhead.com/wotlk/item=51312/" target="_blank">T10 Head (Sanctified Scourgelord Helmet)</a></td>
-                <td>Dalaran</td>
+            Head: `<a href="https://www.wowhead.com/wotlk/item=51312/" target="_blank">Sanctified Scourgelord Helmet (T10 Head)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Plate`,
             Neck: `<a href="https://www.wowhead.com/wotlk/item=54581/" target="_blank">Penumbra Pendant</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
                 <td>Neck`,
-            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51314/" target="_blank">T10 Shoulders (Sanctified Scourgelord Shoulderplates)</a></td>
-                <td>Dalaran</td>
+            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51314/" target="_blank">Sanctified Scourgelord Shoulderplates (T10 Shoulders)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Plate`,
             Back: `<a href="https://www.wowhead.com/wotlk/item=50677/" target="_blank">Winding Sheet</a></td>
                 <td>Rotface<br/>(Icecrown Citadel 25H)</td>
                 <td>Back`,
-            Chest: `<a href="https://www.wowhead.com/wotlk/item=51310/" target="_blank">T10 Chest (Sanctified Scourgelord Battleplate)</a></td>
-                <td>Dalaran</td>
+            Chest: `<a href="https://www.wowhead.com/wotlk/item=51310/" target="_blank">Sanctified Scourgelord Battleplate (T10 Chest)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Plate`,
             Wrist: `<a href="https://www.wowhead.com/wotlk/item=54580/" target="_blank">Umbrage Armbands</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
                 <td>Leather`,
-            Hands: `<a href="https://www.wowhead.com/wotlk/item=51311/" target="_blank">T10 Hands (Sanctified Scourgelord Gauntlets)</a></td>
-                <td>Dalaran</td>
+            Hands: `<a href="https://www.wowhead.com/wotlk/item=51311/" target="_blank">Sanctified Scourgelord Gauntlets (T10 Hands)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Plate`,
             Waist: `<a href="https://www.wowhead.com/wotlk/item=50620/" target="_blank">Coldwraith Links</a></td>
                 <td>Cache of the Dreamwalker<br/>(Icecrown Citadel 25H)</td>
@@ -219,20 +219,20 @@ const data = {
                 <td>Sigil`,
         },
         "UNHOLY (Expertise)": {
-            Head: `<a href="https://www.wowhead.com/wotlk/item=51312/" target="_blank">T10 Head (Sanctified Scourgelord Helmet)</a></td>
-                <td>Dalaran</td>
+            Head: `<a href="https://www.wowhead.com/wotlk/item=51312/" target="_blank">Sanctified Scourgelord Helmet (T10 Head)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Plate`,
             Neck: `<a href="https://www.wowhead.com/wotlk/item=50728/" target="_blank">Lana'thel's Chain of Flagellation</a></td>
                 <td>Blood-Queen Lana'thel<br/>(Icecrown Citadel 25H)</td>
                 <td>Neck`,
-            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51314/" target="_blank">T10 Shoulders (Sanctified Scourgelord Shoulderplates)</a></td>
-                <td>Dalaran</td>
+            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51314/" target="_blank">Sanctified Scourgelord Shoulderplates (T10 Shoulders)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Plate`,
             Back: `<a href="https://www.wowhead.com/wotlk/item=50677/" target="_blank">Winding Sheet</a></td>
                 <td>Rotface<br/>(Icecrown Citadel 25H)</td>
                 <td>Back`,
-            Chest: `<a href="https://www.wowhead.com/wotlk/item=51310/" target="_blank">T10 Chest (Sanctified Scourgelord Battleplate)</a></td>
-                <td>Dalaran</td>
+            Chest: `<a href="https://www.wowhead.com/wotlk/item=51310/" target="_blank">Sanctified Scourgelord Battleplate (T10 Chest)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Plate`,
             Wrist: `<a href="https://www.wowhead.com/wotlk/item=50659/" target="_blank">Polar Bear Claw Bracers</a></td>
                 <td>Gunship<br/>(Icecrown Citadel 25H)</td>
@@ -243,8 +243,8 @@ const data = {
             Waist: `<a href="https://www.wowhead.com/wotlk/item=50620/" target="_blank">Coldwraith Links</a></td>
                 <td>Cache of the Dreamwalker<br/>(Icecrown Citadel 25H)</td>
                 <td>Plate`,
-            Legs: `<a href="https://www.wowhead.com/wotlk/item=51313/" target="_blank">T10 Legs (Sanctified Scourgelord Legplates)</a></td>
-                <td>Dalaran</td>
+            Legs: `<a href="https://www.wowhead.com/wotlk/item=51313/" target="_blank">Sanctified Scourgelord Legplates (T10 Legs)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Plate`,
             Feet: `<a href="https://www.wowhead.com/wotlk/item=54578/" target="_blank">Apocalypse's Advance</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
@@ -281,26 +281,26 @@ const data = {
             Neck: `<a href="https://www.wowhead.com/wotlk/item=50682/" target="_blank">Bile-Encrusted Medallion</a></td>
                 <td>Rotface<br/>(Icecrown Citadel 25H)</td>
                 <td>Neck`,
-            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51309/" target="_blank">T10 Shoulders (Sanctified Scourgelord Pauldrons)</a></td>
-                <td>Dalaran</td>
+            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51309/" target="_blank">Sanctified Scourgelord Pauldrons (T10 Shoulders)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Plate`,
             Back: `<a href="https://www.wowhead.com/wotlk/item=50466/" target="_blank">Sentinel's Winter Cloak</a></td>
                 <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x50</td>
                 <td>Back`,
-            Chest: `<a href="https://www.wowhead.com/wotlk/item=51305/" target="_blank">T10 Chest (Sanctified Scourgelord Chestguard)</a></td>
-                <td>Dalaran</td>
+            Chest: `<a href="https://www.wowhead.com/wotlk/item=51305/" target="_blank">Sanctified Scourgelord Chestguard (T10 Chest)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Plate`,
             Wrist: `<a href="https://www.wowhead.com/wotlk/item=51901/" target="_blank">Gargoyle Spit Bracers</a></td>
                 <td>Deathbringer's Cache<br/>(Icecrown Citadel 10H)</td>
                 <td>Plate`,
-            Hands: `<a href="https://www.wowhead.com/wotlk/item=51307/" target="_blank">T10 Hands (Sanctified Scourgelord Handguards)</a></td>
-                <td>Dalaran</td>
+            Hands: `<a href="https://www.wowhead.com/wotlk/item=51307/" target="_blank">Sanctified Scourgelord Handguards (T10 Hands)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Plate`,
             Waist: `<a href="https://www.wowhead.com/wotlk/item=50991/" target="_blank">Verdigris Chain Belt</a></td>
                 <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Plate`,
-            Legs: `<a href="https://www.wowhead.com/wotlk/item=51308/" target="_blank">T10 Legs (Sanctified Scourgelord Legguards)</a></td>
-                <td>Dalaran</td>
+            Legs: `<a href="https://www.wowhead.com/wotlk/item=51308/" target="_blank">Sanctified Scourgelord Legguards (T10 Legs)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Plate`,
             Feet: `<a href="https://www.wowhead.com/wotlk/item=54579/" target="_blank">Treads of Impending Resurrection</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
@@ -337,26 +337,26 @@ const data = {
             Neck: `<a href="https://www.wowhead.com/wotlk/item=50682/" target="_blank">Bile-Encrusted Medallion</a></td>
                 <td>Rotface<br/>(Icecrown Citadel 25H)</td>
                 <td>Neck`,
-            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51309/" target="_blank">T10 Shoulders (Sanctified Scourgelord Pauldrons)</a></td>
-                <td>Dalaran</td>
+            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51309/" target="_blank">Sanctified Scourgelord Pauldrons (T10 Shoulders)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Plate`,
             Back: `<a href="https://www.wowhead.com/wotlk/item=50718/" target="_blank">Royal Crimson Cloak</a></td>
                 <td>Prince Valanar<br/>(Icecrown Citadel 25H)</td>
                 <td>Back`,
-            Chest: `<a href="https://www.wowhead.com/wotlk/item=51305/" target="_blank">T10 Chest (Sanctified Scourgelord Chestguard)</a></td>
-                <td>Dalaran</td>
+            Chest: `<a href="https://www.wowhead.com/wotlk/item=51305/" target="_blank">Sanctified Scourgelord Chestguard (T10 Chest)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Plate`,
             Wrist: `<a href="https://www.wowhead.com/wotlk/item=51901/" target="_blank">Gargoyle Spit Bracers</a></td>
                 <td>Deathbringer's Cache<br/>(Icecrown Citadel 10H)</td>
                 <td>Plate`,
-            Hands: `<a href="https://www.wowhead.com/wotlk/item=51307/" target="_blank">T10 Hands (Sanctified Scourgelord Handguards)</a></td>
-                <td>Dalaran</td>
+            Hands: `<a href="https://www.wowhead.com/wotlk/item=51307/" target="_blank">Sanctified Scourgelord Handguards (T10 Hands)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Plate`,
             Waist: `<a href="https://www.wowhead.com/wotlk/item=50991/" target="_blank">Verdigris Chain Belt</a></td>
                 <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Plate`,
-            Legs: `<a href="https://www.wowhead.com/wotlk/item=51308/" target="_blank">T10 Legs (Sanctified Scourgelord Legguards)</a></td>
-                <td>Dalaran</td>
+            Legs: `<a href="https://www.wowhead.com/wotlk/item=51308/" target="_blank">Sanctified Scourgelord Legguards (T10 Legs)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Plate`,
             Feet: `<a href="https://www.wowhead.com/wotlk/item=50625/" target="_blank">Grinning Skull Greatboots</a></td>
                 <td>Cache of the Dreamwalker<br/>(Icecrown Citadel 25H)</td>
@@ -384,20 +384,20 @@ const data = {
     },
     Druid: {
         "STR CAT": {
-            Head: `<a href="https://www.wowhead.com/wotlk/item=51296/" target="_blank">T10 Head (Sanctified Lasherweave Headguard)</a></td>
-                <td>Dalaran</td>
+            Head: `<a href="https://www.wowhead.com/wotlk/item=51296/" target="_blank">Sanctified Lasherweave Headguard (T10 Head)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Leather`,
             Neck: `<a href="https://www.wowhead.com/wotlk/item=54581/" target="_blank">Penumbra Pendant</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
                 <td>Neck`,
-            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51299/" target="_blank">T10 Shoulders (Sanctified Lasherweave Shoulderpads)</a></td>
-                <td>Dalaran</td>
+            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51299/" target="_blank">Sanctified Lasherweave Shoulderpads (T10 Shoulders)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Leather`,
             Back: `<a href="https://www.wowhead.com/wotlk/item=47546/" target="_blank">Sylvana's Cunning</a></td>
                 <td><a href="https://www.wowhead.com/wotlk/object=195665/" target="_blank">Argent Crusade Tribute Chest</a><br/>(Trial of the Crusader 25H)</td>
                 <td>Back`,
-            Chest: `<a href="https://www.wowhead.com/wotlk/item=51298/" target="_blank">T10 Chest (Sanctified Lasherweave Raiment)</a></td>
-                <td>Dalaran</td>
+            Chest: `<a href="https://www.wowhead.com/wotlk/item=51298/" target="_blank">Sanctified Lasherweave Raiment (T10 Chest)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Leather`,
             Wrist: `<a href="https://www.wowhead.com/wotlk/item=50670/" target="_blank">Toskk's Maximized Wristguards</a></td>
                 <td>Deathbringer's Cache<br/>(Icecrown Citadel 25H)</td>
@@ -408,8 +408,8 @@ const data = {
             Waist: `<a href="https://www.wowhead.com/wotlk/item=50707/" target="_blank">Astrylian's Sutured Cinch</a></td>
                 <td>Professor Putricide<br/>(Icecrown Citadel 25H)</td>
                 <td>Leather`,
-            Legs: `<a href="https://www.wowhead.com/wotlk/item=51297/" target="_blank">T10 Legs (Sanctified Lasherweave Legguards)</a></td>
-                <td>Dalaran</td>
+            Legs: `<a href="https://www.wowhead.com/wotlk/item=51297/" target="_blank">Sanctified Lasherweave Legguards (T10 Legs)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Leather`,
             Feet: `<a href="https://www.wowhead.com/wotlk/item=50607/" target="_blank">Frostbitten Fur Boots</a></td>
                 <td>Lord Marrowgar<br/>(Icecrown Citadel 25H)</td>
@@ -435,20 +435,20 @@ const data = {
                 <td>Idol`,
         },
         "HASTE CAT": {
-            Head: `<a href="https://www.wowhead.com/wotlk/item=51296/" target="_blank">T10 Head (Sanctified Lasherweave Headguard)</a></td>
-                <td>Dalaran</td>
+            Head: `<a href="https://www.wowhead.com/wotlk/item=51296/" target="_blank">Sanctified Lasherweave Headguard (T10 Head)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Leather`,
             Neck: `<a href="https://www.wowhead.com/wotlk/item=50633/" target="_blank">Sindragosa's Cruel Claw</a></td>
                 <td>Sindragosa<br/>(Icecrown Citadel 25H)</td>
                 <td>Neck`,
-            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51299/" target="_blank">T10 Shoulders (Sanctified Lasherweave Shoulderpads)</a></td>
-                <td>Dalaran</td>
+            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51299/" target="_blank">Sanctified Lasherweave Shoulderpads (T10 Shoulders)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Leather`,
             Back: `<a href="https://www.wowhead.com/wotlk/item=50653/" target="_blank">Shadowvault Slayer's Cloak</a></td>
                 <td>Gunship<br/>(Icecrown Citadel 25H)</td>
                 <td>Back`,
-            Chest: `<a href="https://www.wowhead.com/wotlk/item=51298/" target="_blank">T10 Chest (Sanctified Lasherweave Raiment)</a></td>
-                <td>Dalaran</td>
+            Chest: `<a href="https://www.wowhead.com/wotlk/item=51298/" target="_blank">Sanctified Lasherweave Raiment (T10 Chest)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Leather`,
             Wrist: `<a href="https://www.wowhead.com/wotlk/item=54580/" target="_blank">Umbrage Armbands</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
@@ -459,8 +459,8 @@ const data = {
             Waist: `<a href="https://www.wowhead.com/wotlk/item=50707/" target="_blank">Astrylian's Sutured Cinch</a></td>
                 <td>Professor Putricide<br/>(Icecrown Citadel 25H)</td>
                 <td>Leather`,
-            Legs: `<a href="https://www.wowhead.com/wotlk/item=51297/" target="_blank">T10 Legs (Sanctified Lasherweave Legguards)</a></td>
-                <td>Dalaran</td>
+            Legs: `<a href="https://www.wowhead.com/wotlk/item=51297/" target="_blank">Sanctified Lasherweave Legguards (T10 Legs)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Leather`,
             Feet: `<a href="https://www.wowhead.com/wotlk/item=50607/" target="_blank">Frostbitten Fur Boots</a></td>
                 <td>Lord Marrowgar<br/>(Icecrown Citadel 25H)</td>
@@ -486,14 +486,14 @@ const data = {
                 <td>Idol`,
         },
         BEAR: {
-            Head: `<a href="https://www.wowhead.com/wotlk/item=51296/" target="_blank">T10 Head (Sanctified Lasherweave Headguard)</a></td>
-                <td>Dalaran</td>
+            Head: `<a href="https://www.wowhead.com/wotlk/item=51296/" target="_blank">Sanctified Lasherweave Headguard (T10 Head)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Leather`,
             Neck: `<a href="https://www.wowhead.com/wotlk/item=50682/" target="_blank">Bile-Encrusted Medallion</a></td>
                 <td>Rotface<br/>(Icecrown Citadel 25H)</td>
                 <td>Neck`,
-            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51299/" target="_blank">T10 Shoulders (Sanctified Lasherweave Shoulderpads)</a></td>
-                <td>Dalaran</td>
+            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51299/" target="_blank">Sanctified Lasherweave Shoulderpads (T10 Shoulders)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Leather`,
             Back: `<a href="https://www.wowhead.com/wotlk/item=50466/" target="_blank">Sentinel's Winter Cloak</a></td>
                 <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x50</td>
@@ -504,14 +504,14 @@ const data = {
             Wrist: `<a href="https://www.wowhead.com/wotlk/item=54580/" target="_blank">Umbrage Armbands</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
                 <td>Leather`,
-            Hands: `<a href="https://www.wowhead.com/wotlk/item=51295/" target="_blank">T10 Hands (Sanctified Lasherweave Handgrips)</a></td>
-                <td>Dalaran</td>
+            Hands: `<a href="https://www.wowhead.com/wotlk/item=51295/" target="_blank">Sanctified Lasherweave Handgrips (T10 Hands)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Leather`,
             Waist: `<a href="https://www.wowhead.com/wotlk/item=50707/" target="_blank">Astrylian's Sutured Cinch</a></td>
                 <td>Professor Putricide<br/>(Icecrown Citadel 25H)</td>
                 <td>Leather`,
-            Legs: `<a href="https://www.wowhead.com/wotlk/item=51297/" target="_blank">T10 Legs (Sanctified Lasherweave Legguards)</a></td>
-                <td>Dalaran</td>
+            Legs: `<a href="https://www.wowhead.com/wotlk/item=51297/" target="_blank">Sanctified Lasherweave Legguards (T10 Legs)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Leather`,
             Feet: [
                 `<a href="https://www.wowhead.com/wotlk/item=50607/" target="_blank">Frostbitten Fur Boots</a></td>
@@ -555,32 +555,32 @@ const data = {
                 <td>Idol`,
         },
         BALANCE: {
-            Head: `<a href="https://www.wowhead.com/wotlk/item=Signet of Twilight/" target="_blank">T10 Head (Sanctified Lasherweave Cover)</a></td>
-                <td>Dalaran</td>
+            Head: `<a href="https://www.wowhead.com/wotlk/item=Signet of Twilight/" target="_blank">Sanctified Lasherweave Cover (T10 Head)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Leather`,
             Neck: `<a href="https://www.wowhead.com/wotlk/item=50724/" target="_blank">Blood Queen's Crimson Choker</a></td>
                 <td>Blood-Queen Lana'thel<br/>(Icecrown Citadel 25H)</td>
                 <td>Neck`,
-            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51292/" target="_blank">T10 Shoulders (anctified Lasherweave Mantle)</a></td>
-                <td>Dalaran</td>
+            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51292/" target="_blank">anctified Lasherweave Mantle (T10 Shoulders)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Leather`,
             Back: `<a href="https://www.wowhead.com/wotlk/item=54583/" target="_blank">Cloak of Burning Dusk</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
                 <td>Back`,
-            Chest: `<a href="https://www.wowhead.com/wotlk/item=51294/" target="_blank">T10 Chest (Sanctified Lasherweave Vestment)</a></td>
-                <td>Dalaran</td>
+            Chest: `<a href="https://www.wowhead.com/wotlk/item=51294/" target="_blank">Sanctified Lasherweave Vestment (T10 Chest)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Leather`,
             Wrist: `<a href="https://www.wowhead.com/wotlk/item=54582/" target="_blank">Bracers of Fiery Night</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
                 <td>Colth`,
-            Hands: `<a href="https://www.wowhead.com/wotlk/item=51291/" target="_blank">T10 Hands (Sanctified Lasherweave Gloves)</a></td>
-                <td>Dalaran</td>
+            Hands: `<a href="https://www.wowhead.com/wotlk/item=51291/" target="_blank">Sanctified Lasherweave Gloves (T10 Hands)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Leather`,
             Waist: `<a href="https://www.wowhead.com/wotlk/item=50613/" target="_blank">Crushing Coldwraith Belt</a></td>
                 <td>Lord Marrowgar<br/>(Icecrown Citadel 25H)</td>
                 <td>Colth`,
-            Legs: `<a href="https://www.wowhead.com/wotlk/item=51293/" target="_blank">T10 Legs (Sanctified Lasherweave Trousers)</a></td>
-                <td>Dalaran</td>
+            Legs: `<a href="https://www.wowhead.com/wotlk/item=51293/" target="_blank">Sanctified Lasherweave Trousers (T10 Legs)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Leather`,
             Feet: `<a href="https://www.wowhead.com/wotlk/item=50699/" target="_blank">Plague Scientist's Boots</a></td>
                 <td>Festergut<br/>(Icecrown Citadel 25H)</td>
@@ -613,14 +613,14 @@ const data = {
                 <td>Idol`,
         },
         RESTORATION: {
-            Head: `<a href="https://www.wowhead.com/wotlk/item=51302/" target="_blank">T10 Head (anctified Lasherweave Helmet)</a></td>
-                <td>Dalaran</td>
+            Head: `<a href="https://www.wowhead.com/wotlk/item=51302/" target="_blank">anctified Lasherweave Helmet (T10 Head)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Leather`,
             Neck: `<a href="https://www.wowhead.com/wotlk/item=50609/" target="_blank">Bone Sentinel's Amulet</a></td>
                 <td>Lord Marrowgar<br/>(Icecrown Citadel 25H)</td>
                 <td>Neck`,
-            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51304/" target="_blank">T10 Shoulders (Sanctified Lasherweave Pauldrons)</a></td>
-                <td>Dalaran</td>
+            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51304/" target="_blank">Sanctified Lasherweave Pauldrons (T10 Shoulders)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Leather`,
             Back: `<a href="https://www.wowhead.com/wotlk/item=50668/" target="_blank">Greatcloak of the Turned Champion</a></td>
                 <td>Deathbringer's Cache<br/>(Icecrown Citadel 25H)</td>
@@ -631,14 +631,14 @@ const data = {
             Wrist: `<a href="https://www.wowhead.com/wotlk/item=54582/" target="_blank">Bracers of Fiery Night</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
                 <td>Colth`,
-            Hands: `<a href="https://www.wowhead.com/wotlk/item=51301/" target="_blank">T10 Hands (anctified Lasherweave Gauntlets)</a></td>
-                <td>Dalaran</td>
+            Hands: `<a href="https://www.wowhead.com/wotlk/item=51301/" target="_blank">anctified Lasherweave Gauntlets (T10 Hands)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Leather`,
             Waist: `<a href="https://www.wowhead.com/wotlk/item=50705/" target="_blank">Professor's Bloodied Smock</a></td>
                 <td>Professor Putricide<br/>(Icecrown Citadel 25H)</td>
                 <td>Cloth`,
-            Legs: `<a href="https://www.wowhead.com/wotlk/item=51303/" target="_blank">T10 Legs (Sanctified Lasherweave Legplates)</a></td>
-                <td>Dalaran</td>
+            Legs: `<a href="https://www.wowhead.com/wotlk/item=51303/" target="_blank">Sanctified Lasherweave Legplates (T10 Legs)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Leather`,
             Feet: [
                 `<a href="https://www.wowhead.com/wotlk/item=50665/" target="_blank">Boots of Unnatural Growth</a></td>
@@ -678,8 +678,8 @@ const data = {
     },
     Hunter: {
         MARKSMANSHIP: {
-            Head: `<a href="https://www.wowhead.com/wotlk/item=51286/" target="_blank">T10 Head (Sanctified Ahn'Kahar Blood Hunter's Headpiece)</a></td>
-                <td>Dalaran</td>
+            Head: `<a href="https://www.wowhead.com/wotlk/item=51286/" target="_blank">Sanctified Ahn'Kahar Blood Hunter's Headpiece (T10 Head)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Mail`,
             Neck: [
                 `<a href="https://www.wowhead.com/wotlk/item=51822/" target="_blank">Rimetooth Pendant</a></td>
@@ -689,20 +689,20 @@ const data = {
                 <td>Sindragosa<br/>(Icecrown Citadel 25H)</td>
                 <td>Neck`,
             ],
-            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51288/" target="_blank">T10 Shoulders (Sanctified Ahn'Kahar Blood Hunter's Spaulders)</a></td>
-                <td>Dalaran</td>
+            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51288/" target="_blank">Sanctified Ahn'Kahar Blood Hunter's Spaulders (T10 Shoulders)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Mail`,
             Back: `<a href="https://www.wowhead.com/wotlk/item=47546/" target="_blank">Sylvana's Cunning</a></td>
                 <td><a href="https://www.wowhead.com/wotlk/object=195665/" target="_blank">Argent Crusade Tribute Chest</a><br/>(Trial of the Crusader 25H)</td>
                 <td>Back`,
-            Chest: `<a href="https://www.wowhead.com/wotlk/item=51289/" target="_blank">T10 Chest (Sanctified Ahn'Kahar Blood Hunter's Tunic)</a></td>
-                <td>Dalaran</td>
+            Chest: `<a href="https://www.wowhead.com/wotlk/item=51289/" target="_blank">Sanctified Ahn'Kahar Blood Hunter's Tunic (T10 Chest)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Mail`,
             Wrist: `<a href="https://www.wowhead.com/wotlk/item=50655/" target="_blank">Scourge Hunter's Vambraces</a></td>
                 <td>Gunship<br/>(Icecrown Citadel 25H)</td>
                 <td>Mail`,
-            Hands: `<a href="https://www.wowhead.com/wotlk/item=51285/" target="_blank">T10 Hands (Sanctified Ahn'Kahar Blood Hunter's Handguards)</a></td>
-                <td>Dalaran</td>
+            Hands: `<a href="https://www.wowhead.com/wotlk/item=51285/" target="_blank">Sanctified Ahn'Kahar Blood Hunter's Handguards (T10 Hands)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Mail`,
             Waist: `<a href="https://www.wowhead.com/wotlk/item=50688/" target="_blank">Nerub'ar Stalker's Cord</a></td>
                 <td>Festergut<br/>(Icecrown Citadel 25H)</td>
@@ -736,14 +736,14 @@ const data = {
     },
     Mage: {
         "TORMENT OF THE WEAK": {
-            Head: `<a href="https://www.wowhead.com/wotlk/item=51281/" target="_blank">T10 Head (Sanctified Bloodmage Hood)</a></td>
-                <td>Dalaran</td>
+            Head: `<a href="https://www.wowhead.com/wotlk/item=51281/" target="_blank">Sanctified Bloodmage Hood (T10 Head)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Cloth`,
             Neck: `<a href="https://www.wowhead.com/wotlk/item=50724/" target="_blank">Blood Queen's Crimson Choker</a></td>
                 <td>Blood-Queen Lana'thel<br/>(Icecrown Citadel 25H)</td>
                 <td>Neck`,
-            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51284/" target="_blank">T10 Shoulders (Sanctified Bloodmage Shoulderpads)</a></td>
-                <td>Dalaran</td>
+            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51284/" target="_blank">Sanctified Bloodmage Shoulderpads (T10 Shoulders)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Cloth`,
             Back: `<a href="https://www.wowhead.com/wotlk/item=54583/" target="_blank">Cloak of Burning Dusk</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
@@ -754,14 +754,14 @@ const data = {
             Wrist: `<a href="https://www.wowhead.com/wotlk/item=54582/" target="_blank">Bracers of Fiery Night</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
                 <td>Colth`,
-            Hands: `<a href="https://www.wowhead.com/wotlk/item=51280/" target="_blank">T10 Hands (Sanctified Bloodmage Gloves)</a></td>
-                <td>Dalaran</td>
+            Hands: `<a href="https://www.wowhead.com/wotlk/item=51280/" target="_blank">Sanctified Bloodmage Gloves (T10 Hands)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Cloth`,
             Waist: `<a href="https://www.wowhead.com/wotlk/item=50613/" target="_blank">Crushing Coldwraith Belt</a></td>
                 <td>Lord Marrowgar<br/>(Icecrown Citadel 25H)</td>
                 <td>Colth`,
-            Legs: `<a href="https://www.wowhead.com/wotlk/item=51282/" target="_blank">T10 Legs (Sanctified Bloodmage Leggings)</a></td>
-                <td>Dalaran</td>
+            Legs: `<a href="https://www.wowhead.com/wotlk/item=51282/" target="_blank">Sanctified Bloodmage Leggings (T10 Legs)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Cloth`,
             Feet: `<a href="https://www.wowhead.com/wotlk/item=50699/" target="_blank">Plague Scientist's Boots</a></td>
                 <td>Festergut<br/>(Icecrown Citadel 25H)</td>
@@ -789,26 +789,26 @@ const data = {
                 <td>Wands`,
         },
         ARCANE: {
-            Head: `<a href="https://www.wowhead.com/wotlk/item=51281/" target="_blank">T10 Head (Sanctified Bloodmage Hood)</a></td>
-                <td>Dalaran</td>
+            Head: `<a href="https://www.wowhead.com/wotlk/item=51281/" target="_blank">Sanctified Bloodmage Hood (T10 Head)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Cloth`,
             Neck: `<a href="https://www.wowhead.com/wotlk/item=50724/" target="_blank">Blood Queen's Crimson Choker</a></td>
                 <td>Blood-Queen Lana'thel<br/>(Icecrown Citadel 25H)</td>
                 <td>Neck`,
-            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51284/" target="_blank">T10 Shoulders (Sanctified Bloodmage Shoulderpads)</a></td>
-                <td>Dalaran</td>
+            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51284/" target="_blank">Sanctified Bloodmage Shoulderpads (T10 Shoulders)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Cloth`,
             Back: `<a href="https://www.wowhead.com/wotlk/item=54583/" target="_blank">Cloak of Burning Dusk</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
                 <td>Back`,
-            Chest: `<a href="https://www.wowhead.com/wotlk/item=51283/" target="_blank">T10 Chest (Sanctified Bloodmage Robe)</a></td>
-                <td>Dalaran</td>
+            Chest: `<a href="https://www.wowhead.com/wotlk/item=51283/" target="_blank">Sanctified Bloodmage Robe (T10 Chest)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Cloth`,
             Wrist: `<a href="https://www.wowhead.com/wotlk/item=54582/" target="_blank">Bracers of Fiery Night</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
                 <td>Colth`,
-            Hands: `<a href="https://www.wowhead.com/wotlk/item=51280/" target="_blank">T10 Hands (Sanctified Bloodmage Gloves)</a></td>
-                <td>Dalaran</td>
+            Hands: `<a href="https://www.wowhead.com/wotlk/item=51280/" target="_blank">Sanctified Bloodmage Gloves (T10 Hands)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Cloth`,
             Waist: `<a href="https://www.wowhead.com/wotlk/item=50613/" target="_blank">Crushing Coldwraith Belt</a></td>
                 <td>Lord Marrowgar<br/>(Icecrown Citadel 25H)</td>
@@ -844,14 +844,14 @@ const data = {
     },
     Paladin: {
         HOLY: {
-            Head: `<a href="https://www.wowhead.com/wotlk/item=51272/" target="_blank">T10 Head (Sanctified Lightsworn Headpiece)</a></td>
-                <td>Dalaran</td>
+            Head: `<a href="https://www.wowhead.com/wotlk/item=51272/" target="_blank">Sanctified Lightsworn Headpiece (T10 Head)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Plate`,
             Neck: `<a href="https://www.wowhead.com/wotlk/item=50724/" target="_blank">Blood Queen's Crimson Choker</a></td>
                 <td>Blood-Queen Lana'thel<br/>(Icecrown Citadel 25H)</td>
                 <td>Neck`,
-            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51273/" target="_blank">T10 Shoulders (Sanctified Lightsworn Spaulders)</a></td>
-                <td>Dalaran</td>
+            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51273/" target="_blank">Sanctified Lightsworn Spaulders (T10 Shoulders)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Plate`,
             Back: `<a href="https://www.wowhead.com/wotlk/item=54583/" target="_blank">Cloak of Burning Dusk</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
@@ -912,20 +912,20 @@ const data = {
                 <td>Libram`,
         },
         "RET AGILITY": {
-            Head: `<a href="https://www.wowhead.com/wotlk/item=51277/" target="_blank">T10 Head (Sanctified Lightsworn Helmet)</a></td>
-                <td>Dalaran</td>
+            Head: `<a href="https://www.wowhead.com/wotlk/item=51277/" target="_blank">Sanctified Lightsworn Helmet (T10 Head)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Plate`,
             Neck: `<a href="https://www.wowhead.com/wotlk/item=54581/" target="_blank">Penumbra Pendant</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
                 <td>Neck`,
-            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51279/" target="_blank">T10 Shoulders (Sanctified Lightsworn Shoulderplates)</a></td>
-                <td>Dalaran</td>
+            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51279/" target="_blank">Sanctified Lightsworn Shoulderplates (T10 Shoulders)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Plate`,
             Back: `<a href="https://www.wowhead.com/wotlk/item=50653/" target="_blank">Shadowvault Slayer's Cloak</a></td>
                 <td>Gunship<br/>(Icecrown Citadel 25H)</td>
                 <td>Back`,
-            Chest: `<a href="https://www.wowhead.com/wotlk/item=51275/" target="_blank">T10 Chest (Sanctified Lightsworn Battleplate)</a></td>
-                <td>Dalaran</td>
+            Chest: `<a href="https://www.wowhead.com/wotlk/item=51275/" target="_blank">Sanctified Lightsworn Battleplate (T10 Chest)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Plate`,
             Wrist: `<a href="https://www.wowhead.com/wotlk/item=54580/" target="_blank">Umbrage Armbands</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
@@ -936,8 +936,8 @@ const data = {
             Waist: `<a href="https://www.wowhead.com/wotlk/item=50707/" target="_blank">Astrylian's Sutured Cinch</a></td>
                 <td>Professor Putricide<br/>(Icecrown Citadel 25H)</td>
                 <td>Leather`,
-            Legs: `<a href="https://www.wowhead.com/wotlk/item=51278/" target="_blank">T10 Legs (Sanctified Lightsworn Legplates)</a></td>
-                <td>Dalaran</td>
+            Legs: `<a href="https://www.wowhead.com/wotlk/item=51278/" target="_blank">Sanctified Lightsworn Legplates (T10 Legs)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Plate`,
             Feet: `<a href="https://www.wowhead.com/wotlk/item=54578/" target="_blank">Apocalypse's Advance</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
@@ -973,20 +973,20 @@ const data = {
             ],
         },
         "RET STRENGTH (AOE)": {
-            Head: `<a href="https://www.wowhead.com/wotlk/item=51277/" target="_blank">T10 Head (Sanctified Lightsworn Helmet)</a></td>
-                <td>Dalaran</td>
+            Head: `<a href="https://www.wowhead.com/wotlk/item=51277/" target="_blank">Sanctified Lightsworn Helmet (T10 Head)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Plate`,
             Neck: `<a href="https://www.wowhead.com/wotlk/item=54581/" target="_blank">Penumbra Pendant</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
                 <td>Neck`,
-            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51279/" target="_blank">T10 Shoulders (Sanctified Lightsworn Shoulderplates)</a></td>
-                <td>Dalaran</td>
+            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51279/" target="_blank">Sanctified Lightsworn Shoulderplates (T10 Shoulders)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Plate`,
             Back: `<a href="https://www.wowhead.com/wotlk/item=50677/" target="_blank">Winding Sheet</a></td>
                 <td>Rotface<br/>(Icecrown Citadel 25H)</td>
                 <td>Back`,
-            Chest: `<a href="https://www.wowhead.com/wotlk/item=51275/" target="_blank">T10 Chest (Sanctified Lightsworn Battleplate)</a></td>
-                <td>Dalaran</td>
+            Chest: `<a href="https://www.wowhead.com/wotlk/item=51275/" target="_blank">Sanctified Lightsworn Battleplate (T10 Chest)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Plate`,
             Wrist: `<a href="https://www.wowhead.com/wotlk/item=54580/" target="_blank">Umbrage Armbands</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
@@ -997,8 +997,8 @@ const data = {
             Waist: `<a href="https://www.wowhead.com/wotlk/item=50620/" target="_blank">Coldwraith Links</a></td>
                 <td>Cache of the Dreamwalker<br/>(Icecrown Citadel 25H)</td>
                 <td>Plate`,
-            Legs: `<a href="https://www.wowhead.com/wotlk/item=51278/" target="_blank">T10 Legs (Sanctified Lightsworn Legplates)</a></td>
-                <td>Dalaran</td>
+            Legs: `<a href="https://www.wowhead.com/wotlk/item=51278/" target="_blank">Sanctified Lightsworn Legplates (T10 Legs)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Plate`,
             Feet: `<a href="https://www.wowhead.com/wotlk/item=54578/" target="_blank">Apocalypse's Advance</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
@@ -1040,26 +1040,26 @@ const data = {
             Neck: `<a href="https://www.wowhead.com/wotlk/item=50682/" target="_blank">Bile-Encrusted Medallion</a></td>
                 <td>Rotface<br/>(Icecrown Citadel 25H)</td>
                 <td>Neck`,
-            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51269/" target="_blank">T10 Shoulders (Sanctified Lightsworn Shoulderguards)</a></td>
-                <td>Dalaran</td>
+            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51269/" target="_blank">Sanctified Lightsworn Shoulderguards (T10 Shoulders)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Plate`,
             Back: `<a href="https://www.wowhead.com/wotlk/item=50466/" target="_blank">Sentinel's Winter Cloak</a></td>
                 <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x50</td>
                 <td>Back`,
-            Chest: `<a href="https://www.wowhead.com/wotlk/item=51265/" target="_blank">T10 Chest (Sanctified Lightsworn Chestguard)</a></td>
-                <td>Dalaran</td>
+            Chest: `<a href="https://www.wowhead.com/wotlk/item=51265/" target="_blank">Sanctified Lightsworn Chestguard (T10 Chest)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Plate`,
             Wrist: `<a href="https://www.wowhead.com/wotlk/item=51901/" target="_blank">Gargoyle Spit Bracers</a></td>
                 <td>Deathbringer's Cache<br/>(Icecrown Citadel 10H)</td>
                 <td>Plate`,
-            Hands: `<a href="https://www.wowhead.com/wotlk/item=51267/" target="_blank">T10 Hands (Sanctified Lightsworn Handguards)</a></td>
-                <td>Dalaran</td>
+            Hands: `<a href="https://www.wowhead.com/wotlk/item=51267/" target="_blank">Sanctified Lightsworn Handguards (T10 Hands)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Plate`,
             Waist: `<a href="https://www.wowhead.com/wotlk/item=50991/" target="_blank">Verdigris Chain Belt</a></td>
                 <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Plate`,
-            Legs: `<a href="https://www.wowhead.com/wotlk/item=51268/" target="_blank">T10 Legs (Sanctified Lightsworn Legguards)</a></td>
-                <td>Dalaran</td>
+            Legs: `<a href="https://www.wowhead.com/wotlk/item=51268/" target="_blank">Sanctified Lightsworn Legguards (T10 Legs)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Plate`,
             Feet: `<a href="https://www.wowhead.com/wotlk/item=54579/" target="_blank">Treads of Impending Resurrection</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
@@ -1117,14 +1117,14 @@ const data = {
             Back: `<a href="https://www.wowhead.com/wotlk/item=50466/" target="_blank">Sentinel's Winter Cloak</a></td>
                 <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x50</td>
                 <td>Back`,
-            Chest: `<a href="https://www.wowhead.com/wotlk/item=51265/" target="_blank">T10 Chest (Sanctified Lightsworn Chestguard)</a></td>
-                <td>Dalaran</td>
+            Chest: `<a href="https://www.wowhead.com/wotlk/item=51265/" target="_blank">Sanctified Lightsworn Chestguard (T10 Chest)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Plate`,
             Wrist: `<a href="https://www.wowhead.com/wotlk/item=51901/" target="_blank">Gargoyle Spit Bracers</a></td>
                 <td>Deathbringer's Cache<br/>(Icecrown Citadel 10H)</td>
                 <td>Plate`,
-            Hands: `<a href="https://www.wowhead.com/wotlk/item=51267/" target="_blank">T10 Hands (Sanctified Lightsworn Handguards)</a></td>
-                <td>Dalaran</td>
+            Hands: `<a href="https://www.wowhead.com/wotlk/item=51267/" target="_blank">Sanctified Lightsworn Handguards (T10 Hands)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Plate`,
             Waist: `<a href="https://www.wowhead.com/wotlk/item=50991/" target="_blank">Verdigris Chain Belt</a></td>
                 <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
@@ -1164,26 +1164,26 @@ const data = {
             Neck: `<a href="https://www.wowhead.com/wotlk/item=50682/" target="_blank">Bile-Encrusted Medallion</a></td>
                 <td>Rotface<br/>(Icecrown Citadel 25H)</td>
                 <td>Neck`,
-            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51269/" target="_blank">T10 Shoulders (Sanctified Lightsworn Shoulderguards)</a></td>
-                <td>Dalaran</td>
+            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51269/" target="_blank">Sanctified Lightsworn Shoulderguards (T10 Shoulders)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Plate`,
             Back: `<a href="https://www.wowhead.com/wotlk/item=50466/" target="_blank">Sentinel's Winter Cloak</a></td>
                 <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x50</td>
                 <td>Back`,
-            Chest: `<a href="https://www.wowhead.com/wotlk/item=51265/" target="_blank">T10 Chest (Sanctified Lightsworn Chestguard)</a></td>
-                <td>Dalaran</td>
+            Chest: `<a href="https://www.wowhead.com/wotlk/item=51265/" target="_blank">Sanctified Lightsworn Chestguard (T10 Chest)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Plate`,
             Wrist: `<a href="https://www.wowhead.com/wotlk/item=51901/" target="_blank">Gargoyle Spit Bracers</a></td>
                 <td>Deathbringer's Cache<br/>(Icecrown Citadel 10H)</td>
                 <td>Plate`,
-            Hands: `<a href="https://www.wowhead.com/wotlk/item=51267/" target="_blank">T10 Hands (Sanctified Lightsworn Handguards)</a></td>
-                <td>Dalaran</td>
+            Hands: `<a href="https://www.wowhead.com/wotlk/item=51267/" target="_blank">Sanctified Lightsworn Handguards (T10 Hands)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Plate`,
             Waist: `<a href="https://www.wowhead.com/wotlk/item=50991/" target="_blank">Verdigris Chain Belt</a></td>
                 <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Plate`,
-            Legs: `<a href="https://www.wowhead.com/wotlk/item=51268/" target="_blank">T10 Legs (Sanctified Lightsworn Legguards)</a></td>
-                <td>Dalaran</td>
+            Legs: `<a href="https://www.wowhead.com/wotlk/item=51268/" target="_blank">Sanctified Lightsworn Legguards (T10 Legs)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Plate`,
             Feet: `<a href="https://www.wowhead.com/wotlk/item=50625/" target="_blank">Grinning Skull Greatboots</a></td>
                 <td>Cache of the Dreamwalker<br/>(Icecrown Citadel 25H)</td>
@@ -1218,20 +1218,20 @@ const data = {
     },
     Priest: {
         "SHADOW (BiS)": {
-            Head: `<a href="https://www.wowhead.com/wotlk/item=51255/" target="_blank">T10 Head (Sanctified Crimson Acolyte Cowl)</a></td>
-                <td>Dalaran</td>
+            Head: `<a href="https://www.wowhead.com/wotlk/item=51255/" target="_blank">Sanctified Crimson Acolyte Cowl (T10 Head)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Cloth`,
             Neck: `<a href="https://www.wowhead.com/wotlk/item=50658/" target="_blank">Amulet of Silent Eulogy</a></td>
                 <td>Gunship<br/>(Icecrown Citadel 25H)</td>
                 <td>Neck`,
-            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51257/" target="_blank">T10 Shoulders (Sanctified Crimson Acolyte Mantle)</a></td>
-                <td>Dalaran</td>
+            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51257/" target="_blank">Sanctified Crimson Acolyte Mantle (T10 Shoulders)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Cloth`,
             Back: `<a href="https://www.wowhead.com/wotlk/item=54583/" target="_blank">Cloak of Burning Dusk</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
                 <td>Back`,
-            Chest: `<a href="https://www.wowhead.com/wotlk/item=51259/" target="_blank">T10 Chest (Sanctified Crimson Acolyte Raiments)</a></td>
-                <td>Dalaran</td>
+            Chest: `<a href="https://www.wowhead.com/wotlk/item=51259/" target="_blank">Sanctified Crimson Acolyte Raiments (T10 Chest)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Cloth`,
             Wrist: `<a href="https://www.wowhead.com/wotlk/item=54582/" target="_blank">Bracers of Fiery Night</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
@@ -1242,8 +1242,8 @@ const data = {
             Waist: `<a href="https://www.wowhead.com/wotlk/item=50613/" target="_blank">Crushing Coldwraith Belt</a></td>
                 <td>Lord Marrowgar<br/>(Icecrown Citadel 25H)</td>
                 <td>Colth`,
-            Legs: `<a href="https://www.wowhead.com/wotlk/item=51258/" target="_blank">T10 Legs (Sanctified Crimson Acolyte Pants)</a></td>
-                <td>Dalaran</td>
+            Legs: `<a href="https://www.wowhead.com/wotlk/item=51258/" target="_blank">Sanctified Crimson Acolyte Pants (T10 Legs)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Cloth`,
             Feet: `<a href="https://www.wowhead.com/wotlk/item=50699/" target="_blank">Plague Scientist's Boots</a></td>
                 <td>Festergut<br/>(Icecrown Citadel 25H)</td>
@@ -1271,26 +1271,26 @@ const data = {
                 <td>Wands`,
         },
         "SHADOW (2nd BiS)": {
-            Head: `<a href="https://www.wowhead.com/wotlk/item=51255/" target="_blank">T10 Head (Sanctified Crimson Acolyte Cowl)</a></td>
-                <td>Dalaran</td>
+            Head: `<a href="https://www.wowhead.com/wotlk/item=51255/" target="_blank">Sanctified Crimson Acolyte Cowl (T10 Head)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Cloth`,
             Neck: `<a href="https://www.wowhead.com/wotlk/item=50724/" target="_blank">Blood Queen's Crimson Choker</a></td>
                 <td>Blood-Queen Lana'thel<br/>(Icecrown Citadel 25H)</td>
                 <td>Neck`,
-            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51257/" target="_blank">T10 Shoulders (Sanctified Crimson Acolyte Mantle)</a></td>
-                <td>Dalaran</td>
+            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51257/" target="_blank">Sanctified Crimson Acolyte Mantle (T10 Shoulders)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Cloth`,
             Back: `<a href="https://www.wowhead.com/wotlk/item=54583/" target="_blank">Cloak of Burning Dusk</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
                 <td>Back`,
-            Chest: `<a href="https://www.wowhead.com/wotlk/item=51259/" target="_blank">T10 Chest (Sanctified Crimson Acolyte Raiments)</a></td>
-                <td>Dalaran</td>
+            Chest: `<a href="https://www.wowhead.com/wotlk/item=51259/" target="_blank">Sanctified Crimson Acolyte Raiments (T10 Chest)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Cloth`,
             Wrist: `<a href="https://www.wowhead.com/wotlk/item=54582/" target="_blank">Bracers of Fiery Night</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
                 <td>Colth`,
-            Hands: `<a href="https://www.wowhead.com/wotlk/item=51256/" target="_blank">T10 Hands (Sanctified Crimson Acolyte Handwraps)</a></td>
-                <td>Dalaran</td>
+            Hands: `<a href="https://www.wowhead.com/wotlk/item=51256/" target="_blank">Sanctified Crimson Acolyte Handwraps (T10 Hands)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Cloth`,
             Waist: `<a href="https://www.wowhead.com/wotlk/item=50613/" target="_blank">Crushing Coldwraith Belt</a></td>
                 <td>Lord Marrowgar<br/>(Icecrown Citadel 25H)</td>
@@ -1324,32 +1324,32 @@ const data = {
                 <td>Wands`,
         },
         DISCIPLINE: {
-            Head: `<a href="https://www.wowhead.com/wotlk/item=51261/" target="_blank">T10 Head (Sanctified Crimson Acolyte Hood)</a></td>
-                <td>Dalaran</td>
+            Head: `<a href="https://www.wowhead.com/wotlk/item=51261/" target="_blank">Sanctified Crimson Acolyte Hood (T10 Head)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Cloth`,
             Neck: `<a href="https://www.wowhead.com/wotlk/item=50724/" target="_blank">Blood Queen's Crimson Choker</a></td>
                 <td>Blood-Queen Lana'thel<br/>(Icecrown Citadel 25H)</td>
                 <td>Neck`,
-            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51264/" target="_blank">T10 Shoulders (Sanctified Crimson Acolyte Shoulderpads)</a></td>
-                <td>Dalaran</td>
+            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51264/" target="_blank">Sanctified Crimson Acolyte Shoulderpads (T10 Shoulders)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Cloth`,
             Back: `<a href="https://www.wowhead.com/wotlk/item=54583/" target="_blank">Cloak of Burning Dusk</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
                 <td>Back`,
-            Chest: `<a href="https://www.wowhead.com/wotlk/item=51259/" target="_blank">T10 Chest (Sanctified Crimson Acolyte Raiments) (Shadow Set)</a></td>
+            Chest: `<a href="https://www.wowhead.com/wotlk/item=51259/" target="_blank">Shadow Set (T10 Chest (Sanctified Crimson Acolyte Raiments))</a></td>
                 <td>Dalaran</td>
                 <td>Cloth`,
             Wrist: `<a href="https://www.wowhead.com/wotlk/item=54582/" target="_blank">Bracers of Fiery Night</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
                 <td>Colth`,
-            Hands: `<a href="https://www.wowhead.com/wotlk/item=51260/" target="_blank">T10 Hands (Sanctified Crimson Acolyte Gloves)</a></td>
-                <td>Dalaran</td>
+            Hands: `<a href="https://www.wowhead.com/wotlk/item=51260/" target="_blank">Sanctified Crimson Acolyte Gloves (T10 Hands)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Cloth`,
             Waist: `<a href="https://www.wowhead.com/wotlk/item=50702/" target="_blank">Lingering Illness</a></td>
                 <td>Festergut<br/>(Icecrown Citadel 25H)</td>
                 <td>Cloth`,
-            Legs: `<a href="https://www.wowhead.com/wotlk/item=51262/" target="_blank">T10 Legs (Sanctified Crimson Acolyte Leggings)</a></td>
-                <td>Dalaran</td>
+            Legs: `<a href="https://www.wowhead.com/wotlk/item=51262/" target="_blank">Sanctified Crimson Acolyte Leggings (T10 Legs)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Cloth`,
             Feet: `<a href="https://www.wowhead.com/wotlk/item=50699/" target="_blank">Plague Scientist's Boots</a></td>
                 <td>Festergut<br/>(Icecrown Citadel 25H)</td>
@@ -1382,31 +1382,31 @@ const data = {
                 <td>Wands`,
         },
         "DISCIPLINE - 2": {
-            Head: `<a href="https://www.wowhead.com/wotlk/item=51261/" target="_blank">T10 Head (Sanctified Crimson Acolyte Hood)</a></td>
-                <td>Dalaran</td>
+            Head: `<a href="https://www.wowhead.com/wotlk/item=51261/" target="_blank">Sanctified Crimson Acolyte Hood (T10 Head)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Cloth`,
             Neck: `<a href="https://www.wowhead.com/wotlk/item=50700/" target="_blank">Holiday's Grace</a></td>
                 <td>Festergut<br/>(Icecrown Citadel 25H)</td>
                 <td>Neck`,
-            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51264/" target="_blank">T10 Shoulders (Sanctified Crimson Acolyte Shoulderpads)</a></td>
-                <td>Dalaran</td>
+            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51264/" target="_blank">Sanctified Crimson Acolyte Shoulderpads (T10 Shoulders)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Cloth`,
             Back: `<a href="https://www.wowhead.com/wotlk/item=54583/" target="_blank">Cloak of Burning Dusk</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
                 <td>Back`,
-            Chest: `<a href="https://www.wowhead.com/wotlk/item=51263/" target="_blank">T10 Chest (Sanctified Crimson Acolyte Robe)</a></td>
-                <td>Dalaran</td>
+            Chest: `<a href="https://www.wowhead.com/wotlk/item=51263/" target="_blank">Sanctified Crimson Acolyte Robe (T10 Chest)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Cloth`,
             Wrist: `<a href="https://www.wowhead.com/wotlk/item=54582/" target="_blank">Bracers of Fiery Night</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
                 <td>Colth`,
-            Hands: `<a href="https://www.wowhead.com/wotlk/item=51260/" target="_blank">T10 Hands (Sanctified Crimson Acolyte Gloves)</a></td>
-                <td>Dalaran</td>
+            Hands: `<a href="https://www.wowhead.com/wotlk/item=51260/" target="_blank">Sanctified Crimson Acolyte Gloves (T10 Hands)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Cloth`,
             Waist: `<a href="https://www.wowhead.com/wotlk/item=50702/" target="_blank">Lingering Illness</a></td>
                 <td>Festergut<br/>(Icecrown Citadel 25H)</td>
                 <td>Cloth`,
-            Legs: `<a href="https://www.wowhead.com/wotlk/item=51258/" target="_blank">T10 Legs (Sanctified Crimson Acolyte Pants) (Shadow Set)</a></td>
+            Legs: `<a href="https://www.wowhead.com/wotlk/item=51258/" target="_blank">Shadow Set (T10 Legs (Sanctified Crimson Acolyte Pants))</a></td>
                 <td>Dalaran</td>
                 <td>Cloth`,
             Feet: `<a href="https://www.wowhead.com/wotlk/item=50699/" target="_blank">Plague Scientist's Boots</a></td>
@@ -1435,14 +1435,14 @@ const data = {
                 <td>Wand`,
         },
         HOLY: {
-            Head: `<a href="https://www.wowhead.com/wotlk/item=51261/" target="_blank">T10 Head (Sanctified Crimson Acolyte Hood)</a></td>
-                <td>Dalaran</td>
+            Head: `<a href="https://www.wowhead.com/wotlk/item=51261/" target="_blank">Sanctified Crimson Acolyte Hood (T10 Head)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Cloth`,
             Neck: `<a href="https://www.wowhead.com/wotlk/item=50609/" target="_blank">Bone Sentinel's Amulet</a></td>
                 <td>Lord Marrowgar<br/>(Icecrown Citadel 25H)</td>
                 <td>Neck`,
-            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51264/" target="_blank">T10 Shoulders (Sanctified Crimson Acolyte Shoulderpads)</a></td>
-                <td>Dalaran</td>
+            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51264/" target="_blank">Sanctified Crimson Acolyte Shoulderpads (T10 Shoulders)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Cloth`,
             Back: `<a href="https://www.wowhead.com/wotlk/item=50668/" target="_blank">Greatcloak of the Turned Champion</a></td>
                 <td>Deathbringer's Cache<br/>(Icecrown Citadel 25H)</td>
@@ -1453,14 +1453,14 @@ const data = {
             Wrist: `<a href="https://www.wowhead.com/wotlk/item=54582/" target="_blank">Bracers of Fiery Night</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
                 <td>Colth`,
-            Hands: `<a href="https://www.wowhead.com/wotlk/item=51260/" target="_blank">T10 Hands (Sanctified Crimson Acolyte Gloves)</a></td>
-                <td>Dalaran</td>
+            Hands: `<a href="https://www.wowhead.com/wotlk/item=51260/" target="_blank">Sanctified Crimson Acolyte Gloves (T10 Hands)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Cloth`,
             Waist: `<a href="https://www.wowhead.com/wotlk/item=50613/" target="_blank">Crushing Coldwraith Belt</a></td>
                 <td>Lord Marrowgar<br/>(Icecrown Citadel 25H)</td>
                 <td>Colth`,
-            Legs: `<a href="https://www.wowhead.com/wotlk/item=51262/" target="_blank">T10 Legs (Sanctified Crimson Acolyte Leggings)</a></td>
-                <td>Dalaran</td>
+            Legs: `<a href="https://www.wowhead.com/wotlk/item=51262/" target="_blank">Sanctified Crimson Acolyte Leggings (T10 Legs)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Cloth`,
             Feet: `<a href="https://www.wowhead.com/wotlk/item=50699/" target="_blank">Plague Scientist's Boots</a></td>
                 <td>Festergut<br/>(Icecrown Citadel 25H)</td>
@@ -1495,14 +1495,14 @@ const data = {
     },
     Rogue: {
         "COMBAT 2P": {
-            Head: `<a href="https://www.wowhead.com/wotlk/item=51252/" target="_blank">T10 Head (Sanctified Shadowblade Helmet)</a></td>
-                <td>Dalaran</td>
+            Head: `<a href="https://www.wowhead.com/wotlk/item=51252/" target="_blank">Sanctified Shadowblade Helmet (T10 Head)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Leather`,
             Neck: `<a href="https://www.wowhead.com/wotlk/item=50633/" target="_blank">Sindragosa's Cruel Claw</a></td>
                 <td>Sindragosa<br/>(Icecrown Citadel 25H)</td>
                 <td>Neck`,
-            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51254/" target="_blank">T10 Shoulders (Sanctified Shadowblade Pauldrons)</a></td>
-                <td>Dalaran</td>
+            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51254/" target="_blank">Sanctified Shadowblade Pauldrons (T10 Shoulders)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Leather`,
             Back: `<a href="https://www.wowhead.com/wotlk/item=47546/" target="_blank">Sylvana's Cunning</a></td>
                 <td><a href="https://www.wowhead.com/wotlk/object=195665/" target="_blank">Argent Crusade Tribute Chest</a><br/>(Trial of the Crusader 25H)</td>
@@ -1550,20 +1550,20 @@ const data = {
                 <td>Crossbows`,
         },
         "COMBAT 4P": {
-            Head: `<a href="https://www.wowhead.com/wotlk/item=51252/" target="_blank">T10 Head (Sanctified Shadowblade Helmet)</a></td>
-                <td>Dalaran</td>
+            Head: `<a href="https://www.wowhead.com/wotlk/item=51252/" target="_blank">Sanctified Shadowblade Helmet (T10 Head)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Leather`,
             Neck: `<a href="https://www.wowhead.com/wotlk/item=50633/" target="_blank">Sindragosa's Cruel Claw</a></td>
                 <td>Sindragosa<br/>(Icecrown Citadel 25H)</td>
                 <td>Neck`,
-            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51254/" target="_blank">T10 Shoulders (Sanctified Shadowblade Pauldrons)</a></td>
-                <td>Dalaran</td>
+            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51254/" target="_blank">Sanctified Shadowblade Pauldrons (T10 Shoulders)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Leather`,
             Back: `<a href="https://www.wowhead.com/wotlk/item=47546/" target="_blank">Sylvana's Cunning</a></td>
                 <td><a href="https://www.wowhead.com/wotlk/object=195665/" target="_blank">Argent Crusade Tribute Chest</a><br/>(Trial of the Crusader 25H)</td>
                 <td>Back`,
-            Chest: `<a href="https://www.wowhead.com/wotlk/item=51250/" target="_blank">T10 Chest (Sanctified Shadowblade Breastplate)</a></td>
-                <td>Dalaran</td>
+            Chest: `<a href="https://www.wowhead.com/wotlk/item=51250/" target="_blank">Sanctified Shadowblade Breastplate (T10 Chest)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Leather`,
             Wrist: [
                 `<a href="https://www.wowhead.com/wotlk/item=54580/" target="_blank">Umbrage Armbands</a></td>
@@ -1576,8 +1576,8 @@ const data = {
             Waist: `<a href="https://www.wowhead.com/wotlk/item=50707/" target="_blank">Astrylian's Sutured Cinch</a></td>
                 <td>Professor Putricide<br/>(Icecrown Citadel 25H)</td>
                 <td>Leather`,
-            Legs: `<a href="https://www.wowhead.com/wotlk/item=51253/" target="_blank">T10 Legs (Sanctified Shadowblade Legplates)</a></td>
-                <td>Dalaran</td>
+            Legs: `<a href="https://www.wowhead.com/wotlk/item=51253/" target="_blank">Sanctified Shadowblade Legplates (T10 Legs)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Leather`,
             Feet: `<a href="https://www.wowhead.com/wotlk/item=50607/" target="_blank">Frostbitten Fur Boots</a></td>
                 <td>Lord Marrowgar<br/>(Icecrown Citadel 25H)</td>
@@ -1605,14 +1605,14 @@ const data = {
                 <td>Crossbows`,
         },
         ASSASSINATION: {
-            Head: `<a href="https://www.wowhead.com/wotlk/item=51252/" target="_blank">T10 Head (Sanctified Shadowblade Helmet)</a></td>
-                <td>Dalaran</td>
+            Head: `<a href="https://www.wowhead.com/wotlk/item=51252/" target="_blank">Sanctified Shadowblade Helmet (T10 Head)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Leather`,
             Neck: `<a href="https://www.wowhead.com/wotlk/item=50633/" target="_blank">Sindragosa's Cruel Claw</a></td>
                 <td>Sindragosa<br/>(Icecrown Citadel 25H)</td>
                 <td>Neck`,
-            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51254/" target="_blank">T10 Shoulders (Sanctified Shadowblade Pauldrons)</a></td>
-                <td>Dalaran</td>
+            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51254/" target="_blank">Sanctified Shadowblade Pauldrons (T10 Shoulders)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Leather`,
             Back: `<a href="https://www.wowhead.com/wotlk/item=50653/" target="_blank">Shadowvault Slayer's Cloak</a></td>
                 <td>Gunship<br/>(Icecrown Citadel 25H)</td>
@@ -1623,14 +1623,14 @@ const data = {
             Wrist: `<a href="https://www.wowhead.com/wotlk/item=54580/" target="_blank">Umbrage Armbands</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
                 <td>Leather`,
-            Hands: `<a href="https://www.wowhead.com/wotlk/item=51251/" target="_blank">T10 Hands (Sanctified Shadowblade Gauntlets)</a></td>
-                <td>Dalaran</td>
+            Hands: `<a href="https://www.wowhead.com/wotlk/item=51251/" target="_blank">Sanctified Shadowblade Gauntlets (T10 Hands)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Leather`,
             Waist: `<a href="https://www.wowhead.com/wotlk/item=50707/" target="_blank">Astrylian's Sutured Cinch</a></td>
                 <td>Professor Putricide<br/>(Icecrown Citadel 25H)</td>
                 <td>Leather`,
-            Legs: `<a href="https://www.wowhead.com/wotlk/item=51253/" target="_blank">T10 Legs (Sanctified Shadowblade Legplates)</a></td>
-                <td>Dalaran</td>
+            Legs: `<a href="https://www.wowhead.com/wotlk/item=51253/" target="_blank">Sanctified Shadowblade Legplates (T10 Legs)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Leather`,
             Feet: `<a href="https://www.wowhead.com/wotlk/item=50607/" target="_blank">Frostbitten Fur Boots</a></td>
                 <td>Lord Marrowgar<br/>(Icecrown Citadel 25H)</td>
@@ -1660,8 +1660,8 @@ const data = {
     },
     Shaman: {
         "ELEMENTAL CRIT MULTI-TARGET": {
-            Head: `<a href="https://www.wowhead.com/wotlk/item=51237/" target="_blank">T10 Head (Sanctified Frost Witch's Helm)</a></td>
-                <td>Dalaran</td>
+            Head: `<a href="https://www.wowhead.com/wotlk/item=51237/" target="_blank">Sanctified Frost Witch's Helm (T10 Head)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Mail`,
             Neck: `<a href="https://www.wowhead.com/wotlk/item=50724/" target="_blank">Blood Queen's Crimson Choker</a></td>
                 <td>Blood-Queen Lana'thel<br/>(Icecrown Citadel 25H)</td>
@@ -1672,20 +1672,20 @@ const data = {
             Back: `<a href="https://www.wowhead.com/wotlk/item=54583/" target="_blank">Cloak of Burning Dusk</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
                 <td>Back`,
-            Chest: `<a href="https://www.wowhead.com/wotlk/item=51239/" target="_blank">T10 Chest (Sanctified Frost Witch's Hauberk)</a></td>
-                <td>Dalaran</td>
+            Chest: `<a href="https://www.wowhead.com/wotlk/item=51239/" target="_blank">Sanctified Frost Witch's Hauberk (T10 Chest)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Mail`,
             Wrist: `<a href="https://www.wowhead.com/wotlk/item=54582/" target="_blank">Bracers of Fiery Night</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
                 <td>Colth`,
-            Hands: `<a href="https://www.wowhead.com/wotlk/item=51238/" target="_blank">T10 Hands (Sanctified Frost Witch's Gloves)</a></td>
-                <td>Dalaran</td>
+            Hands: `<a href="https://www.wowhead.com/wotlk/item=51238/" target="_blank">Sanctified Frost Witch's Gloves (T10 Hands)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Mail`,
             Waist: `<a href="https://www.wowhead.com/wotlk/item=54587/" target="_blank">Split Shape Belt</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
                 <td>Plate`,
-            Legs: `<a href="https://www.wowhead.com/wotlk/item=51236/" target="_blank">T10 Legs (Sanctified Frost Witch's Kilt)</a></td>
-                <td>Dalaran</td>
+            Legs: `<a href="https://www.wowhead.com/wotlk/item=51236/" target="_blank">Sanctified Frost Witch's Kilt (T10 Legs)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Mail`,
             Feet: `<a href="https://www.wowhead.com/wotlk/item=50699/" target="_blank">Plague Scientist's Boots</a></td>
                 <td>Festergut<br/>(Icecrown Citadel 25H)</td>
@@ -1716,26 +1716,26 @@ const data = {
             ],
         },
         "ELEMENTAL HASTE": {
-            Head: `<a href="https://www.wowhead.com/wotlk/item=51237/" target="_blank">T10 Head (Sanctified Frost Witch's Helm)</a></td>
-                <td>Dalaran</td>
+            Head: `<a href="https://www.wowhead.com/wotlk/item=51237/" target="_blank">Sanctified Frost Witch's Helm (T10 Head)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Mail`,
             Neck: `<a href="https://www.wowhead.com/wotlk/item=50724/" target="_blank">Blood Queen's Crimson Choker</a></td>
                 <td>Blood-Queen Lana'thel<br/>(Icecrown Citadel 25H)</td>
                 <td>Neck`,
-            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51235/" target="_blank">T10 Shoulders (Sanctified Frost Witch's Shoulderpads)</a></td>
-                <td>Dalaran</td>
+            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51235/" target="_blank">Sanctified Frost Witch's Shoulderpads (T10 Shoulders)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Mail`,
             Back: `<a href="https://www.wowhead.com/wotlk/item=54583/" target="_blank">Cloak of Burning Dusk</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
                 <td>Back`,
-            Chest: `<a href="https://www.wowhead.com/wotlk/item=51239/" target="_blank">T10 Chest (Sanctified Frost Witch's Hauberk)</a></td>
-                <td>Dalaran</td>
+            Chest: `<a href="https://www.wowhead.com/wotlk/item=51239/" target="_blank">Sanctified Frost Witch's Hauberk (T10 Chest)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Mail`,
             Wrist: `<a href="https://www.wowhead.com/wotlk/item=54582/" target="_blank">Bracers of Fiery Night</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
                 <td>Colth`,
-            Hands: `<a href="https://www.wowhead.com/wotlk/item=51238/" target="_blank">T10 Hands (Sanctified Frost Witch's Gloves)</a></td>
-                <td>Dalaran</td>
+            Hands: `<a href="https://www.wowhead.com/wotlk/item=51238/" target="_blank">Sanctified Frost Witch's Gloves (T10 Hands)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Mail`,
             Waist: `<a href="https://www.wowhead.com/wotlk/item=54587/" target="_blank">Split Shape Belt</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
@@ -1769,20 +1769,20 @@ const data = {
                 <td>Totem`,
         },
         RESTORATION: {
-            Head: `<a href="https://www.wowhead.com/wotlk/item=51247/" target="_blank">T10 Head (Sanctified Frost Witch's Headpiece)</a></td>
-                <td>Dalaran</td>
+            Head: `<a href="https://www.wowhead.com/wotlk/item=51247/" target="_blank">Sanctified Frost Witch's Headpiece (T10 Head)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Mail`,
             Neck: `<a href="https://www.wowhead.com/wotlk/item=50724/" target="_blank">Blood Queen's Crimson Choker</a></td>
                 <td>Blood-Queen Lana'thel<br/>(Icecrown Citadel 25H)</td>
                 <td>Neck`,
-            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51245/" target="_blank">T10 Shoulders (Sanctified Frost Witch's Spaulders)</a></td>
-                <td>Dalaran</td>
+            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51245/" target="_blank">Sanctified Frost Witch's Spaulders (T10 Shoulders)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Mail`,
             Back: `<a href="https://www.wowhead.com/wotlk/item=54583/" target="_blank">Cloak of Burning Dusk</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
                 <td>Back`,
-            Chest: `<a href="https://www.wowhead.com/wotlk/item=51249/" target="_blank">T10 Chest (Sanctified Frost Witch's Tunic)</a></td>
-                <td>Dalaran</td>
+            Chest: `<a href="https://www.wowhead.com/wotlk/item=51249/" target="_blank">Sanctified Frost Witch's Tunic (T10 Chest)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Mail`,
             Wrist: [
                 `<a href="https://www.wowhead.com/wotlk/item=54582/" target="_blank">Bracers of Fiery Night</a></td>
@@ -1803,8 +1803,8 @@ const data = {
             Waist: `<a href="https://www.wowhead.com/wotlk/item=54587/" target="_blank">Split Shape Belt</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
                 <td>Plate`,
-            Legs: `<a href="https://www.wowhead.com/wotlk/item=51246/" target="_blank">T10 Legs (Sanctified Frost Witch's Legguards)</a></td>
-                <td>Dalaran</td>
+            Legs: `<a href="https://www.wowhead.com/wotlk/item=51246/" target="_blank">Sanctified Frost Witch's Legguards (T10 Legs)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Mail`,
             Feet: `<a href="https://www.wowhead.com/wotlk/item=50699/" target="_blank">Plague Scientist's Boots</a></td>
                 <td>Festergut<br/>(Icecrown Citadel 25H)</td>
@@ -1837,20 +1837,20 @@ const data = {
             ],
         },
         "ENHANCEMENT SINGLE TARGET": {
-            Head: `<a href="https://www.wowhead.com/wotlk/item=51242/" target="_blank">T10 Head (Sanctified Frost Witch's Faceguard)</a></td>
-                <td>Dalaran</td>
+            Head: `<a href="https://www.wowhead.com/wotlk/item=51242/" target="_blank">Sanctified Frost Witch's Faceguard (T10 Head)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Mail`,
             Neck: `<a href="https://www.wowhead.com/wotlk/item=50633/" target="_blank">Sindragosa's Cruel Claw</a></td>
                 <td>Sindragosa<br/>(Icecrown Citadel 25H)</td>
                 <td>Neck`,
-            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51240/" target="_blank">T10 Shoulders (Sanctified Frost Witch's Shoulderguards)</a></td>
-                <td>Dalaran</td>
+            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51240/" target="_blank">Sanctified Frost Witch's Shoulderguards (T10 Shoulders)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Mail`,
             Back: `<a href="https://www.wowhead.com/wotlk/item=50653/" target="_blank">Shadowvault Slayer's Cloak</a></td>
                 <td>Gunship<br/>(Icecrown Citadel 25H)</td>
                 <td>Back`,
-            Chest: `<a href="https://www.wowhead.com/wotlk/item=51244/" target="_blank">T10 Chest (Sanctified Frost Witch's Chestguard)</a></td>
-                <td>Dalaran</td>
+            Chest: `<a href="https://www.wowhead.com/wotlk/item=51244/" target="_blank">Sanctified Frost Witch's Chestguard (T10 Chest)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Mail`,
             Wrist: `<a href="https://www.wowhead.com/wotlk/item=50655/" target="_blank">Scourge Hunter's Vambraces</a></td>
                 <td>Gunship<br/>(Icecrown Citadel 25H)</td>
@@ -1861,8 +1861,8 @@ const data = {
             Waist: `<a href="https://www.wowhead.com/wotlk/item=50688/" target="_blank">Nerub'ar Stalker's Cord</a></td>
                 <td>Festergut<br/>(Icecrown Citadel 25H)</td>
                 <td>Mail`,
-            Legs: `<a href="https://www.wowhead.com/wotlk/item=51241/" target="_blank">T10 Legs (Sanctified Frost Witch's War-Kilt)</a></td>
-                <td>Dalaran</td>
+            Legs: `<a href="https://www.wowhead.com/wotlk/item=51241/" target="_blank">Sanctified Frost Witch's War-Kilt (T10 Legs)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Mail`,
             Feet: `<a href="https://www.wowhead.com/wotlk/item=54577/" target="_blank">Returning Footfalls</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
@@ -1890,20 +1890,20 @@ const data = {
                 <td>Trinket`,
         },
         "ENHANCEMENT MULTI-TARGET": {
-            Head: `<a href="https://www.wowhead.com/wotlk/item=51242/" target="_blank">T10 Head (Sanctified Frost Witch's Faceguard)</a></td>
-                <td>Dalaran</td>
+            Head: `<a href="https://www.wowhead.com/wotlk/item=51242/" target="_blank">Sanctified Frost Witch's Faceguard (T10 Head)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Mail`,
             Neck: `<a href="https://www.wowhead.com/wotlk/item=51890/" target="_blank">Precious's Putrid Collar</a></td>
                 <td>Festergut<br/>(Icecrown Citadel 10H)</td>
                 <td>Neck`,
-            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51240/" target="_blank">T10 Shoulders (Sanctified Frost Witch's Shoulderguards)</a></td>
-                <td>Dalaran</td>
+            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51240/" target="_blank">Sanctified Frost Witch's Shoulderguards (T10 Shoulders)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Mail`,
             Back: `<a href="https://www.wowhead.com/wotlk/item=50653/" target="_blank">Shadowvault Slayer's Cloak</a></td>
                 <td>Gunship<br/>(Icecrown Citadel 25H)</td>
                 <td>Back`,
-            Chest: `<a href="https://www.wowhead.com/wotlk/item=51244/" target="_blank">T10 Chest (Sanctified Frost Witch's Chestguard)</a></td>
-                <td>Dalaran</td>
+            Chest: `<a href="https://www.wowhead.com/wotlk/item=51244/" target="_blank">Sanctified Frost Witch's Chestguard (T10 Chest)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Mail`,
             Wrist: `<a href="https://www.wowhead.com/wotlk/item=54580/" target="_blank">Umbrage Armbands</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
@@ -1914,8 +1914,8 @@ const data = {
             Waist: `<a href="https://www.wowhead.com/wotlk/item=50688/" target="_blank">Nerub'ar Stalker's Cord</a></td>
                 <td>Festergut<br/>(Icecrown Citadel 25H)</td>
                 <td>Mail`,
-            Legs: `<a href="https://www.wowhead.com/wotlk/item=51241/" target="_blank">T10 Legs (Sanctified Frost Witch's War-Kilt)</a></td>
-                <td>Dalaran</td>
+            Legs: `<a href="https://www.wowhead.com/wotlk/item=51241/" target="_blank">Sanctified Frost Witch's War-Kilt (T10 Legs)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Mail`,
             Feet: `<a href="https://www.wowhead.com/wotlk/item=54577/" target="_blank">Returning Footfalls</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
@@ -1945,26 +1945,26 @@ const data = {
     },
     Warlock: {
         DEMONOLOGY: {
-            Head: `<a href="https://www.wowhead.com/wotlk/item=51231/" target="_blank">T10 Head (Sanctified Dark Coven Hood)</a></td>
-                <td>Dalaran</td>
+            Head: `<a href="https://www.wowhead.com/wotlk/item=51231/" target="_blank">Sanctified Dark Coven Hood (T10 Head)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Cloth`,
             Neck: `<a href="https://www.wowhead.com/wotlk/item=50658/" target="_blank">Amulet of Silent Eulogy</a></td>
                 <td>Gunship<br/>(Icecrown Citadel 25H)</td>
                 <td>Neck`,
-            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51234/" target="_blank">T10 Shoulders (Sanctified Dark Coven Shoulderpads)</a></td>
-                <td>Dalaran</td>
+            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51234/" target="_blank">Sanctified Dark Coven Shoulderpads (T10 Shoulders)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Cloth`,
             Back: `<a href="https://www.wowhead.com/wotlk/item=54583/" target="_blank">Cloak of Burning Dusk</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
                 <td>Back`,
-            Chest: `<a href="https://www.wowhead.com/wotlk/item=51233/" target="_blank">T10 Chest (Sanctified Dark Coven Robe)</a></td>
-                <td>Dalaran</td>
+            Chest: `<a href="https://www.wowhead.com/wotlk/item=51233/" target="_blank">Sanctified Dark Coven Robe (T10 Chest)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Cloth`,
             Wrist: `<a href="https://www.wowhead.com/wotlk/item=54582/" target="_blank">Bracers of Fiery Night</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
                 <td>Colth`,
-            Hands: `<a href="https://www.wowhead.com/wotlk/item=51230/" target="_blank">T10 Hands (Sanctified Dark Coven Gloves)</a></td>
-                <td>Dalaran</td>
+            Hands: `<a href="https://www.wowhead.com/wotlk/item=51230/" target="_blank">Sanctified Dark Coven Gloves (T10 Hands)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Cloth`,
             Waist: `<a href="https://www.wowhead.com/wotlk/item=50613/" target="_blank">Crushing Coldwraith Belt</a></td>
                 <td>Lord Marrowgar<br/>(Icecrown Citadel 25H)</td>
@@ -1998,20 +1998,20 @@ const data = {
                 <td>Wands`,
         },
         DESTRUCTION: {
-            Head: `<a href="https://www.wowhead.com/wotlk/item=51231/" target="_blank">T10 Head (Sanctified Dark Coven Hood)</a></td>
-                <td>Dalaran</td>
+            Head: `<a href="https://www.wowhead.com/wotlk/item=51231/" target="_blank">Sanctified Dark Coven Hood (T10 Head)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Cloth`,
             Neck: `<a href="https://www.wowhead.com/wotlk/item=50658/" target="_blank">Amulet of Silent Eulogy</a></td>
                 <td>Gunship<br/>(Icecrown Citadel 25H)</td>
                 <td>Neck`,
-            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51234/" target="_blank">T10 Shoulders (Sanctified Dark Coven Shoulderpads)</a></td>
-                <td>Dalaran</td>
+            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51234/" target="_blank">Sanctified Dark Coven Shoulderpads (T10 Shoulders)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Cloth`,
             Back: `<a href="https://www.wowhead.com/wotlk/item=54583/" target="_blank">Cloak of Burning Dusk</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
                 <td>Back`,
-            Chest: `<a href="https://www.wowhead.com/wotlk/item=51233/" target="_blank">T10 Chest (Sanctified Dark Coven Robe)</a></td>
-                <td>Dalaran</td>
+            Chest: `<a href="https://www.wowhead.com/wotlk/item=51233/" target="_blank">Sanctified Dark Coven Robe (T10 Chest)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Cloth`,
             Wrist: `<a href="https://www.wowhead.com/wotlk/item=54582/" target="_blank">Bracers of Fiery Night</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
@@ -2022,8 +2022,8 @@ const data = {
             Waist: `<a href="https://www.wowhead.com/wotlk/item=50613/" target="_blank">Crushing Coldwraith Belt</a></td>
                 <td>Lord Marrowgar<br/>(Icecrown Citadel 25H)</td>
                 <td>Colth`,
-            Legs: `<a href="https://www.wowhead.com/wotlk/item=51232/" target="_blank">T10 Legs (Sanctified Dark Coven Leggings)</a></td>
-                <td>Dalaran</td>
+            Legs: `<a href="https://www.wowhead.com/wotlk/item=51232/" target="_blank">Sanctified Dark Coven Leggings (T10 Legs)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Cloth`,
             Feet: `<a href="https://www.wowhead.com/wotlk/item=50699/" target="_blank">Plague Scientist's Boots</a></td>
                 <td>Festergut<br/>(Icecrown Citadel 25H)</td>
@@ -2051,26 +2051,26 @@ const data = {
                 <td>Wands`,
         },
         AFFLICTION: {
-            Head: `<a href="https://www.wowhead.com/wotlk/item=51231/" target="_blank">T10 Head (Sanctified Dark Coven Hood)</a></td>
-                <td>Dalaran</td>
+            Head: `<a href="https://www.wowhead.com/wotlk/item=51231/" target="_blank">Sanctified Dark Coven Hood (T10 Head)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Cloth`,
             Neck: `<a href="https://www.wowhead.com/wotlk/item=50658/" target="_blank">Amulet of Silent Eulogy</a></td>
                 <td>Gunship<br/>(Icecrown Citadel 25H)</td>
                 <td>Neck`,
-            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51234/" target="_blank">T10 Shoulders (Sanctified Dark Coven Shoulderpads)</a></td>
-                <td>Dalaran</td>
+            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51234/" target="_blank">Sanctified Dark Coven Shoulderpads (T10 Shoulders)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Cloth`,
             Back: `<a href="https://www.wowhead.com/wotlk/item=54583/" target="_blank">Cloak of Burning Dusk</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
                 <td>Back`,
-            Chest: `<a href="https://www.wowhead.com/wotlk/item=51233/" target="_blank">T10 Chest (Sanctified Dark Coven Robe)</a></td>
-                <td>Dalaran</td>
+            Chest: `<a href="https://www.wowhead.com/wotlk/item=51233/" target="_blank">Sanctified Dark Coven Robe (T10 Chest)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Cloth`,
             Wrist: `<a href="https://www.wowhead.com/wotlk/item=54582/" target="_blank">Bracers of Fiery Night</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
                 <td>Colth`,
-            Hands: `<a href="https://www.wowhead.com/wotlk/item=51230/" target="_blank">T10 Hands (Sanctified Dark Coven Gloves)</a></td>
-                <td>Dalaran</td>
+            Hands: `<a href="https://www.wowhead.com/wotlk/item=51230/" target="_blank">Sanctified Dark Coven Gloves (T10 Hands)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Cloth`,
             Waist: `<a href="https://www.wowhead.com/wotlk/item=50613/" target="_blank">Crushing Coldwraith Belt</a></td>
                 <td>Lord Marrowgar<br/>(Icecrown Citadel 25H)</td>
@@ -2106,20 +2106,20 @@ const data = {
     },
     Warrior: {
         FURY: {
-            Head: `<a href="https://www.wowhead.com/wotlk/item=51227/" target="_blank">T10 Head (Sanctified Ymirjar Lord's Helmet)</a></td>
-                <td>Dalaran</td>
+            Head: `<a href="https://www.wowhead.com/wotlk/item=51227/" target="_blank">Sanctified Ymirjar Lord's Helmet (T10 Head)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Plate`,
             Neck: `<a href="https://www.wowhead.com/wotlk/item=54581/" target="_blank">Penumbra Pendant</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
                 <td>Neck`,
-            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51229/" target="_blank">T10 Shoulders (Sanctified Ymirjar Lord's Shoulderplates)</a></td>
-                <td>Dalaran</td>
+            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51229/" target="_blank">Sanctified Ymirjar Lord's Shoulderplates (T10 Shoulders)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Plate`,
             Back: `<a href="https://www.wowhead.com/wotlk/item=47546/" target="_blank">Sylvana's Cunning</a></td>
                 <td><a href="https://www.wowhead.com/wotlk/object=195665/" target="_blank">Argent Crusade Tribute Chest</a><br/>(Trial of the Crusader 25H)</td>
                 <td>Back`,
-            Chest: `<a href="https://www.wowhead.com/wotlk/item=51225/" target="_blank">T10 Chest (Sanctified Ymirjar Lord's Battleplate)</a></td>
-                <td>Dalaran</td>
+            Chest: `<a href="https://www.wowhead.com/wotlk/item=51225/" target="_blank">Sanctified Ymirjar Lord's Battleplate (T10 Chest)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Plate`,
             Wrist: [
                 `<a href="https://www.wowhead.com/wotlk/item=54580/" target="_blank">Umbrage Armbands</a></td>
@@ -2132,8 +2132,8 @@ const data = {
             Waist: `<a href="https://www.wowhead.com/wotlk/item=50620/" target="_blank">Coldwraith Links</a></td>
                 <td>Cache of the Dreamwalker<br/>(Icecrown Citadel 25H)</td>
                 <td>Plate`,
-            Legs: `<a href="https://www.wowhead.com/wotlk/item=51228/" target="_blank">T10 Legs (Sanctified Ymirjar Lord's Legplates)</a></td>
-                <td>Dalaran</td>
+            Legs: `<a href="https://www.wowhead.com/wotlk/item=51228/" target="_blank">Sanctified Ymirjar Lord's Legplates (T10 Legs)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Plate`,
             Feet: `<a href="https://www.wowhead.com/wotlk/item=54578/" target="_blank">Apocalypse's Advance</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
@@ -2161,20 +2161,20 @@ const data = {
                 <td>Crossbows`,
         },
         "Fury (No SM)": {
-            Head: `<a href="https://www.wowhead.com/wotlk/item=51227/" target="_blank">T10 Head (Sanctified Ymirjar Lord's Helmet)</a></td>
-                <td>Dalaran</td>
+            Head: `<a href="https://www.wowhead.com/wotlk/item=51227/" target="_blank">Sanctified Ymirjar Lord's Helmet (T10 Head)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Plate`,
             Neck: `<a href="https://www.wowhead.com/wotlk/item=54581/" target="_blank">Penumbra Pendant</a></td>
                 <td>Halion<br/>(The Ruby Sanctum 25H)</td>
                 <td>Neck`,
-            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51229/" target="_blank">T10 Shoulders (Sanctified Ymirjar Lord's Shoulderplates)</a></td>
-                <td>Dalaran</td>
+            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51229/" target="_blank">Sanctified Ymirjar Lord's Shoulderplates (T10 Shoulders)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Plate`,
             Back: `<a href="https://www.wowhead.com/wotlk/item=47546/" target="_blank">Sylvana's Cunning</a></td>
                 <td><a href="https://www.wowhead.com/wotlk/object=195665/" target="_blank">Argent Crusade Tribute Chest</a><br/>(Trial of the Crusader 25H)</td>
                 <td>Back`,
-            Chest: `<a href="https://www.wowhead.com/wotlk/item=51225/" target="_blank">T10 Chest (Sanctified Ymirjar Lord's Battleplate)</a></td>
-                <td>Dalaran</td>
+            Chest: `<a href="https://www.wowhead.com/wotlk/item=51225/" target="_blank">Sanctified Ymirjar Lord's Battleplate (T10 Chest)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Plate`,
             Wrist: [
                 `<a href="https://www.wowhead.com/wotlk/item=54580/" target="_blank">Umbrage Armbands</a></td>
@@ -2184,8 +2184,8 @@ const data = {
                 <td>Deathbringer's Cache<br/>(Icecrown Citadel 25H)</td>
                 <td>Leather`,
             ],
-            Hands: `<a href="https://www.wowhead.com/wotlk/item=51226/" target="_blank">T10 Hands (Sanctified Ymirjar Lord's Gauntlets)</a></td>
-                <td>Dalaran</td>
+            Hands: `<a href="https://www.wowhead.com/wotlk/item=51226/" target="_blank">Sanctified Ymirjar Lord's Gauntlets (T10 Hands)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Plate`,
             Waist: `<a href="https://www.wowhead.com/wotlk/item=50620/" target="_blank">Coldwraith Links</a></td>
                 <td>Cache of the Dreamwalker<br/>(Icecrown Citadel 25H)</td>
@@ -2225,27 +2225,27 @@ const data = {
             Neck: `<a href="https://www.wowhead.com/wotlk/item=50682/" target="_blank">Bile-Encrusted Medallion</a></td>
                 <td>Rotface<br/>(Icecrown Citadel 25H)</td>
                 <td>Neck`,
-            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51224/" target="_blank">T10 Shoulders (Sanctified Ymirjar Lord's Pauldrons)</a></td>
-                <td>Dalaran</td>
+            Shoulders: `<a href="https://www.wowhead.com/wotlk/item=51224/" target="_blank">Sanctified Ymirjar Lord's Pauldrons (T10 Shoulders)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Plate`,
             Back: `<a href="https://www.wowhead.com/wotlk/item=50466/" target="_blank">Sentinel's Winter Cloak</a></td>
                 <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x50</td>
                 <td>Back`,
-            Chest: `<a href="https://www.wowhead.com/wotlk/item=51220/" target="_blank">T10 Chest (Sanctified Ymirjar Lord's Breastplate)</a></td>
-                <td>Dalaran</td>
+            Chest: `<a href="https://www.wowhead.com/wotlk/item=51220/" target="_blank">Sanctified Ymirjar Lord's Breastplate (T10 Chest)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Plate`,
             Wrist: `<a href="https://www.wowhead.com/wotlk/item=51901/" target="_blank">Gargoyle Spit Bracers</a></td>
                 <td>Deathbringer's Cache<br/>(Icecrown Citadel 10H)</td>
                 <td>Plate`,
-            Hands: `<a href="https://www.wowhead.com/wotlk/item=51222/" target="_blank">T10 Hands (Sanctified Ymirjar Lord's Handguards)</a></td>
-                <td>Dalaran</td>
+            Hands: `<a href="https://www.wowhead.com/wotlk/item=51222/" target="_blank">Sanctified Ymirjar Lord's Handguards (T10 Hands)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Plate`,
             Waist: `<a href="https://www.wowhead.com/wotlk/item=50991/" target="_blank">Verdigris Chain Belt</a></td>
                 <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x60</td>
                 <td>Plate`,
             Legs: [
-                `<a href="https://www.wowhead.com/wotlk/item=51223/" target="_blank">T10 Legs (Sanctified Ymirjar Lord's Legguards)</a></td>
-                <td>Dalaran</td>
+                `<a href="https://www.wowhead.com/wotlk/item=51223/" target="_blank">Sanctified Ymirjar Lord's Legguards (T10 Legs)</a></td>
+                <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Plate`,
                 `<a href="https://www.wowhead.com/wotlk/item=49904/" target="_blank">Pillars of Might</a></td>
                 <td>Blacksmithing</td>
