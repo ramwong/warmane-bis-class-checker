@@ -45,3 +45,7 @@ tr {
     color: #F0EBE0 !important;
     transition: all 0.2s ease;
 }
+
+td a {
+    color: #a335ee
+}
