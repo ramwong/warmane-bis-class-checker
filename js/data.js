@@ -644,7 +644,7 @@ const data = {
                 `<a href="https://www.wowhead.com/wotlk/item=50665/" target="_blank">Boots of Unnatural Growth</a></td>
                 <td>Gunship<br/>(Icecrown Citadel 25H)</td>
                 <td>Leather`,
-                `<a href="https://www.wowhead.com/wotlk/item=50699/" target="_blank">Plague Scientist's Boots (If Val'anyr)</a></td>
+                `(If <a style="color: orange;" href="https://www.wowhead.com/wotlk/item=46017/" target="_blank">Val'anyr, Hammer of Ancient Kings</a>)<br/><a href="https://www.wowhead.com/wotlk/item=50699/" target="_blank">Plague Scientist's Boots</a></td>
                 <td>Festergut<br/>(Icecrown Citadel 25H)</td>
                 <td>Cloth`,
             ],
