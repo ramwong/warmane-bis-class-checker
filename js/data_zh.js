@@ -561,7 +561,7 @@ const data_zh = {
             "頸部": `<a href="https://www.wowhead.com/wotlk/cn/item=50724/" target="_blank">血腥女王的赤紅頸飾</a></td>
                 <td>BQL/Queen - 女王 - 血腥女王菈娜薩爾<br/>(ICC - 冰冠城塞 25H)</td>
                 <td>頸部`,
-            "肩部": `<a href="https://www.wowhead.com/wotlk/cn/item=51292/" target="_blank">anctified Lasherweave Mantle (T10 肩部)</a></td>
+            "肩部": `<a href="https://www.wowhead.com/wotlk/cn/item=51292/" target="_blank">沐聖棘織披肩 (T10 肩部)</a></td>
                 <td>達拉然<br/><a href="https://www.wowhead.com/wotlk/cn/currency=341/" target="_blank">冰霜紋章</a> x60</td>
                 <td>皮甲`,
             "背部": `<a href="https://www.wowhead.com/wotlk/cn/item=54583/" target="_blank">燃暮披風</a></td>
@@ -613,7 +613,7 @@ const data_zh = {
                 <td>塑像`,
         },
         "樹(恢復)": {
-            "頭部": `<a href="https://www.wowhead.com/wotlk/cn/item=51302/" target="_blank">anctified Lasherweave Helmet (T10 頭部)</a></td>
+            "頭部": `<a href="https://www.wowhead.com/wotlk/cn/item=51302/" target="_blank">沐聖棘織盔帽 (T10 頭部)</a></td>
                 <td>達拉然<br/><a href="https://www.wowhead.com/wotlk/cn/currency=341/" target="_blank">冰霜紋章</a> x95</td>
                 <td>皮甲`,
             "頸部": `<a href="https://www.wowhead.com/wotlk/cn/item=50609/" target="_blank">骸骨哨兵護符</a></td>
@@ -631,7 +631,7 @@ const data_zh = {
             "手腕": `<a href="https://www.wowhead.com/wotlk/cn/item=54582/" target="_blank">夜火護腕</a></td>
                 <td>Halion - 海萊恩<br/>(晶紅聖所 25H)</td>
                 <td>Colth`,
-            "手": `<a href="https://www.wowhead.com/wotlk/cn/item=51301/" target="_blank">anctified Lasherweave Gauntlets (T10 手)</a></td>
+            "手": `<a href="https://www.wowhead.com/wotlk/cn/item=51301/" target="_blank">沐聖棘織護手 (T10 手)</a></td>
                 <td>達拉然<br/><a href="https://www.wowhead.com/wotlk/cn/currency=341/" target="_blank">冰霜紋章</a> x60</td>
                 <td>皮甲`,
             "腰部": `<a href="https://www.wowhead.com/wotlk/cn/item=50705/" target="_blank">教授的染血工作服</a></td>
