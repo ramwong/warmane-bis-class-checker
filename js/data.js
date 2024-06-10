@@ -1093,7 +1093,7 @@ const data = {
                 <td>Blood-Queen Lana'thel<br/>(Icecrown Citadel 25H)</td>
                 <td>Shield`,
             "Relic/Ranged": [
-                `<a href="https://www.wowhead.com/wotlk/item=45145/" target="_blank">Libram of Sacred Shield</a></td>
+                `<a href="https://www.wowhead.com/wotlk/item=45145/" target="_blank">Libram of the Sacred Shield</a></td>
                 <td>General Vezax (Ulduar 25N)<br/>or<br/>Dalaran <a href="https://www.wowhead.com/wotlk/currency=221/" target="_blank">Emblem of Conquest</a> x19</td>
                 <td>Libram`,
                 `<a href="https://www.wowhead.com/wotlk/item=47661/" target="_blank">Libram of Valiance</a></td>
@@ -1111,7 +1111,7 @@ const data = {
             "Neck": `<a href="https://www.wowhead.com/wotlk/item=50682/" target="_blank">Bile-Encrusted Medallion</a></td>
                 <td>Rotface<br/>(Icecrown Citadel 25H)</td>
                 <td>Neck`,
-            "Shoulders": `<a href="https://www.wowhead.com/wotlk/item=51847/" target="_blank">Libram of Sacred Shield</a></td>
+            "Shoulders": `<a href="https://www.wowhead.com/wotlk/item=51847/" target="_blank">Libram of the Sacred Shield</a></td>
                 <td>Prince Valanar<br/>(Icecrown Citadel 10H)</td>
                 <td>Plate`,
             "Back": `<a href="https://www.wowhead.com/wotlk/item=50466/" target="_blank">Sentinel's Winter Cloak</a></td>
@@ -1153,7 +1153,7 @@ const data = {
             "Offhand/Shield": `<a href="https://www.wowhead.com/wotlk/item=50729/" target="_blank">Icecrown Glacial Wall</a></td>
                 <td>Blood-Queen Lana'thel<br/>(Icecrown Citadel 25H)</td>
                 <td>Shield`,
-            "Relic/Ranged": `<a href="https://www.wowhead.com/wotlk/item=45145/" target="_blank">Libram of Sacred Shield</a></td>
+            "Relic/Ranged": `<a href="https://www.wowhead.com/wotlk/item=45145/" target="_blank">Libram of the Sacred Shield</a></td>
                 <td>General Vezax (Ulduar 25N)<br/>or<br/>Dalaran <a href="https://www.wowhead.com/wotlk/currency=221/" target="_blank">Emblem of Conquest</a> x19</td>
                 <td>Libram`,
         },
@@ -1207,7 +1207,7 @@ const data = {
                 <td>Blood-Queen Lana'thel<br/>(Icecrown Citadel 25H)</td>
                 <td>Shield`,
             "Relic/Ranged": [
-                `<a href="https://www.wowhead.com/wotlk/item=45145/" target="_blank">Libram of Sacred Shield</a></td>
+                `<a href="https://www.wowhead.com/wotlk/item=45145/" target="_blank">Libram of the Sacred Shield</a></td>
                 <td>General Vezax (Ulduar 25N)<br/>or<br/>Dalaran <a href="https://www.wowhead.com/wotlk/currency=221/" target="_blank">Emblem of Conquest</a> x19</td>
                 <td>Libram`,
                 `<a href="https://www.wowhead.com/wotlk/item=50461/" target="_blank">Libram of Eternal Tower</a></td>
