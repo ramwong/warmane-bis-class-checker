@@ -644,7 +644,7 @@ const data_zh = {
                 `<a href="https://www.wowhead.com/wotlk/cn/item=50665/" target="_blank">非自然成長長靴</a></td>
                 <td>GS - 炮艇 - 寒冰皇冠空中艦艇戰<br/>(ICC - 冰冠城塞 25H)</td>
                 <td>皮甲`,
-                `<a href="https://www.wowhead.com/wotlk/cn/item=50699/" target="_blank">科學家鞋 - 瘟疫科學家長靴 (If Val'anyr)</a></td>
+                `(如果用<a style="color: orange;" href="https://www.wowhead.com/wotlk/item=46017/" target="_blank">橙錘 - 瓦蘭尼珥，遠古諸王之錘</a>)<br/><a href="https://www.wowhead.com/wotlk/cn/item=50699/" target="_blank">科學家鞋 - 瘟疫科學家長靴</a></td>
                 <td>Festergut - 膿腸<br/>(ICC - 冰冠城塞 25H)</td>
                 <td>布甲`,
             ],
@@ -1093,7 +1093,7 @@ const data_zh = {
                 <td>BQL/Queen - 女王 - 血腥女王菈娜薩爾<br/>(ICC - 冰冠城塞 25H)</td>
                 <td>盾牌`,
             "遺跡/遠程": [
-                `<a href="https://www.wowhead.com/wotlk/cn/item=45145/" target="_blank">聖契 of Sacred 盾牌</a></td>
+                `<a href="https://www.wowhead.com/wotlk/cn/item=45145/" target="_blank">祟聖護盾聖契</a></td>
                 <td>General Vezax (奧杜亞 25N)<br/>or<br/>達拉然 <a href="https://www.wowhead.com/wotlk/cn/currency=221/" target="_blank">征服紋章</a> x19</td>
                 <td>聖契`,
                 `<a href="https://www.wowhead.com/wotlk/cn/item=47661/" target="_blank">驍勇聖契</a></td>
@@ -1111,7 +1111,7 @@ const data_zh = {
             "頸部": `<a href="https://www.wowhead.com/wotlk/cn/item=50682/" target="_blank">憎恨鑲嵌勳章</a></td>
                 <td>Rotface - 腐臉<br/>(ICC - 冰冠城塞 25H)</td>
                 <td>頸部`,
-            "肩部": `<a href="https://www.wowhead.com/wotlk/cn/item=51847/" target="_blank">聖契 of Sacred 盾牌</a></td>
+            "肩部": `<a href="https://www.wowhead.com/wotlk/cn/item=51847/" target="_blank">祟聖護盾聖契</a></td>
                 <td>BPC - 議會 - 血親王議會<br/>(ICC - 冰冠城塞 10H)</td>
                 <td>鎧甲`,
             "背部": `<a href="https://www.wowhead.com/wotlk/cn/item=50466/" target="_blank">哨兵冬季披風</a></td>
@@ -1153,7 +1153,7 @@ const data_zh = {
             "副手/盾牌": `<a href="https://www.wowhead.com/wotlk/cn/item=50729/" target="_blank">冰冠冰川之牆</a></td>
                 <td>BQL/Queen - 女王 - 血腥女王菈娜薩爾<br/>(ICC - 冰冠城塞 25H)</td>
                 <td>盾牌`,
-            "遺跡/遠程": `<a href="https://www.wowhead.com/wotlk/cn/item=45145/" target="_blank">聖契 of Sacred 盾牌</a></td>
+            "遺跡/遠程": `<a href="https://www.wowhead.com/wotlk/cn/item=45145/" target="_blank">祟聖護盾聖契</a></td>
                 <td>General Vezax (奧杜亞 25N)<br/>or<br/>達拉然 <a href="https://www.wowhead.com/wotlk/cn/currency=221/" target="_blank">征服紋章</a> x19</td>
                 <td>聖契`,
         },
@@ -1207,7 +1207,7 @@ const data_zh = {
                 <td>BQL/Queen - 女王 - 血腥女王菈娜薩爾<br/>(ICC - 冰冠城塞 25H)</td>
                 <td>盾牌`,
             "遺跡/遠程": [
-                `<a href="https://www.wowhead.com/wotlk/cn/item=45145/" target="_blank">聖契 of Sacred 盾牌</a></td>
+                `<a href="https://www.wowhead.com/wotlk/cn/item=45145/" target="_blank">祟聖護盾聖契</a></td>
                 <td>General Vezax (奧杜亞 25N)<br/>or<br/>達拉然 <a href="https://www.wowhead.com/wotlk/cn/currency=221/" target="_blank">征服紋章</a> x19</td>
                 <td>聖契`,
                 `<a href="https://www.wowhead.com/wotlk/cn/item=50461/" target="_blank">永恆之塔聖契</a></td>
@@ -1712,7 +1712,7 @@ const data_zh = {
                 `<a href="https://www.wowhead.com/wotlk/cn/item=50458/" target="_blank">比祖瑞的破碎寒冰圖騰</a></td>
                 <td>達拉然<br/><a href="https://www.wowhead.com/wotlk/cn/currency=341/" target="_blank">冰霜紋章</a> x30</td>
                 <td>圖騰`,
-                `<a href="https://www.wowhead.com/wotlk/cn/item=40267/" target="_blank">圖騰 of Hex</a>`,
+                `<a href="https://www.wowhead.com/wotlk/cn/item=40267/" target="_blank">妖術圖騰</a>`,
             ],
         },
         "元素(加速)": {
