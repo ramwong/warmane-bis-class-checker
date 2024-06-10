@@ -74,8 +74,8 @@ addBisAsKey = (bisSlotName, bisForClasses, classAndSpecName, bisName) => {
   }
 };
 
-const searchValue = "wotlk/";
-let replaceValue = "wotlk/cn/";
+// const searchValue = "wotlk/";
+// let replaceValue = "wotlk/cn/";
 let language = "en";
 
 const makeSortable = () => {
@@ -88,10 +88,10 @@ const languageList = document.getElementById("languages");
 languageList.addEventListener("change", () => {
   language = languageList.value;
   if(language === "en"){
-    replaceValue = "wotlk/"
+    //replaceValue = "wotlk/"
     itemsList = data;
   }else{
-    replaceValue = "wotlk/cn/"
+    //replaceValue = "wotlk/cn/"
     itemsList = data_zh;
   }
   
@@ -135,18 +135,18 @@ rewriteHTMLTable = (data, inputValue) => {
 
         if (typeof bisName === "string") {
           bis = specBisList[bisSlotName];
-          if (language === "cn") {
-            bis = bis.replaceAll(searchValue, replaceValue);
-          }
+          // if (language === "cn") {
+          //   bis = bis.replaceAll(searchValue, replaceValue);
+          // }
           if (bis === "-") {
             return;
           }
           return addBisAsKey(bisSlotName, bisForClasses, classAndSpecName, bis);
         } else {
           return bisName.map((key) => {
-            if (language === "cn") {
-              key = key.replaceAll(searchValue, replaceValue);
-            }
+            // if (language === "cn") {
+            //   key = key.replaceAll(searchValue, replaceValue);
+            // }
             return addBisAsKey(
               bisSlotName,
               bisForClasses,
@@ -292,12 +292,12 @@ getBisListForSpec = (data, firstSelectValue, secondSelectValue) => {
   });
   newTable += `</tr></table>`;
 
-  if (language==="cn"){
-    newTable = newTable.replaceAll(
-        searchValue,
-        replaceValue
-      )
-  }
+  // if (language==="cn"){
+  //   newTable = newTable.replaceAll(
+  //       searchValue,
+  //       replaceValue
+  //     )
+  // }
   itemTable.innerHTML = newTable;
 };
 
