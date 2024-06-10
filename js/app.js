@@ -5,7 +5,7 @@ const searchButton = document.getElementById("startSearch");
 const selectClassList = document.getElementById("classSelect");
 const selectSpecList = document.getElementById("specSelect");
 
-const itemsList = data;
+let itemsList = data;
 const tableClass =
   "table table-dark table-striped text-center table-bordered table-sm";
 
@@ -23,21 +23,39 @@ addOptionToSelectList = (value, selectList) => {
 classColor = (className) => {
   return className.match("Shaman")
     ? "2359FF"
+    : className.match("薩滿")
+    ? "2359FF"
     : className.match("Rogue")
+    ? "FFF468"
+    : className.match("盜賊")
     ? "FFF468"
     : className.match("Hunter")
     ? "AAD372"
+    : className.match("獵人")
+    ? "AAD372"
     : className.match("Priest")
+    ? "F0EBE0"
+    : className.match("牧師")
     ? "F0EBE0"
     : className.match("Warlock")
     ? "9382C9"
+    : className.match("術士")
+    ? "9382C9"
     : className.match("Warrior")
+    ? "C69B6D"
+    : className.match("戰士")
     ? "C69B6D"
     : className.match("Mage")
     ? "68CCEF"
+    : className.match("法師")
+    ? "68CCEF"
     : className.match("Death Knight")
     ? "C41E3B"
+    : className.match("死亡騎士")
+    ? "C41E3B"
     : className.match("Paladin")
+    ? "F48CBA"
+    : className.match("聖騎士")
     ? "F48CBA"
     : "FF7C0A";
 };
@@ -71,9 +89,13 @@ languageList.addEventListener("change", () => {
   language = languageList.value;
   if(language === "en"){
     replaceValue = "wotlk/"
+    itemsList = data;
   }else{
     replaceValue = "wotlk/cn/"
+    itemsList = data_zh;
   }
+  
+  initializeClassSelectList(itemsList);
   //.replaceAll(searchValue,replaceValue)
   if (currentE) {
     changeSelect(currentE);
@@ -136,7 +158,6 @@ rewriteHTMLTable = (data, inputValue) => {
       });
     });
   });
-
   Object.keys(bisForClasses).map((key) => {
     const bisSlotName = bisForClasses[key]["bisSlotName"];
     if (
@@ -159,6 +180,8 @@ rewriteHTMLTable = (data, inputValue) => {
 };
 
 initializeClassSelectList = (data) => {
+  selectClassList.options.length = 1;
+  //addOptionToSelectList("Select a class to get its specs", selectClassList);
   Object.keys(data).map((className) => {
     return addOptionToSelectList(className, selectClassList);
   });
@@ -308,7 +331,7 @@ changeSelect = (e) => {
     searchButton.classList.add("disabled");
 
     rewriteHTMLTable(itemsList, "NoItemSelected");
-    return setSpecListFromSelectedClass(data, e);
+    return setSpecListFromSelectedClass(itemsList, e);
   } else {
     inputItemName.disabled = false;
     inputItemName.classList.remove("disabled");
@@ -317,7 +340,7 @@ changeSelect = (e) => {
     searchButton.disabled = false;
     searchButton.classList.remove("disabled");
 
-    addOptionToSelectList("Select a a spec to get its BiS", selectSpecList);
+    addOptionToSelectList("Select a spec to get its BiS", selectSpecList);
     return rewriteHTMLTable(itemsList, inputItemName.value.toLowerCase());
   }
 };

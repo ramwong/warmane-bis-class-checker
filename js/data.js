@@ -1099,7 +1099,7 @@ const data = {
                 `<a href="https://www.wowhead.com/wotlk/item=47661/" target="_blank">Libram of Valiance</a></td>
                 <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=101/" target="_blank">Emblem of Triumph</a> x25</td>
                 <td>Libram`,
-                `<a href="https://www.wowhead.com/wotlk/item=50461/" target="_blank">Libram of Eternal Tower</a></td>
+                `<a href="https://www.wowhead.com/wotlk/item=50461/" target="_blank">Libram of the Eternal Tower</a></td>
                 <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x35</td>
                 <td>Libram`,
             ],
@@ -1210,7 +1210,7 @@ const data = {
                 `<a href="https://www.wowhead.com/wotlk/item=45145/" target="_blank">Libram of the Sacred Shield</a></td>
                 <td>General Vezax (Ulduar 25N)<br/>or<br/>Dalaran <a href="https://www.wowhead.com/wotlk/currency=221/" target="_blank">Emblem of Conquest</a> x19</td>
                 <td>Libram`,
-                `<a href="https://www.wowhead.com/wotlk/item=50461/" target="_blank">Libram of Eternal Tower</a></td>
+                `<a href="https://www.wowhead.com/wotlk/item=50461/" target="_blank">Libram of the Eternal Tower</a></td>
                 <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x35</td>
                 <td>Libram`,
             ],
@@ -1221,7 +1221,7 @@ const data = {
             "Head": `<a href="https://www.wowhead.com/wotlk/item=51255/" target="_blank">Sanctified Crimson Acolyte Cowl (T10 Head)</a></td>
                 <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Cloth`,
-            "Neck": `<a href="https://www.wowhead.com/wotlk/item=50658/" target="_blank">Amulet of Silent Eulogy</a></td>
+            "Neck": `<a href="https://www.wowhead.com/wotlk/item=50658/" target="_blank">Amulet of the Silent Eulogy</a></td>
                 <td>Gunship<br/>(Icecrown Citadel 25H)</td>
                 <td>Neck`,
             "Shoulders": `<a href="https://www.wowhead.com/wotlk/item=51257/" target="_blank">Sanctified Crimson Acolyte Mantle (T10 Shoulders)</a></td>
@@ -1950,7 +1950,7 @@ const data = {
             "Head": `<a href="https://www.wowhead.com/wotlk/item=51231/" target="_blank">Sanctified Dark Coven Hood (T10 Head)</a></td>
                 <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Cloth`,
-            "Neck": `<a href="https://www.wowhead.com/wotlk/item=50658/" target="_blank">Amulet of Silent Eulogy</a></td>
+            "Neck": `<a href="https://www.wowhead.com/wotlk/item=50658/" target="_blank">Amulet of the Silent Eulogy</a></td>
                 <td>Gunship<br/>(Icecrown Citadel 25H)</td>
                 <td>Neck`,
             "Shoulders": `<a href="https://www.wowhead.com/wotlk/item=51234/" target="_blank">Sanctified Dark Coven Shoulderpads (T10 Shoulders)</a></td>
@@ -2003,7 +2003,7 @@ const data = {
             "Head": `<a href="https://www.wowhead.com/wotlk/item=51231/" target="_blank">Sanctified Dark Coven Hood (T10 Head)</a></td>
                 <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Cloth`,
-            "Neck": `<a href="https://www.wowhead.com/wotlk/item=50658/" target="_blank">Amulet of Silent Eulogy</a></td>
+            "Neck": `<a href="https://www.wowhead.com/wotlk/item=50658/" target="_blank">Amulet of the Silent Eulogy</a></td>
                 <td>Gunship<br/>(Icecrown Citadel 25H)</td>
                 <td>Neck`,
             "Shoulders": `<a href="https://www.wowhead.com/wotlk/item=51234/" target="_blank">Sanctified Dark Coven Shoulderpads (T10 Shoulders)</a></td>
@@ -2056,7 +2056,7 @@ const data = {
             "Head": `<a href="https://www.wowhead.com/wotlk/item=51231/" target="_blank">Sanctified Dark Coven Hood (T10 Head)</a></td>
                 <td>Dalaran<br/><a href="https://www.wowhead.com/wotlk/currency=341/" target="_blank">Emblem of Frost</a> x95</td>
                 <td>Cloth`,
-            "Neck": `<a href="https://www.wowhead.com/wotlk/item=50658/" target="_blank">Amulet of Silent Eulogy</a></td>
+            "Neck": `<a href="https://www.wowhead.com/wotlk/item=50658/" target="_blank">Amulet of the Silent Eulogy</a></td>
                 <td>Gunship<br/>(Icecrown Citadel 25H)</td>
                 <td>Neck`,
             "Shoulders": `<a href="https://www.wowhead.com/wotlk/item=51234/" target="_blank">Sanctified Dark Coven Shoulderpads (T10 Shoulders)</a></td>
