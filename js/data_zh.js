@@ -555,7 +555,7 @@ const data_zh = {
                 <td>塑像`,
         },
         "雞(平衡)": {
-            "頭部": `<a href="https://www.wowhead.com/wotlk/cn/item=暮光徽印/" target="_blank">沐聖棘織頭罩 (T10 頭部)</a></td>
+            "頭部": `<a href="https://www.wowhead.com/wotlk/cn/item=51290/" target="_blank">沐聖棘織頭罩 (T10 頭部)</a></td>
                 <td>達拉然<br/><a href="https://www.wowhead.com/wotlk/cn/currency=341/" target="_blank">冰霜紋章</a> x95</td>
                 <td>皮甲`,
             "頸部": `<a href="https://www.wowhead.com/wotlk/cn/item=50724/" target="_blank">血腥女王的赤紅頸飾</a></td>
