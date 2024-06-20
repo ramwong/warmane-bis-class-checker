@@ -74,7 +74,7 @@ const data_zh = {
                 <td>鎧甲`,
             "手腕": `<a href="https://www.wowhead.com/wotlk/cn/item=50670/" target="_blank">托斯克的極大腕甲</a></td>
                 <td>Deathbringer's Cache<br/>(ICC - 冰冠城塞 25H)</td>
-                <td>Leader`,
+                <td>皮甲`,
             "手": `<a href="https://www.wowhead.com/wotlk/cn/item=50675/" target="_blank">雅卓安娜的保密手套</a></td>
                 <td>Rotface - 腐臉<br/>(ICC - 冰冠城塞 25H)</td>
                 <td>皮甲`,
@@ -572,13 +572,13 @@ const data_zh = {
                 <td>皮甲`,
             "手腕": `<a href="https://www.wowhead.com/wotlk/cn/item=54582/" target="_blank">夜火護腕</a></td>
                 <td>Halion - 海萊恩<br/>(晶紅聖所 25H)</td>
-                <td>Colth`,
+                <td>布甲`,
             "手": `<a href="https://www.wowhead.com/wotlk/cn/item=51291/" target="_blank">沐聖棘織手套 (T10 手)</a></td>
                 <td>達拉然<br/><a href="https://www.wowhead.com/wotlk/cn/currency=341/" target="_blank">冰霜紋章</a> x60</td>
                 <td>皮甲`,
             "腰部": `<a href="https://www.wowhead.com/wotlk/cn/item=50613/" target="_blank">粉碎冰冷怨靈腰帶</a></td>
                 <td>瑪洛嘉領主<br/>(ICC - 冰冠城塞 25H)</td>
-                <td>Colth`,
+                <td>布甲`,
             "腿部": `<a href="https://www.wowhead.com/wotlk/cn/item=51293/" target="_blank">沐聖棘織長褲 (T10 腿部)</a></td>
                 <td>達拉然<br/><a href="https://www.wowhead.com/wotlk/cn/currency=341/" target="_blank">冰霜紋章</a> x95</td>
                 <td>皮甲`,
@@ -607,7 +607,7 @@ const data_zh = {
                 <td>單手錘`,
             "副手/盾牌": `<a href="https://www.wowhead.com/wotlk/cn/item=50719/" target="_blank">絲錘 - 暗影絲錘</a></td>
                 <td>BPC - 議會 - 血親王議會<br/>(ICC - 冰冠城塞 25H)</td>
-                <td>副手物品s`,
+                <td>副手物品`,
             "遺跡/遠程": `<a href="https://www.wowhead.com/wotlk/cn/item=50457/" target="_blank">月蝕塑像</a></td>
                 <td>達拉然<br/><a href="https://www.wowhead.com/wotlk/cn/currency=341/" target="_blank">冰霜紋章</a> x30</td>
                 <td>塑像`,
@@ -630,7 +630,7 @@ const data_zh = {
                 <td>布甲`,
             "手腕": `<a href="https://www.wowhead.com/wotlk/cn/item=54582/" target="_blank">夜火護腕</a></td>
                 <td>Halion - 海萊恩<br/>(晶紅聖所 25H)</td>
-                <td>Colth`,
+                <td>布甲`,
             "手": `<a href="https://www.wowhead.com/wotlk/cn/item=51301/" target="_blank">沐聖棘織護手 (T10 手)</a></td>
                 <td>達拉然<br/><a href="https://www.wowhead.com/wotlk/cn/currency=341/" target="_blank">冰霜紋章</a> x60</td>
                 <td>皮甲`,
@@ -753,13 +753,13 @@ const data_zh = {
                 <td>布甲`,
             "手腕": `<a href="https://www.wowhead.com/wotlk/cn/item=54582/" target="_blank">夜火護腕</a></td>
                 <td>Halion - 海萊恩<br/>(晶紅聖所 25H)</td>
-                <td>Colth`,
+                <td>布甲`,
             "手": `<a href="https://www.wowhead.com/wotlk/cn/item=51280/" target="_blank">沐聖血法手套 (T10 手)</a></td>
                 <td>達拉然<br/><a href="https://www.wowhead.com/wotlk/cn/currency=341/" target="_blank">冰霜紋章</a> x60</td>
                 <td>布甲`,
             "腰部": `<a href="https://www.wowhead.com/wotlk/cn/item=50613/" target="_blank">粉碎冰冷怨靈腰帶</a></td>
                 <td>瑪洛嘉領主<br/>(ICC - 冰冠城塞 25H)</td>
-                <td>Colth`,
+                <td>布甲`,
             "腿部": `<a href="https://www.wowhead.com/wotlk/cn/item=51282/" target="_blank">沐聖血法護腿 (T10 腿部)</a></td>
                 <td>達拉然<br/><a href="https://www.wowhead.com/wotlk/cn/currency=341/" target="_blank">冰霜紋章</a> x95</td>
                 <td>布甲`,
@@ -783,10 +783,10 @@ const data_zh = {
                 <td>單手劍`,
             "副手/盾牌": `<a href="https://www.wowhead.com/wotlk/cn/item=50719/" target="_blank">絲錘 - 暗影絲錘</a></td>
                 <td>BPC - 議會 - 血親王議會<br/>(ICC - 冰冠城塞 25H)</td>
-                <td>副手物品s`,
+                <td>副手物品`,
             "遺跡/遠程": `<a href="https://www.wowhead.com/wotlk/cn/item=50684/" target="_blank">穿屍尖刺</a></td>
                 <td>Rotface - 腐臉<br/>(ICC - 冰冠城塞 25H)</td>
-                <td>魔杖s`,
+                <td>魔杖`,
         },
         "奧術(秘法)": {
             "頭部": `<a href="https://www.wowhead.com/wotlk/cn/item=51281/" target="_blank">沐聖血法兜帽 (T10 頭部)</a></td>
@@ -806,13 +806,13 @@ const data_zh = {
                 <td>布甲`,
             "手腕": `<a href="https://www.wowhead.com/wotlk/cn/item=54582/" target="_blank">夜火護腕</a></td>
                 <td>Halion - 海萊恩<br/>(晶紅聖所 25H)</td>
-                <td>Colth`,
+                <td>布甲`,
             "手": `<a href="https://www.wowhead.com/wotlk/cn/item=51280/" target="_blank">沐聖血法手套 (T10 手)</a></td>
                 <td>達拉然<br/><a href="https://www.wowhead.com/wotlk/cn/currency=341/" target="_blank">冰霜紋章</a> x60</td>
                 <td>布甲`,
             "腰部": `<a href="https://www.wowhead.com/wotlk/cn/item=50613/" target="_blank">粉碎冰冷怨靈腰帶</a></td>
                 <td>瑪洛嘉領主<br/>(ICC - 冰冠城塞 25H)</td>
-                <td>Colth`,
+                <td>布甲`,
             "腿部": `<a href="https://www.wowhead.com/wotlk/cn/item=50694/" target="_blank">瘟疫使者的玷污束褲</a></td>
                 <td>Festergut - 膿腸<br/>(ICC - 冰冠城塞 25H)</td>
                 <td>布甲`,
@@ -836,10 +836,10 @@ const data_zh = {
                 <td>單手劍`,
             "副手/盾牌": `<a href="https://www.wowhead.com/wotlk/cn/item=50719/" target="_blank">絲錘 - 暗影絲錘</a></td>
                 <td>BPC - 議會 - 血親王議會<br/>(ICC - 冰冠城塞 25H)</td>
-                <td>副手物品s`,
+                <td>副手物品`,
             "遺跡/遠程": `<a href="https://www.wowhead.com/wotlk/cn/item=50684/" target="_blank">穿屍尖刺</a></td>
                 <td>Rotface - 腐臉<br/>(ICC - 冰冠城塞 25H)</td>
-                <td>魔杖s`,
+                <td>魔杖`,
         },
     },
     "聖騎士": {
@@ -862,7 +862,7 @@ const data_zh = {
             "手腕": [
                 `<a href="https://www.wowhead.com/wotlk/cn/item=54582/" target="_blank">夜火護腕</a></td>
                 <td>Halion - 海萊恩<br/>(晶紅聖所 25H)</td>
-                <td>Colth`,
+                <td>布甲`,
                 `<a href="https://www.wowhead.com/wotlk/cn/item=54584/" target="_blank">相位移形者護腕</a></td>
                 <td>Halion - 海萊恩<br/>(晶紅聖所 25H)</td>
                 <td>皮甲`,
@@ -1235,13 +1235,13 @@ const data_zh = {
                 <td>布甲`,
             "手腕": `<a href="https://www.wowhead.com/wotlk/cn/item=54582/" target="_blank">夜火護腕</a></td>
                 <td>Halion - 海萊恩<br/>(晶紅聖所 25H)</td>
-                <td>Colth`,
+                <td>布甲`,
             "手": `<a href="https://www.wowhead.com/wotlk/cn/item=50663/" target="_blank">砲艇手 - 砲艇船長的連指手套</a></td>
                 <td>GS - 炮艇 - 寒冰皇冠空中艦艇戰<br/>(ICC - 冰冠城塞 25H)</td>
                 <td>布甲`,
             "腰部": `<a href="https://www.wowhead.com/wotlk/cn/item=50613/" target="_blank">粉碎冰冷怨靈腰帶</a></td>
                 <td>瑪洛嘉領主<br/>(ICC - 冰冠城塞 25H)</td>
-                <td>Colth`,
+                <td>布甲`,
             "腿部": `<a href="https://www.wowhead.com/wotlk/cn/item=51258/" target="_blank">沐聖赤紅侍僧束褲 (T10 腿部)</a></td>
                 <td>達拉然<br/><a href="https://www.wowhead.com/wotlk/cn/currency=341/" target="_blank">冰霜紋章</a> x95</td>
                 <td>布甲`,
@@ -1265,10 +1265,10 @@ const data_zh = {
                 <td>單手錘`,
             "副手/盾牌": `<a href="https://www.wowhead.com/wotlk/cn/item=50719/" target="_blank">絲錘 - 暗影絲錘</a></td>
                 <td>BPC - 議會 - 血親王議會<br/>(ICC - 冰冠城塞 25H)</td>
-                <td>副手物品s`,
+                <td>副手物品`,
             "遺跡/遠程": `<a href="https://www.wowhead.com/wotlk/cn/item=50684/" target="_blank">穿屍尖刺</a></td>
                 <td>Rotface - 腐臉<br/>(ICC - 冰冠城塞 25H)</td>
-                <td>魔杖s`,
+                <td>魔杖`,
         },
         "暗影 - 2": {
             "頭部": `<a href="https://www.wowhead.com/wotlk/cn/item=51255/" target="_blank">沐聖赤紅侍僧風帽 (T10 頭部)</a></td>
@@ -1288,13 +1288,13 @@ const data_zh = {
                 <td>布甲`,
             "手腕": `<a href="https://www.wowhead.com/wotlk/cn/item=54582/" target="_blank">夜火護腕</a></td>
                 <td>Halion - 海萊恩<br/>(晶紅聖所 25H)</td>
-                <td>Colth`,
+                <td>布甲`,
             "手": `<a href="https://www.wowhead.com/wotlk/cn/item=51256/" target="_blank">沐聖赤紅侍僧裹手 (T10 手)</a></td>
                 <td>達拉然<br/><a href="https://www.wowhead.com/wotlk/cn/currency=341/" target="_blank">冰霜紋章</a> x60</td>
                 <td>布甲`,
             "腰部": `<a href="https://www.wowhead.com/wotlk/cn/item=50613/" target="_blank">粉碎冰冷怨靈腰帶</a></td>
                 <td>瑪洛嘉領主<br/>(ICC - 冰冠城塞 25H)</td>
-                <td>Colth`,
+                <td>布甲`,
             "腿部": `<a href="https://www.wowhead.com/wotlk/cn/item=50694/" target="_blank">瘟疫使者的玷污束褲</a></td>
                 <td>Festergut - 膿腸<br/>(ICC - 冰冠城塞 25H)</td>
                 <td>布甲`,
@@ -1318,10 +1318,10 @@ const data_zh = {
                 <td>單手錘`,
             "副手/盾牌": `<a href="https://www.wowhead.com/wotlk/cn/item=50719/" target="_blank">絲錘 - 暗影絲錘</a></td>
                 <td>BPC - 議會 - 血親王議會<br/>(ICC - 冰冠城塞 25H)</td>
-                <td>副手物品s`,
+                <td>副手物品`,
             "遺跡/遠程": `<a href="https://www.wowhead.com/wotlk/cn/item=50684/" target="_blank">穿屍尖刺</a></td>
                 <td>Rotface - 腐臉<br/>(ICC - 冰冠城塞 25H)</td>
-                <td>魔杖s`,
+                <td>魔杖`,
         },
         "戒律": {
             "頭部": `<a href="https://www.wowhead.com/wotlk/cn/item=51261/" target="_blank">沐聖赤紅侍僧兜帽 (T10 頭部)</a></td>
@@ -1341,7 +1341,7 @@ const data_zh = {
                 <td>布甲`,
             "手腕": `<a href="https://www.wowhead.com/wotlk/cn/item=54582/" target="_blank">夜火護腕</a></td>
                 <td>Halion - 海萊恩<br/>(晶紅聖所 25H)</td>
-                <td>Colth`,
+                <td>布甲`,
             "手": `<a href="https://www.wowhead.com/wotlk/cn/item=51260/" target="_blank">沐聖赤紅侍僧手套 (T10 手)</a></td>
                 <td>達拉然<br/><a href="https://www.wowhead.com/wotlk/cn/currency=341/" target="_blank">冰霜紋章</a> x60</td>
                 <td>布甲`,
@@ -1376,10 +1376,10 @@ const data_zh = {
                 <td>單手錘`,
             "副手/盾牌": `<a href="https://www.wowhead.com/wotlk/cn/item=50719/" target="_blank">絲錘 - 暗影絲錘</a></td>
                 <td>BPC - 議會 - 血親王議會<br/>(ICC - 冰冠城塞 25H)</td>
-                <td>副手物品s`,
+                <td>副手物品`,
             "遺跡/遠程": `<a href="https://www.wowhead.com/wotlk/cn/item=50684/" target="_blank">穿屍尖刺</a></td>
                 <td>Rotface - 腐臉<br/>(ICC - 冰冠城塞 25H)</td>
-                <td>魔杖s`,
+                <td>魔杖`,
         },
         "戒律 - 2": {
             "頭部": `<a href="https://www.wowhead.com/wotlk/cn/item=51261/" target="_blank">沐聖赤紅侍僧兜帽 (T10 頭部)</a></td>
@@ -1399,7 +1399,7 @@ const data_zh = {
                 <td>布甲`,
             "手腕": `<a href="https://www.wowhead.com/wotlk/cn/item=54582/" target="_blank">夜火護腕</a></td>
                 <td>Halion - 海萊恩<br/>(晶紅聖所 25H)</td>
-                <td>Colth`,
+                <td>布甲`,
             "手": `<a href="https://www.wowhead.com/wotlk/cn/item=51260/" target="_blank">沐聖赤紅侍僧手套 (T10 手)</a></td>
                 <td>達拉然<br/><a href="https://www.wowhead.com/wotlk/cn/currency=341/" target="_blank">冰霜紋章</a> x60</td>
                 <td>布甲`,
@@ -1429,7 +1429,7 @@ const data_zh = {
                 <td>單手錘`,
             "副手/盾牌": `<a href="https://www.wowhead.com/wotlk/cn/item=50719/" target="_blank">絲錘 - 暗影絲錘</a></td>
                 <td>BPC - 議會 - 血親王議會<br/>(ICC - 冰冠城塞 25H)</td>
-                <td>副手物品s`,
+                <td>副手物品`,
             "遺跡/遠程": `<a href="https://www.wowhead.com/wotlk/cn/item=50631/" target="_blank">夢魘終結</a></td>
                 <td>VDW - 綠龍 - 瓦莉絲瑞雅‧夢行者<br/>(ICC - 冰冠城塞 25H)</td>
                 <td>魔杖`,
@@ -1452,13 +1452,13 @@ const data_zh = {
                 <td>布甲`,
             "手腕": `<a href="https://www.wowhead.com/wotlk/cn/item=54582/" target="_blank">夜火護腕</a></td>
                 <td>Halion - 海萊恩<br/>(晶紅聖所 25H)</td>
-                <td>Colth`,
+                <td>布甲`,
             "手": `<a href="https://www.wowhead.com/wotlk/cn/item=51260/" target="_blank">沐聖赤紅侍僧手套 (T10 手)</a></td>
                 <td>達拉然<br/><a href="https://www.wowhead.com/wotlk/cn/currency=341/" target="_blank">冰霜紋章</a> x60</td>
                 <td>布甲`,
             "腰部": `<a href="https://www.wowhead.com/wotlk/cn/item=50613/" target="_blank">粉碎冰冷怨靈腰帶</a></td>
                 <td>瑪洛嘉領主<br/>(ICC - 冰冠城塞 25H)</td>
-                <td>Colth`,
+                <td>布甲`,
             "腿部": `<a href="https://www.wowhead.com/wotlk/cn/item=51262/" target="_blank">沐聖赤紅侍僧護腿 (T10 腿部)</a></td>
                 <td>達拉然<br/><a href="https://www.wowhead.com/wotlk/cn/currency=341/" target="_blank">冰霜紋章</a> x95</td>
                 <td>布甲`,
@@ -1490,7 +1490,7 @@ const data_zh = {
                 <td>副手物品`,
             "遺跡/遠程": `<a href="https://www.wowhead.com/wotlk/cn/item=50684/" target="_blank">穿屍尖刺</a></td>
                 <td>Rotface - 腐臉<br/>(ICC - 冰冠城塞 25H)</td>
-                <td>魔杖s`,
+                <td>魔杖`,
         },
     },
     "盜賊": {
@@ -1677,7 +1677,7 @@ const data_zh = {
                 <td>鎖甲`,
             "手腕": `<a href="https://www.wowhead.com/wotlk/cn/item=54582/" target="_blank">夜火護腕</a></td>
                 <td>Halion - 海萊恩<br/>(晶紅聖所 25H)</td>
-                <td>Colth`,
+                <td>布甲`,
             "手": `<a href="https://www.wowhead.com/wotlk/cn/item=51238/" target="_blank">沐聖冰霜女巫手套 (T10 手)</a></td>
                 <td>達拉然<br/><a href="https://www.wowhead.com/wotlk/cn/currency=341/" target="_blank">冰霜紋章</a> x60</td>
                 <td>鎖甲`,
@@ -1733,7 +1733,7 @@ const data_zh = {
                 <td>鎖甲`,
             "手腕": `<a href="https://www.wowhead.com/wotlk/cn/item=54582/" target="_blank">夜火護腕</a></td>
                 <td>Halion - 海萊恩<br/>(晶紅聖所 25H)</td>
-                <td>Colth`,
+                <td>布甲`,
             "手": `<a href="https://www.wowhead.com/wotlk/cn/item=51238/" target="_blank">沐聖冰霜女巫手套 (T10 手)</a></td>
                 <td>達拉然<br/><a href="https://www.wowhead.com/wotlk/cn/currency=341/" target="_blank">冰霜紋章</a> x60</td>
                 <td>鎖甲`,
@@ -1787,7 +1787,7 @@ const data_zh = {
             "手腕": [
                 `<a href="https://www.wowhead.com/wotlk/cn/item=54582/" target="_blank">夜火護腕</a></td>
                 <td>Halion - 海萊恩<br/>(晶紅聖所 25H)</td>
-                <td>Colth`,
+                <td>布甲`,
                 `<a href="https://www.wowhead.com/wotlk/cn/item=54584/" target="_blank">相位移形者護腕</a></td>
                 <td>Halion - 海萊恩<br/>(晶紅聖所 25H)</td>
                 <td>皮甲`,
@@ -1962,13 +1962,13 @@ const data_zh = {
                 <td>布甲`,
             "手腕": `<a href="https://www.wowhead.com/wotlk/cn/item=54582/" target="_blank">夜火護腕</a></td>
                 <td>Halion - 海萊恩<br/>(晶紅聖所 25H)</td>
-                <td>Colth`,
+                <td>布甲`,
             "手": `<a href="https://www.wowhead.com/wotlk/cn/item=51230/" target="_blank">沐聖黑暗巫會手套 (T10 手)</a></td>
                 <td>達拉然<br/><a href="https://www.wowhead.com/wotlk/cn/currency=341/" target="_blank">冰霜紋章</a> x60</td>
                 <td>布甲`,
             "腰部": `<a href="https://www.wowhead.com/wotlk/cn/item=50613/" target="_blank">粉碎冰冷怨靈腰帶</a></td>
                 <td>瑪洛嘉領主<br/>(ICC - 冰冠城塞 25H)</td>
-                <td>Colth`,
+                <td>布甲`,
             "腿部": `<a href="https://www.wowhead.com/wotlk/cn/item=50694/" target="_blank">瘟疫使者的玷污束褲</a></td>
                 <td>Festergut - 膿腸<br/>(ICC - 冰冠城塞 25H)</td>
                 <td>布甲`,
@@ -1992,10 +1992,10 @@ const data_zh = {
                 <td>單手劍`,
             "副手/盾牌": `<a href="https://www.wowhead.com/wotlk/cn/item=50719/" target="_blank">絲錘 - 暗影絲錘</a></td>
                 <td>BPC - 議會 - 血親王議會<br/>(ICC - 冰冠城塞 25H)</td>
-                <td>副手物品s`,
+                <td>副手物品`,
             "遺跡/遠程": `<a href="https://www.wowhead.com/wotlk/cn/item=50684/" target="_blank">穿屍尖刺</a></td>
                 <td>Rotface - 腐臉<br/>(ICC - 冰冠城塞 25H)</td>
-                <td>魔杖s`,
+                <td>魔杖`,
         },
         "毀滅": {
             "頭部": `<a href="https://www.wowhead.com/wotlk/cn/item=51231/" target="_blank">沐聖黑暗巫會兜帽 (T10 頭部)</a></td>
@@ -2015,13 +2015,13 @@ const data_zh = {
                 <td>布甲`,
             "手腕": `<a href="https://www.wowhead.com/wotlk/cn/item=54582/" target="_blank">夜火護腕</a></td>
                 <td>Halion - 海萊恩<br/>(晶紅聖所 25H)</td>
-                <td>Colth`,
+                <td>布甲`,
             "手": `<a href="https://www.wowhead.com/wotlk/cn/item=50663/" target="_blank">砲艇手 - 砲艇船長的連指手套</a></td>
                 <td>GS - 炮艇 - 寒冰皇冠空中艦艇戰<br/>(ICC - 冰冠城塞 25H)</td>
                 <td>布甲`,
             "腰部": `<a href="https://www.wowhead.com/wotlk/cn/item=50613/" target="_blank">粉碎冰冷怨靈腰帶</a></td>
                 <td>瑪洛嘉領主<br/>(ICC - 冰冠城塞 25H)</td>
-                <td>Colth`,
+                <td>布甲`,
             "腿部": `<a href="https://www.wowhead.com/wotlk/cn/item=51232/" target="_blank">沐聖黑暗巫會護腿 (T10 腿部)</a></td>
                 <td>達拉然<br/><a href="https://www.wowhead.com/wotlk/cn/currency=341/" target="_blank">冰霜紋章</a> x95</td>
                 <td>布甲`,
@@ -2045,10 +2045,10 @@ const data_zh = {
                 <td>單手劍`,
             "副手/盾牌": `<a href="https://www.wowhead.com/wotlk/cn/item=50719/" target="_blank">絲錘 - 暗影絲錘</a></td>
                 <td>BPC - 議會 - 血親王議會<br/>(ICC - 冰冠城塞 25H)</td>
-                <td>副手物品s`,
+                <td>副手物品`,
             "遺跡/遠程": `<a href="https://www.wowhead.com/wotlk/cn/item=50684/" target="_blank">穿屍尖刺</a></td>
                 <td>Rotface - 腐臉<br/>(ICC - 冰冠城塞 25H)</td>
-                <td>魔杖s`,
+                <td>魔杖`,
         },
         "痛苦": {
             "頭部": `<a href="https://www.wowhead.com/wotlk/cn/item=51231/" target="_blank">沐聖黑暗巫會兜帽 (T10 頭部)</a></td>
@@ -2068,13 +2068,13 @@ const data_zh = {
                 <td>布甲`,
             "手腕": `<a href="https://www.wowhead.com/wotlk/cn/item=54582/" target="_blank">夜火護腕</a></td>
                 <td>Halion - 海萊恩<br/>(晶紅聖所 25H)</td>
-                <td>Colth`,
+                <td>布甲`,
             "手": `<a href="https://www.wowhead.com/wotlk/cn/item=51230/" target="_blank">沐聖黑暗巫會手套 (T10 手)</a></td>
                 <td>達拉然<br/><a href="https://www.wowhead.com/wotlk/cn/currency=341/" target="_blank">冰霜紋章</a> x60</td>
                 <td>布甲`,
             "腰部": `<a href="https://www.wowhead.com/wotlk/cn/item=50613/" target="_blank">粉碎冰冷怨靈腰帶</a></td>
                 <td>瑪洛嘉領主<br/>(ICC - 冰冠城塞 25H)</td>
-                <td>Colth`,
+                <td>布甲`,
             "腿部": `<a href="https://www.wowhead.com/wotlk/cn/item=50694/" target="_blank">瘟疫使者的玷污束褲</a></td>
                 <td>Festergut - 膿腸<br/>(ICC - 冰冠城塞 25H)</td>
                 <td>布甲`,
@@ -2098,10 +2098,10 @@ const data_zh = {
                 <td>單手劍`,
             "副手/盾牌": `<a href="https://www.wowhead.com/wotlk/cn/item=50719/" target="_blank">絲錘 - 暗影絲錘</a></td>
                 <td>BPC - 議會 - 血親王議會<br/>(ICC - 冰冠城塞 25H)</td>
-                <td>副手物品s`,
+                <td>副手物品`,
             "遺跡/遠程": `<a href="https://www.wowhead.com/wotlk/cn/item=50684/" target="_blank">穿屍尖刺</a></td>
                 <td>Rotface - 腐臉<br/>(ICC - 冰冠城塞 25H)</td>
-                <td>魔杖s`,
+                <td>魔杖`,
         },
     },
     "戰士": {
