@@ -1712,7 +1712,9 @@ const data_zh = {
                 `<a href="https://www.wowhead.com/wotlk/cn/item=50458/" target="_blank">比祖瑞的破碎寒冰圖騰</a></td>
                 <td>達拉然<br/><a href="https://www.wowhead.com/wotlk/cn/currency=341/" target="_blank">冰霜紋章</a> x30</td>
                 <td>圖騰`,
-                `<a href="https://www.wowhead.com/wotlk/cn/item=40267/" target="_blank">妖術圖騰</a>`,
+                `<a href="https://www.wowhead.com/wotlk/cn/item=40267/" target="_blank">妖術圖騰</a></td>
+                <td>縫補者 (納克薩瑪斯 25)<br/>or<br/>達拉然<br/><a href="https://www.wowhead.com/wotlk/cn/currency=102/" target="_blank">勇氣紋章</a> x30</td>
+                <td>圖騰`,
             ],
         },
         "元素(加速)": {
